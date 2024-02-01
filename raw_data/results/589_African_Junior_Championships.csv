@@ -1,0 +1,187 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,AMAN ALLAH Brini,TUN,"Jan 01, 2007",54.60,A,72,76,81,81,55kgMen,Snatch,589,False
+2,MOHAMED ISLAM Tewarry,ALG,"Jan 01, 2008",54.50,A,76,80,-82,80,55kgMen,Snatch,589,False
+1,MOHAMED ISLAM Tewarry,ALG,"Jan 01, 2008",54.50,A,100,103,106,106,55kgMen,CleanJerk,589,False
+2,AMAN ALLAH Brini,TUN,"Jan 01, 2007",54.60,A,101,-106,-107,101,55kgMen,CleanJerk,589,False
+1,MOHAMED ISLAM Tewarry,ALG,"Jan 01, 2008",54.50,A,80,106,186,---,55kgMen,Total,589,False
+2,AMAN ALLAH Brini,TUN,"Jan 01, 2007",54.60,A,81,101,182,---,55kgMen,Total,589,False
+1,ELARABY Elsayed Aly Elsayed Attia,EGY,"Jan 02, 2006",59.70,A,107,113,-116,113,61kgMen,Snatch,589,False
+2,BASHER Khowaydam,ALG,"Jan 01, 2003",60.80,A,-90,-90,92,92,61kgMen,Snatch,589,False
+3,SHALABI Kamal,LBA,"Jan 01, 2006",60.10,A,87,91,-94,91,61kgMen,Snatch,589,False
+4,DONFACK NGABAN Alex Stephen,CMR,"Jan 01, 2005",60.90,A,81,86,-90,86,61kgMen,Snatch,589,False
+5,HLABATHE Thapelo,RSA,"Jan 01, 2005",60.90,A,83,86,-90,86,61kgMen,Snatch,589,False
+1,ELARABY Elsayed Aly Elsayed Attia,EGY,"Jan 02, 2006",59.70,A,140,145,148,148,61kgMen,CleanJerk,589,False
+2,SHALABI Kamal,LBA,"Jan 01, 2006",60.10,A,105,112,118,118,61kgMen,CleanJerk,589,False
+3,DONFACK NGABAN Alex Stephen,CMR,"Jan 01, 2005",60.90,A,-110,110,117,117,61kgMen,CleanJerk,589,False
+4,BASHER Khowaydam,ALG,"Jan 01, 2003",60.80,A,110,115,-120,115,61kgMen,CleanJerk,589,False
+5,HLABATHE Thapelo,RSA,"Jan 01, 2005",60.90,A,100,107,115,115,61kgMen,CleanJerk,589,False
+1,ELARABY Elsayed Aly Elsayed Attia,EGY,"Jan 02, 2006",59.70,A,113,148,261,---,61kgMen,Total,589,False
+2,SHALABI Kamal,LBA,"Jan 01, 2006",60.10,A,91,118,209,---,61kgMen,Total,589,False
+3,BASHER Khowaydam,ALG,"Jan 01, 2003",60.80,A,92,115,207,---,61kgMen,Total,589,False
+4,DONFACK NGABAN Alex Stephen,CMR,"Jan 01, 2005",60.90,A,86,117,203,---,61kgMen,Total,589,False
+5,HLABATHE Thapelo,RSA,"Jan 01, 2005",60.90,A,86,115,201,---,61kgMen,Total,589,False
+1,CHEKHCHOUKH Akram,ALG,"Jul 10, 2004",66.35,A,-120,120,-127,120,67kgMen,Snatch,589,False
+2,SHALABI Mohamed,LBA,"Jan 01, 2005",66.55,A,104,108,-114,108,67kgMen,Snatch,589,False
+3,KHALED SOUHAIL Okcini,ALG,"Jan 01, 2006",66.80,A,90,-95,95,95,67kgMen,Snatch,589,False
+4,ALBAOUR Abdulmalik,LBA,"Jan 01, 2007",66.55,A,87,92,-95,92,67kgMen,Snatch,589,False
+5,MAKHANYA Mokhethi,LES,"Jan 01, 2005",63.30,A,60,66,72,72,67kgMen,Snatch,589,False
+1,CHEKHCHOUKH Akram,ALG,"Jul 10, 2004",66.35,A,150,-156,156,156,67kgMen,CleanJerk,589,False
+2,SHALABI Mohamed,LBA,"Jan 01, 2005",66.55,A,129,135,-145,135,67kgMen,CleanJerk,589,False
+3,KHALED SOUHAIL Okcini,ALG,"Jan 01, 2006",66.80,A,115,-120,-121,115,67kgMen,CleanJerk,589,False
+4,ALBAOUR Abdulmalik,LBA,"Jan 01, 2007",66.55,A,106,112,-117,112,67kgMen,CleanJerk,589,False
+5,MAKHANYA Mokhethi,LES,"Jan 01, 2005",63.30,A,80,84,-90,84,67kgMen,CleanJerk,589,False
+1,CHEKHCHOUKH Akram,ALG,"Jul 10, 2004",66.35,A,120,156,276,---,67kgMen,Total,589,False
+2,SHALABI Mohamed,LBA,"Jan 01, 2005",66.55,A,108,135,243,---,67kgMen,Total,589,False
+3,KHALED SOUHAIL Okcini,ALG,"Jan 01, 2006",66.80,A,95,115,210,---,67kgMen,Total,589,False
+4,ALBAOUR Abdulmalik,LBA,"Jan 01, 2007",66.55,A,92,112,204,---,67kgMen,Total,589,False
+5,MAKHANYA Mokhethi,LES,"Jan 01, 2005",63.30,A,72,84,156,---,67kgMen,Total,589,False
+1,MEKNACI Mohamed,ALG,"Jan 13, 2003",71.45,A,127,131,134,134,73kgMen,Snatch,589,False
+2,ABDELBARI Helmi Abdelbari Helmi,EGY,"Dec 20, 2004",70.50,A,115,128,-131,128,73kgMen,Snatch,589,False
+3,MASOUD Mohamed Sameer,LBA,"Aug 09, 2004",71.00,B,120,126,-130,126,73kgMen,Snatch,589,False
+4,ALZINTANI Mohammed,LBA,"Jan 01, 2005",71.45,A,-125,126,-132,126,73kgMen,Snatch,589,False
+5,ABDELHAMID Ouhsine,ALG,"Jan 01, 2008",71.90,B,100,106,-111,106,73kgMen,Snatch,589,False
+6,MBIADOUM NJANDA Brice Wilfrid,CMR,"Jan 01, 2003",72.00,B,101,-107,-107,101,73kgMen,Snatch,589,False
+7,TSATA KUEGOU Emma Shearer,CMR,"Jan 01, 2003",71.00,B,101,-106,-108,101,73kgMen,Snatch,589,False
+8,OJWANG Washington,KEN,"Jan 01, 2004",71.70,B,-85,-85,85,85,73kgMen,Snatch,589,False
+1,ABDELBARI Helmi Abdelbari Helmi,EGY,"Dec 20, 2004",70.50,A,153,158,161,161,73kgMen,CleanJerk,589,False
+2,ALZINTANI Mohammed,LBA,"Jan 01, 2005",71.45,A,151,157,160,160,73kgMen,CleanJerk,589,False
+3,MEKNACI Mohamed,ALG,"Jan 13, 2003",71.45,A,151,156,-161,156,73kgMen,CleanJerk,589,False
+4,MASOUD Mohamed Sameer,LBA,"Aug 09, 2004",71.00,B,-144,144,150,150,73kgMen,CleanJerk,589,False
+5,TSATA KUEGOU Emma Shearer,CMR,"Jan 01, 2003",71.00,B,131,140,-145,140,73kgMen,CleanJerk,589,False
+6,MBIADOUM NJANDA Brice Wilfrid,CMR,"Jan 01, 2003",72.00,B,131,-137,137,137,73kgMen,CleanJerk,589,False
+7,ABDELHAMID Ouhsine,ALG,"Jan 01, 2008",71.90,B,120,-130,-130,120,73kgMen,CleanJerk,589,False
+8,OJWANG Washington,KEN,"Jan 01, 2004",71.70,B,105,-110,-110,105,73kgMen,CleanJerk,589,False
+1,MEKNACI Mohamed,ALG,"Jan 13, 2003",71.45,A,134,156,290,---,73kgMen,Total,589,False
+2,ABDELBARI Helmi Abdelbari Helmi,EGY,"Dec 20, 2004",70.50,A,128,161,289,---,73kgMen,Total,589,False
+3,ALZINTANI Mohammed,LBA,"Jan 01, 2005",71.45,A,126,160,286,---,73kgMen,Total,589,False
+4,MASOUD Mohamed Sameer,LBA,"Aug 09, 2004",71.00,B,126,150,276,---,73kgMen,Total,589,False
+5,TSATA KUEGOU Emma Shearer,CMR,"Jan 01, 2003",71.00,B,101,140,241,---,73kgMen,Total,589,False
+6,MBIADOUM NJANDA Brice Wilfrid,CMR,"Jan 01, 2003",72.00,B,101,137,238,---,73kgMen,Total,589,False
+7,ABDELHAMID Ouhsine,ALG,"Jan 01, 2008",71.90,B,106,120,226,---,73kgMen,Total,589,False
+8,OJWANG Washington,KEN,"Jan 01, 2004",71.70,B,85,105,190,---,73kgMen,Total,589,False
+1,MOHAMED Mohamed Abdelmoneim Sayed F,EGY,"Nov 05, 2003",79.90,A,-140,145,150,150,81kgMen,Snatch,589,False
+2,MESSAOUR Mohamed Elamine,ALG,"Mar 24, 2004",80.40,A,138,-142,-146,138,81kgMen,Snatch,589,False
+3,NGOUANOM NZALI Jeremie Junior,CMR,"Jul 21, 2004",80.70,A,-125,125,-132,125,81kgMen,Snatch,589,False
+4,BELHOUT Abderrahmane,ALG,"Jan 01, 2006",79.50,A,105,-112,-115,105,81kgMen,Snatch,589,False
+5,PARIANEN Ryan Hans,MRI,"Jan 01, 2005",75.45,A,80,90,-95,90,81kgMen,Snatch,589,False
+1,MOHAMED Mohamed Abdelmoneim Sayed F,EGY,"Nov 05, 2003",79.90,A,170,---,---,170,81kgMen,CleanJerk,589,False
+2,MESSAOUR Mohamed Elamine,ALG,"Mar 24, 2004",80.40,A,150,160,-165,160,81kgMen,CleanJerk,589,False
+3,NGOUANOM NZALI Jeremie Junior,CMR,"Jul 21, 2004",80.70,A,155,-161,-161,155,81kgMen,CleanJerk,589,False
+4,BELHOUT Abderrahmane,ALG,"Jan 01, 2006",79.50,A,130,138,-143,138,81kgMen,CleanJerk,589,False
+5,PARIANEN Ryan Hans,MRI,"Jan 01, 2005",75.45,A,105,-110,110,110,81kgMen,CleanJerk,589,False
+1,MOHAMED Mohamed Abdelmoneim Sayed F,EGY,"Nov 05, 2003",79.90,A,150,170,320,---,81kgMen,Total,589,False
+2,MESSAOUR Mohamed Elamine,ALG,"Mar 24, 2004",80.40,A,138,160,298,---,81kgMen,Total,589,False
+3,NGOUANOM NZALI Jeremie Junior,CMR,"Jul 21, 2004",80.70,A,125,155,280,---,81kgMen,Total,589,False
+4,BELHOUT Abderrahmane,ALG,"Jan 01, 2006",79.50,A,105,138,243,---,81kgMen,Total,589,False
+5,PARIANEN Ryan Hans,MRI,"Jan 01, 2005",75.45,A,90,110,200,---,81kgMen,Total,589,False
+1,AHMED Mazen Sherif Abdelkader A S,EGY,"Nov 04, 2004",83.00,A,140,145,-150,145,89kgMen,Snatch,589,False
+2,SOKOUDJOU SINETANG Roger Brest,CMR,"Oct 07, 2005",81.50,A,120,125,-131,125,89kgMen,Snatch,589,False
+3,BEN SALEM Aymen,ALG,"Jan 01, 2003",86.20,A,-120,-121,121,121,89kgMen,Snatch,589,False
+4,SHALABI Zakariya,LBA,"Jan 01, 2005",84.10,A,110,-117,-117,110,89kgMen,Snatch,589,False
+5,PAMA Vince Yannick,MRI,"Jan 01, 2006",82.10,A,80,90,-94,90,89kgMen,Snatch,589,False
+1,AHMED Mazen Sherif Abdelkader A S,EGY,"Nov 04, 2004",83.00,A,170,-180,180,180,89kgMen,CleanJerk,589,False
+2,SOKOUDJOU SINETANG Roger Brest,CMR,"Oct 07, 2005",81.50,A,146,151,156,156,89kgMen,CleanJerk,589,False
+3,BEN SALEM Aymen,ALG,"Jan 01, 2003",86.20,A,140,145,150,150,89kgMen,CleanJerk,589,False
+4,SHALABI Zakariya,LBA,"Jan 01, 2005",84.10,A,140,-147,149,149,89kgMen,CleanJerk,589,False
+5,PAMA Vince Yannick,MRI,"Jan 01, 2006",82.10,A,100,113,118,118,89kgMen,CleanJerk,589,False
+1,AHMED Mazen Sherif Abdelkader A S,EGY,"Nov 04, 2004",83.00,A,145,180,325,---,89kgMen,Total,589,False
+2,SOKOUDJOU SINETANG Roger Brest,CMR,"Oct 07, 2005",81.50,A,125,156,281,---,89kgMen,Total,589,False
+3,BEN SALEM Aymen,ALG,"Jan 01, 2003",86.20,A,121,150,271,---,89kgMen,Total,589,False
+4,SHALABI Zakariya,LBA,"Jan 01, 2005",84.10,A,110,149,259,---,89kgMen,Total,589,False
+5,PAMA Vince Yannick,MRI,"Jan 01, 2006",82.10,A,90,118,208,---,89kgMen,Total,589,False
+1,HELAL Said Helal Abdelfattah Sayed,EGY,"May 26, 2004",85.55,A,145,150,155,155,96kgMen,Snatch,589,False
+2,AUGUSTINE Nigel Terence,MRI,"Jan 01, 2003",91.00,A,115,121,125,125,96kgMen,Snatch,589,False
+3,ABDUL Kazidi,CMR,"Jun 20, 2006",95.95,A,110,117,122,122,96kgMen,Snatch,589,False
+4,FARKALA Tawfik,ALG,"Jan 01, 2004",94.90,A,120,-125,-126,120,96kgMen,Snatch,589,False
+5,MASIMIR Mohamed,LBA,"Jan 01, 2006",92.10,A,80,90,95,95,96kgMen,Snatch,589,False
+1,HELAL Said Helal Abdelfattah Sayed,EGY,"May 26, 2004",85.55,A,171,180,---,180,96kgMen,CleanJerk,589,False
+2,AUGUSTINE Nigel Terence,MRI,"Jan 01, 2003",91.00,A,146,151,156,156,96kgMen,CleanJerk,589,False
+3,FARKALA Tawfik,ALG,"Jan 01, 2004",94.90,A,145,150,155,155,96kgMen,CleanJerk,589,False
+4,ABDUL Kazidi,CMR,"Jun 20, 2006",95.95,A,140,147,-152,147,96kgMen,CleanJerk,589,False
+5,MASIMIR Mohamed,LBA,"Jan 01, 2006",92.10,A,100,110,-115,110,96kgMen,CleanJerk,589,False
+1,HELAL Said Helal Abdelfattah Sayed,EGY,"May 26, 2004",85.55,A,155,180,335,---,96kgMen,Total,589,False
+2,AUGUSTINE Nigel Terence,MRI,"Jan 01, 2003",91.00,A,125,156,281,---,96kgMen,Total,589,False
+3,FARKALA Tawfik,ALG,"Jan 01, 2004",94.90,A,120,155,275,---,96kgMen,Total,589,False
+4,ABDUL Kazidi,CMR,"Jun 20, 2006",95.95,A,122,147,269,---,96kgMen,Total,589,False
+5,MASIMIR Mohamed,LBA,"Jan 01, 2006",92.10,A,95,110,205,---,96kgMen,Total,589,False
+1,ALBAOUR Hisham,LBA,"Jan 01, 2006",97.55,A,85,91,100,100,102kgMen,Snatch,589,False
+1,ALBAOUR Hisham,LBA,"Jan 01, 2006",97.55,A,115,125,130,130,102kgMen,CleanJerk,589,False
+1,ALBAOUR Hisham,LBA,"Jan 01, 2006",97.55,A,100,130,230,---,102kgMen,Total,589,False
+1,BEN SASI Mustafa,LBA,"Jan 01, 2005",102.95,A,-90,90,95,95,109kgMen,Snatch,589,False
+1,BEN SASI Mustafa,LBA,"Jan 01, 2005",102.95,A,115,120,125,125,109kgMen,CleanJerk,589,False
+1,BEN SASI Mustafa,LBA,"Jan 01, 2005",102.95,A,95,125,220,---,109kgMen,Total,589,False
+1,ALMALKI Nasruldeen,LBA,"Jan 01, 2004",109.85,A,100,112,-117,112,+109kgMen,Snatch,589,False
+2,TUMUKUNDE Daniel,UGA,"Jan 01, 2007",135.15,A,85,90,100,100,+109kgMen,Snatch,589,False
+1,ALMALKI Nasruldeen,LBA,"Jan 01, 2004",109.85,A,120,-130,134,134,+109kgMen,CleanJerk,589,False
+2,TUMUKUNDE Daniel,UGA,"Jan 01, 2007",135.15,A,110,120,-130,120,+109kgMen,CleanJerk,589,False
+1,ALMALKI Nasruldeen,LBA,"Jan 01, 2004",109.85,A,112,134,246,---,+109kgMen,Total,589,False
+2,TUMUKUNDE Daniel,UGA,"Jan 01, 2007",135.15,A,100,120,220,---,+109kgMen,Total,589,False
+1,ABDELFATTAH Habiba Saad Madih,EGY,"Aug 30, 2007",48.30,A,68,71,74,74,49kgWomen,Snatch,589,False
+2,ELTANTAWY Nedal Mohamed Ali Ibrahim,EGY,"Sep 14, 2005",49.00,A,60,64,66,66,49kgWomen,Snatch,589,False
+3,DRESS Enass,ALG,"Jan 01, 2008",49.00,A,50,-55,55,55,49kgWomen,Snatch,589,False
+4,BADAOUI Camelia,ALG,"Jan 01, 2003",49.00,A,-50,50,-55,50,49kgWomen,Snatch,589,False
+1,ELTANTAWY Nedal Mohamed Ali Ibrahim,EGY,"Sep 14, 2005",49.00,A,80,86,88,88,49kgWomen,CleanJerk,589,False
+2,ABDELFATTAH Habiba Saad Madih,EGY,"Aug 30, 2007",48.30,A,76,81,-84,81,49kgWomen,CleanJerk,589,False
+3,DRESS Enass,ALG,"Jan 01, 2008",49.00,A,60,65,67,67,49kgWomen,CleanJerk,589,False
+4,BADAOUI Camelia,ALG,"Jan 01, 2003",49.00,A,60,65,-67,65,49kgWomen,CleanJerk,589,False
+1,ABDELFATTAH Habiba Saad Madih,EGY,"Aug 30, 2007",48.30,A,74,81,155,---,49kgWomen,Total,589,False
+2,ELTANTAWY Nedal Mohamed Ali Ibrahim,EGY,"Sep 14, 2005",49.00,A,66,88,154,---,49kgWomen,Total,589,False
+3,DRESS Enass,ALG,"Jan 01, 2008",49.00,A,55,67,122,---,49kgWomen,Total,589,False
+4,BADAOUI Camelia,ALG,"Jan 01, 2003",49.00,A,50,65,115,---,49kgWomen,Total,589,False
+1,MOHAMED Noura Essam Helmi Abdelbari,EGY,"Mar 21, 2005",54.25,A,74,78,-80,78,55kgWomen,Snatch,589,False
+2,ELTANTAWI Merna Mohamed Ali Ibrahim,EGY,"Sep 14, 2005",54.45,A,70,75,-78,75,55kgWomen,Snatch,589,False
+3,BEJAOUI Israa,TUN,"Feb 03, 2006",54.50,A,65,67,73,73,55kgWomen,Snatch,589,False
+4,SABRI Nour El Houda,ALG,"Apr 28, 2003",54.10,A,60,-66,-66,60,55kgWomen,Snatch,589,False
+1,MOHAMED Noura Essam Helmi Abdelbari,EGY,"Mar 21, 2005",54.25,A,90,95,-98,95,55kgWomen,CleanJerk,589,False
+2,ELTANTAWI Merna Mohamed Ali Ibrahim,EGY,"Sep 14, 2005",54.45,A,88,93,-97,93,55kgWomen,CleanJerk,589,False
+3,BEJAOUI Israa,TUN,"Feb 03, 2006",54.50,A,86,-89,-91,86,55kgWomen,CleanJerk,589,False
+4,SABRI Nour El Houda,ALG,"Apr 28, 2003",54.10,A,81,-87,-87,81,55kgWomen,CleanJerk,589,False
+1,MOHAMED Noura Essam Helmi Abdelbari,EGY,"Mar 21, 2005",54.25,A,78,95,173,---,55kgWomen,Total,589,False
+2,ELTANTAWI Merna Mohamed Ali Ibrahim,EGY,"Sep 14, 2005",54.45,A,75,93,168,---,55kgWomen,Total,589,False
+3,BEJAOUI Israa,TUN,"Feb 03, 2006",54.50,A,73,86,159,---,55kgWomen,Total,589,False
+4,SABRI Nour El Houda,ALG,"Apr 28, 2003",54.10,A,60,81,141,---,55kgWomen,Total,589,False
+1,MUTESI Shabra,UGA,"Dec 05, 2005",58.25,A,60,65,67,67,59kgWomen,Snatch,589,False
+2,NDOLO Madeleine Jacquette Ndolo,CMR,"Jan 01, 2008",58.65,A,-57,60,66,66,59kgWomen,Snatch,589,False
+3,RASSANI Ahlem,ALG,"Jan 01, 2005",56.95,A,-58,58,61,61,59kgWomen,Snatch,589,False
+4,GOPAUL Yuktee,MRI,"Jan 01, 2006",56.10,A,45,-55,55,55,59kgWomen,Snatch,589,False
+5,SNYDERS Anika,RSA,"Jan 01, 2004",59.00,A,53,-58,-58,53,59kgWomen,Snatch,589,False
+1,NDOLO Madeleine Jacquette Ndolo,CMR,"Jan 01, 2008",58.65,A,75,80,-85,80,59kgWomen,CleanJerk,589,False
+2,MUTESI Shabra,UGA,"Dec 05, 2005",58.25,A,72,-77,77,77,59kgWomen,CleanJerk,589,False
+3,SNYDERS Anika,RSA,"Jan 01, 2004",59.00,A,70,-76,-79,70,59kgWomen,CleanJerk,589,False
+4,RASSANI Ahlem,ALG,"Jan 01, 2005",56.95,A,70,-75,-75,70,59kgWomen,CleanJerk,589,False
+5,GOPAUL Yuktee,MRI,"Jan 01, 2006",56.10,A,60,-66,-66,60,59kgWomen,CleanJerk,589,False
+1,NDOLO Madeleine Jacquette Ndolo,CMR,"Jan 01, 2008",58.65,A,66,80,146,---,59kgWomen,Total,589,False
+2,MUTESI Shabra,UGA,"Dec 05, 2005",58.25,A,67,77,144,---,59kgWomen,Total,589,False
+3,RASSANI Ahlem,ALG,"Jan 01, 2005",56.95,A,61,70,131,---,59kgWomen,Total,589,False
+4,SNYDERS Anika,RSA,"Jan 01, 2004",59.00,A,53,70,123,---,59kgWomen,Total,589,False
+5,GOPAUL Yuktee,MRI,"Jan 01, 2006",56.10,A,55,60,115,---,59kgWomen,Total,589,False
+1,ELSAYED Hanin Ahmed Mohamed Ahmed,EGY,"Jan 01, 2006",61.75,A,-80,81,85,85,64kgWomen,Snatch,589,False
+1,ELSAYED Hanin Ahmed Mohamed Ahmed,EGY,"Jan 01, 2006",61.75,A,100,104,---,104,64kgWomen,CleanJerk,589,False
+1,ELSAYED Hanin Ahmed Mohamed Ahmed,EGY,"Jan 01, 2006",61.75,A,85,104,189,---,64kgWomen,Total,589,False
+1,ELKADY Amira Mohamed Abdelrahman Ibrahim,EGY,"Mar 25, 2006",69.50,A,83,87,90,90,71kgWomen,Snatch,589,False
+2,BO ABDALLA Doaa,ALG,"Jan 01, 2007",68.00,A,-65,65,71,71,71kgWomen,Snatch,589,False
+1,ELKADY Amira Mohamed Abdelrahman Ibrahim,EGY,"Mar 25, 2006",69.50,A,100,105,-110,105,71kgWomen,CleanJerk,589,False
+2,BO ABDALLA Doaa,ALG,"Jan 01, 2007",68.00,A,75,82,86,86,71kgWomen,CleanJerk,589,False
+1,ELKADY Amira Mohamed Abdelrahman Ibrahim,EGY,"Mar 25, 2006",69.50,A,90,105,195,---,71kgWomen,Total,589,False
+2,BO ABDALLA Doaa,ALG,"Jan 01, 2007",68.00,A,71,86,157,---,71kgWomen,Total,589,False
+1,HASSAN Rinad Mohamed Hassan Maghrabi,EGY,"Sep 02, 2006",74.75,A,85,90,-93,90,76kgWomen,Snatch,589,False
+2,BELOUNIS Nihad,ALG,"Jan 09, 2003",73.50,A,70,75,-77,75,76kgWomen,Snatch,589,False
+1,HASSAN Rinad Mohamed Hassan Maghrabi,EGY,"Sep 02, 2006",74.75,A,105,-110,-110,105,76kgWomen,CleanJerk,589,False
+2,BELOUNIS Nihad,ALG,"Jan 09, 2003",73.50,A,96,101,-104,101,76kgWomen,CleanJerk,589,False
+1,HASSAN Rinad Mohamed Hassan Maghrabi,EGY,"Sep 02, 2006",74.75,A,90,105,195,---,76kgWomen,Total,589,False
+2,BELOUNIS Nihad,ALG,"Jan 09, 2003",73.50,A,75,101,176,---,76kgWomen,Total,589,False
+1,ELKADY Amira Mohamed Abdelrahman Ibrahim,EGY,"Mar 25, 2006",76.30,A,90,100,---,100,81kgWomen,Snatch,589,False
+2,SCHLEMMER Nolene,RSA,"Jan 01, 2006",78.50,A,-65,65,-75,65,81kgWomen,Snatch,589,False
+1,ELKADY Amira Mohamed Abdelrahman Ibrahim,EGY,"Mar 25, 2006",76.30,A,112,---,---,112,81kgWomen,CleanJerk,589,False
+2,SCHLEMMER Nolene,RSA,"Jan 01, 2006",78.50,A,80,-85,-85,80,81kgWomen,CleanJerk,589,False
+1,ELKADY Amira Mohamed Abdelrahman Ibrahim,EGY,"Mar 25, 2006",76.30,A,100,112,212,---,81kgWomen,Total,589,False
+2,SCHLEMMER Nolene,RSA,"Jan 01, 2006",78.50,A,65,80,145,---,81kgWomen,Total,589,False
+1,AHMED Fatma Mohamed Sadek,EGY,"Jul 07, 2003",82.50,A,90,95,-100,95,87kgWomen,Snatch,589,False
+1,AHMED Fatma Mohamed Sadek,EGY,"Jul 07, 2003",82.50,A,120,-125,-125,120,87kgWomen,CleanJerk,589,False
+1,AHMED Fatma Mohamed Sadek,EGY,"Jul 07, 2003",82.50,A,95,120,215,---,87kgWomen,Total,589,False
+1,KHALED RAGAB ALI Shimaa,EGY,"Feb 14, 2004",106.35,A,100,-105,105,105,+87kgWomen,Snatch,589,False
+2,YAHIA MAMOUN Amina,ALG,"Nov 28, 2006",104.20,A,80,-86,-86,80,+87kgWomen,Snatch,589,False
+1,KHALED RAGAB ALI Shimaa,EGY,"Feb 14, 2004",106.35,A,130,135,140,140,+87kgWomen,CleanJerk,589,False
+2,YAHIA MAMOUN Amina,ALG,"Nov 28, 2006",104.20,A,95,-103,103,103,+87kgWomen,CleanJerk,589,False
+1,KHALED RAGAB ALI Shimaa,EGY,"Feb 14, 2004",106.35,A,105,140,245,---,+87kgWomen,Total,589,False
+2,YAHIA MAMOUN Amina,ALG,"Nov 28, 2006",104.20,A,80,103,183,---,+87kgWomen,Total,589,False

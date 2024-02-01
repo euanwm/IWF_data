@@ -471,3 +471,17 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 574,IWF Grand Prix I,2023-06-08,Havana,CUB,senior,0,0,Cuba
 575,2023 Asian Junior Championships,2023-07-28,Delhi,IND,junior,0,0,India
 576,2023 Asian Youth Championships,2023-07-28,Delhi,IND,youth,0,0,India
+577,2023 IWF World Championships,2023-09-04,Riyadh,KSA,senior,0,0,NA
+578,European Youth Championships,2023-07-01,Chisinau,MDA,youth,0,0,"Moldova, Republic of"
+579,European Junior Championships,2023-07-24,Bucharest,ROU,junior,0,0,Romania
+580,Pan-American Youth Championships,2023-07-28,Caracas,VEN,youth,0,0,"Venezuela, Bolivarian Republic of"
+581,2023 IWF World Junior Championships,2023-11-15,Guadalajara,MEX,junior,0,0,Mexico
+582,19th Asian Games,2023-09-30,HANGZHOU,CHN,senior,0,0,China
+583,Oceania Youth Championships,2023-10-05,Apia,SAM,youth,0,0,NA
+584,Oceania Junior Championships,2023-10-05,Apia,SAM,junior,0,0,NA
+586,PACIFIC GAMES + OCEANIA CHAMPIONSHIPS,2023-11-20,Honiara,SOL,senior,0,0,NA
+587,2023 IWF Grand Prix II,2023-12-04,Doha,QAT,senior,0,0,Qatar
+588,African Youth Championships,2023-10-26,Cairo,EGY,youth,0,0,Egypt
+589,African Junior Championships,2023-10-26,Cairo,EGY,junior,0,0,Egypt
+590,Pan-American Games,2023-10-21,Santiago,CHI,senior,0,0,NA
+591,32nd SEA Games,2023-05-13,Phnom Penh,CAM,senior,0,0,NA

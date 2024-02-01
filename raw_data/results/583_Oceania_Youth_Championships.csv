@@ -1,0 +1,181 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,ADAM Johannes,NRU,"Sep 09, 2007",48.98,A,65,70,75,75,49kgMen,Snatch,583,False
+2,RAVA OLA Lawrence,PNG,"Feb 02, 2010",41.95,A,42,46,-49,46,49kgMen,Snatch,583,False
+1,ADAM Johannes,NRU,"Sep 09, 2007",48.98,A,80,-85,85,85,49kgMen,CleanJerk,583,False
+2,RAVA OLA Lawrence,PNG,"Feb 02, 2010",41.95,A,60,64,67,67,49kgMen,CleanJerk,583,False
+1,ADAM Johannes,NRU,"Sep 09, 2007",48.98,A,75,85,160,---,49kgMen,Total,583,False
+2,RAVA OLA Lawrence,PNG,"Feb 02, 2010",41.95,A,46,67,113,---,49kgMen,Total,583,False
+1,AUMALEFO Freeman Hale,SOL,"May 19, 2009",58.94,A,-75,76,81,81,61kgMen,Snatch,583,False
+2,TAFI Falevaa,SAM,"Nov 10, 2006",60.06,A,75,79,81,81,61kgMen,Snatch,583,False
+1,TAFI Falevaa,SAM,"Nov 10, 2006",60.06,A,95,-100,100,100,61kgMen,CleanJerk,583,False
+2,AUMALEFO Freeman Hale,SOL,"May 19, 2009",58.94,A,95,98,-102,98,61kgMen,CleanJerk,583,False
+1,TAFI Falevaa,SAM,"Nov 10, 2006",60.06,A,81,100,181,---,61kgMen,Total,583,False
+2,AUMALEFO Freeman Hale,SOL,"May 19, 2009",58.94,A,81,98,179,---,61kgMen,Total,583,False
+1,IKA Ditto Titus,NRU,"Jul 30, 2006",66.58,A,110,115,-118,115,67kgMen,Snatch,583,False
+2,MERCIECA Deacon,AUS,"Jan 16, 2006",64.28,A,86,91,93,93,67kgMen,Snatch,583,False
+3,SEUAO Faitasia,SAM,"Apr 16, 2008",66.38,A,77,81,85,85,67kgMen,Snatch,583,False
+4,SANELE AH Donai,SAM,"Apr 23, 2008",65.17,A,70,74,-77,74,67kgMen,Snatch,583,False
+5,PUNI Etoa Tauilo,COK,"Feb 27, 2009",62.71,A,63,66,70,70,67kgMen,Snatch,583,False
+6,VOLAVOLA Atalo Dimuri Iowane,FIJ,"May 14, 2007",65.36,A,65,68,-70,68,67kgMen,Snatch,583,False
+1,IKA Ditto Titus,NRU,"Jul 30, 2006",66.58,A,148,154,---,154,67kgMen,CleanJerk,583,False
+2,MERCIECA Deacon,AUS,"Jan 16, 2006",64.28,A,110,115,-120,115,67kgMen,CleanJerk,583,False
+3,SEUAO Faitasia,SAM,"Apr 16, 2008",66.38,A,95,-105,105,105,67kgMen,CleanJerk,583,False
+4,VOLAVOLA Atalo Dimuri Iowane,FIJ,"May 14, 2007",65.36,A,90,94,100,100,67kgMen,CleanJerk,583,False
+5,SANELE AH Donai,SAM,"Apr 23, 2008",65.17,A,85,90,-95,90,67kgMen,CleanJerk,583,False
+6,PUNI Etoa Tauilo,COK,"Feb 27, 2009",62.71,A,74,78,-83,78,67kgMen,CleanJerk,583,False
+1,IKA Ditto Titus,NRU,"Jul 30, 2006",66.58,A,115,154,269,---,67kgMen,Total,583,False
+2,MERCIECA Deacon,AUS,"Jan 16, 2006",64.28,A,93,115,208,---,67kgMen,Total,583,False
+3,SEUAO Faitasia,SAM,"Apr 16, 2008",66.38,A,85,105,190,---,67kgMen,Total,583,False
+4,VOLAVOLA Atalo Dimuri Iowane,FIJ,"May 14, 2007",65.36,A,68,100,168,---,67kgMen,Total,583,False
+5,SANELE AH Donai,SAM,"Apr 23, 2008",65.17,A,74,90,164,---,67kgMen,Total,583,False
+6,PUNI Etoa Tauilo,COK,"Feb 27, 2009",62.71,A,70,78,148,---,67kgMen,Total,583,False
+1,ELDER Nehmiah K W,FIJ,"Mar 14, 2009",71.71,A,110,-115,-115,110,73kgMen,Snatch,583,False
+2,RISBY Ayrton,AUS,"Mar 02, 2006",72.98,A,93,97,101,101,73kgMen,Snatch,583,False
+3,STRANGE Joshua Ian,AUS,"Dec 18, 2006",71.06,A,93,97,100,100,73kgMen,Snatch,583,False
+4,TEIMITSI Spartan,NRU,"Jul 30, 2007",69.54,A,80,83,86,86,73kgMen,Snatch,583,False
+5,OPELOGE Niusila,SAM,"Jan 12, 2009",70.90,A,80,-84,84,84,73kgMen,Snatch,583,False
+1,ELDER Nehmiah K W,FIJ,"Mar 14, 2009",71.71,A,128,133,-137,133,73kgMen,CleanJerk,583,False
+2,STRANGE Joshua Ian,AUS,"Dec 18, 2006",71.06,A,131,-138,-138,131,73kgMen,CleanJerk,583,False
+3,RISBY Ayrton,AUS,"Mar 02, 2006",72.98,A,128,-133,-133,128,73kgMen,CleanJerk,583,False
+4,TEIMITSI Spartan,NRU,"Jul 30, 2007",69.54,A,100,105,110,110,73kgMen,CleanJerk,583,False
+5,OPELOGE Niusila,SAM,"Jan 12, 2009",70.90,A,100,104,106,106,73kgMen,CleanJerk,583,False
+1,ELDER Nehmiah K W,FIJ,"Mar 14, 2009",71.71,A,110,133,243,---,73kgMen,Total,583,False
+2,STRANGE Joshua Ian,AUS,"Dec 18, 2006",71.06,A,100,131,231,---,73kgMen,Total,583,False
+3,RISBY Ayrton,AUS,"Mar 02, 2006",72.98,A,101,128,229,---,73kgMen,Total,583,False
+4,TEIMITSI Spartan,NRU,"Jul 30, 2007",69.54,A,86,110,196,---,73kgMen,Total,583,False
+5,OPELOGE Niusila,SAM,"Jan 12, 2009",70.90,A,84,106,190,---,73kgMen,Total,583,False
+1,AH CHONG Tovio,SAM,"Aug 23, 2006",79.92,A,-111,111,115,115,81kgMen,Snatch,583,False
+2,SASA Sione,SAM,"Jan 18, 2008",77.46,A,96,101,105,105,81kgMen,Snatch,583,False
+3,WATT Lachlan Thomas,AUS,"Oct 23, 2006",78.49,A,100,-105,105,105,81kgMen,Snatch,583,False
+4,ATANTAAKE Jans,MHL,"Oct 12, 2007",78.34,A,90,95,-100,95,81kgMen,Snatch,583,False
+5,RAVIA Simione,FIJ,"Mar 09, 2006",78.50,A,-90,-90,90,90,81kgMen,Snatch,583,False
+6,GASIO Penitito,SAM,"May 26, 2008",74.82,A,80,84,86,86,81kgMen,Snatch,583,False
+1,AH CHONG Tovio,SAM,"Aug 23, 2006",79.92,A,-150,150,154,154,81kgMen,CleanJerk,583,False
+2,ATANTAAKE Jans,MHL,"Oct 12, 2007",78.34,A,120,125,-134,125,81kgMen,CleanJerk,583,False
+3,WATT Lachlan Thomas,AUS,"Oct 23, 2006",78.49,A,123,-128,-128,123,81kgMen,CleanJerk,583,False
+4,RAVIA Simione,FIJ,"Mar 09, 2006",78.50,A,112,-117,-120,112,81kgMen,CleanJerk,583,False
+5,SASA Sione,SAM,"Jan 18, 2008",77.46,A,105,-115,-115,105,81kgMen,CleanJerk,583,False
+6,GASIO Penitito,SAM,"May 26, 2008",74.82,A,90,-94,-94,90,81kgMen,CleanJerk,583,False
+1,AH CHONG Tovio,SAM,"Aug 23, 2006",79.92,A,115,154,269,---,81kgMen,Total,583,False
+2,WATT Lachlan Thomas,AUS,"Oct 23, 2006",78.49,A,105,123,228,---,81kgMen,Total,583,False
+3,ATANTAAKE Jans,MHL,"Oct 12, 2007",78.34,A,95,125,220,---,81kgMen,Total,583,False
+4,SASA Sione,SAM,"Jan 18, 2008",77.46,A,105,105,210,---,81kgMen,Total,583,False
+5,RAVIA Simione,FIJ,"Mar 09, 2006",78.50,A,90,112,202,---,81kgMen,Total,583,False
+6,GASIO Penitito,SAM,"May 26, 2008",74.82,A,86,90,176,---,81kgMen,Total,583,False
+1,ULIMASAO Emmanuel,SAM,"Jun 11, 2006",85.07,A,120,-125,-128,120,89kgMen,Snatch,583,False
+2,LA CUNZA-WATSON Benjamin,AUS,"Feb 23, 2006",85.94,A,-112,112,-117,112,89kgMen,Snatch,583,False
+3,JOUFOQUES Moana,TAH,"Feb 04, 2008",88.14,A,80,83,-87,83,89kgMen,Snatch,583,False
+4,ARNOLD Reif M F B,COK,"Jun 04, 2008",82.80,A,44,47,-50,47,89kgMen,Snatch,583,False
+1,ULIMASAO Emmanuel,SAM,"Jun 11, 2006",85.07,A,145,-150,-150,145,89kgMen,CleanJerk,583,False
+2,LA CUNZA-WATSON Benjamin,AUS,"Feb 23, 2006",85.94,A,130,-136,-136,130,89kgMen,CleanJerk,583,False
+3,JOUFOQUES Moana,TAH,"Feb 04, 2008",88.14,A,100,-103,-103,100,89kgMen,CleanJerk,583,False
+4,ARNOLD Reif M F B,COK,"Jun 04, 2008",82.80,A,63,67,70,70,89kgMen,CleanJerk,583,False
+1,ULIMASAO Emmanuel,SAM,"Jun 11, 2006",85.07,A,120,145,265,---,89kgMen,Total,583,False
+2,LA CUNZA-WATSON Benjamin,AUS,"Feb 23, 2006",85.94,A,112,130,242,---,89kgMen,Total,583,False
+3,JOUFOQUES Moana,TAH,"Feb 04, 2008",88.14,A,83,100,183,---,89kgMen,Total,583,False
+4,ARNOLD Reif M F B,COK,"Jun 04, 2008",82.80,A,47,70,117,---,89kgMen,Total,583,False
+1,TOKONA Zion R J,FIJ,"Apr 27, 2007",93.93,A,-113,113,116,116,96kgMen,Snatch,583,False
+2,LESTE Mayken,NCL,"Apr 26, 2007",95.38,A,-73,75,80,80,96kgMen,Snatch,583,False
+1,TOKONA Zion R J,FIJ,"Apr 27, 2007",93.93,A,134,140,145,145,96kgMen,CleanJerk,583,False
+2,LESTE Mayken,NCL,"Apr 26, 2007",95.38,A,80,86,90,90,96kgMen,CleanJerk,583,False
+1,TOKONA Zion R J,FIJ,"Apr 27, 2007",93.93,A,116,145,261,---,96kgMen,Total,583,False
+2,LESTE Mayken,NCL,"Apr 26, 2007",95.38,A,80,90,170,---,96kgMen,Total,583,False
+1,SCHUSTER Isyss,NZL,"Jul 24, 2007",101.66,A,105,110,-115,110,102kgMen,Snatch,583,False
+2,TOATELEGESE Lauina,SAM,"Aug 26, 2007",97.87,A,100,-105,105,105,102kgMen,Snatch,583,False
+1,SCHUSTER Isyss,NZL,"Jul 24, 2007",101.66,A,140,-147,-152,140,102kgMen,CleanJerk,583,False
+2,TOATELEGESE Lauina,SAM,"Aug 26, 2007",97.87,A,131,-140,-146,131,102kgMen,CleanJerk,583,False
+1,SCHUSTER Isyss,NZL,"Jul 24, 2007",101.66,A,110,140,250,---,102kgMen,Total,583,False
+2,TOATELEGESE Lauina,SAM,"Aug 26, 2007",97.87,A,105,131,236,---,102kgMen,Total,583,False
+1,TURAGASAU Jordan,FIJ,"Feb 22, 2006",137.23,A,70,75,-80,75,+102kgMen,Snatch,583,False
+1,TURAGASAU Jordan,FIJ,"Feb 22, 2006",137.23,A,95,100,-110,100,+102kgMen,CleanJerk,583,False
+1,TURAGASAU Jordan,FIJ,"Feb 22, 2006",137.23,A,75,100,175,---,+102kgMen,Total,583,False
+1,GAVERA Ani Geua,PNG,"Oct 02, 2010",38.20,A,30,35,-40,35,40kgWomen,Snatch,583,False
+1,GAVERA Ani Geua,PNG,"Oct 02, 2010",38.20,A,40,45,-50,45,40kgWomen,CleanJerk,583,False
+1,GAVERA Ani Geua,PNG,"Oct 02, 2010",38.20,A,35,45,80,---,40kgWomen,Total,583,False
+1,MAELOSIA Lorah,SOL,"Nov 21, 2006",54.87,A,70,-75,-75,70,55kgWomen,Snatch,583,False
+2,STEPHEN My-Only,NRU,"May 22, 2006",54.89,A,68,70,-73,70,55kgWomen,Snatch,583,False
+3,VAGI Idau,PNG,"Mar 27, 2006",52.78,A,60,-65,65,65,55kgWomen,Snatch,583,False
+4,GHETTO Natalya,AUS,"Sep 16, 2006",55.00,A,62,-65,-65,62,55kgWomen,Snatch,583,False
+5,FAUMUI Anoni,SAM,"Jan 01, 2006",54.34,A,55,59,62,62,55kgWomen,Snatch,583,False
+---,GHETTO Juliana,AUS,"Sep 16, 2006",52.77,A,-63,-63,-63,---,55kgWomen,Snatch,583,False
+1,MAELOSIA Lorah,SOL,"Nov 21, 2006",54.87,A,84,87,92,92,55kgWomen,CleanJerk,583,False
+2,STEPHEN My-Only,NRU,"May 22, 2006",54.89,A,85,88,91,91,55kgWomen,CleanJerk,583,False
+3,VAGI Idau,PNG,"Mar 27, 2006",52.78,A,70,75,-78,75,55kgWomen,CleanJerk,583,False
+4,FAUMUI Anoni,SAM,"Jan 01, 2006",54.34,A,67,71,-75,71,55kgWomen,CleanJerk,583,False
+5,GHETTO Natalya,AUS,"Sep 16, 2006",55.00,A,70,-74,-74,70,55kgWomen,CleanJerk,583,False
+---,GHETTO Juliana,AUS,"Sep 16, 2006",52.77,A,---,---,---,---,55kgWomen,CleanJerk,583,False
+1,MAELOSIA Lorah,SOL,"Nov 21, 2006",54.87,A,70,92,162,---,55kgWomen,Total,583,False
+2,STEPHEN My-Only,NRU,"May 22, 2006",54.89,A,70,91,161,---,55kgWomen,Total,583,False
+3,VAGI Idau,PNG,"Mar 27, 2006",52.78,A,65,75,140,---,55kgWomen,Total,583,False
+4,FAUMUI Anoni,SAM,"Jan 01, 2006",54.34,A,62,71,133,---,55kgWomen,Total,583,False
+5,GHETTO Natalya,AUS,"Sep 16, 2006",55.00,A,62,70,132,---,55kgWomen,Total,583,False
+---,GHETTO Juliana,AUS,"Sep 16, 2006",52.77,A,---,---,---,---,55kgWomen,Total,583,False
+1,SALIBA Chloe,AUS,"Oct 17, 2006",58.96,A,62,66,68,68,59kgWomen,Snatch,583,False
+2,DEIRERAGEA Jo-Beth,NRU,"Dec 25, 2007",58.07,A,65,67,-70,67,59kgWomen,Snatch,583,False
+3,KOLOMOISKI Ashley,AUS,"Jul 11, 2006",57.82,A,-65,65,-68,65,59kgWomen,Snatch,583,False
+4,ENOKA Marina,SAM,"Nov 19, 2008",57.32,A,56,60,-64,60,59kgWomen,Snatch,583,False
+1,SALIBA Chloe,AUS,"Oct 17, 2006",58.96,A,85,90,92,92,59kgWomen,CleanJerk,583,False
+2,KOLOMOISKI Ashley,AUS,"Jul 11, 2006",57.82,A,78,81,84,84,59kgWomen,CleanJerk,583,False
+3,DEIRERAGEA Jo-Beth,NRU,"Dec 25, 2007",58.07,A,75,-80,-80,75,59kgWomen,CleanJerk,583,False
+4,ENOKA Marina,SAM,"Nov 19, 2008",57.32,A,67,72,75,75,59kgWomen,CleanJerk,583,False
+1,SALIBA Chloe,AUS,"Oct 17, 2006",58.96,A,68,92,160,---,59kgWomen,Total,583,False
+2,KOLOMOISKI Ashley,AUS,"Jul 11, 2006",57.82,A,65,84,149,---,59kgWomen,Total,583,False
+3,DEIRERAGEA Jo-Beth,NRU,"Dec 25, 2007",58.07,A,67,75,142,---,59kgWomen,Total,583,False
+4,ENOKA Marina,SAM,"Nov 19, 2008",57.32,A,60,75,135,---,59kgWomen,Total,583,False
+1,WALKER Samantha Jay,AUS,"May 02, 2007",64.00,A,80,-84,84,84,64kgWomen,Snatch,583,False
+2,LUAMATA Filiamata,SAM,"Mar 24, 2008",63.11,A,63,66,-68,66,64kgWomen,Snatch,583,False
+3,DALEY Sophie,AUS,"Apr 04, 2007",60.80,A,60,63,66,66,64kgWomen,Snatch,583,False
+4,KEREN BROOKE BIRANNA ATERU Vulava,FIJ,"May 22, 2008",63.78,A,57,61,-64,61,64kgWomen,Snatch,583,False
+5,MILAH Dinh,VAN,"Jul 04, 2008",63.10,A,-57,57,61,61,64kgWomen,Snatch,583,False
+1,WALKER Samantha Jay,AUS,"May 02, 2007",64.00,A,85,90,-94,90,64kgWomen,CleanJerk,583,False
+2,KEREN BROOKE BIRANNA ATERU Vulava,FIJ,"May 22, 2008",63.78,A,-78,-78,80,80,64kgWomen,CleanJerk,583,False
+3,DALEY Sophie,AUS,"Apr 04, 2007",60.80,A,75,-79,79,79,64kgWomen,CleanJerk,583,False
+4,MILAH Dinh,VAN,"Jul 04, 2008",63.10,A,70,74,78,78,64kgWomen,CleanJerk,583,False
+5,LUAMATA Filiamata,SAM,"Mar 24, 2008",63.11,A,71,-76,76,76,64kgWomen,CleanJerk,583,False
+1,WALKER Samantha Jay,AUS,"May 02, 2007",64.00,A,84,90,174,---,64kgWomen,Total,583,False
+2,DALEY Sophie,AUS,"Apr 04, 2007",60.80,A,66,79,145,---,64kgWomen,Total,583,False
+3,LUAMATA Filiamata,SAM,"Mar 24, 2008",63.11,A,66,76,142,---,64kgWomen,Total,583,False
+4,KEREN BROOKE BIRANNA ATERU Vulava,FIJ,"May 22, 2008",63.78,A,61,80,141,---,64kgWomen,Total,583,False
+5,MILAH Dinh,VAN,"Jul 04, 2008",63.10,A,61,78,139,---,64kgWomen,Total,583,False
+1,PAKOTI Taiamoni Latu Lotu Lelei,AUS,"Nov 14, 2007",67.00,A,70,75,77,77,71kgWomen,Snatch,583,False
+2,MCINTYRE Ella,AUS,"Dec 11, 2006",68.46,A,72,-75,75,75,71kgWomen,Snatch,583,False
+3,AGNEW Madeleine,NZL,"Sep 19, 2007",69.97,A,60,63,66,66,71kgWomen,Snatch,583,False
+4,OOSTHUIZEN Carmi,NZL,"Feb 13, 2008",70.41,A,60,-64,65,65,71kgWomen,Snatch,583,False
+5,SEUAO Sefulu,SAM,"May 13, 2009",64.68,A,57,61,64,64,71kgWomen,Snatch,583,False
+6,CRIGHTON-TEAU Briseis,COK,"Aug 02, 2007",69.31,A,53,56,-60,56,71kgWomen,Snatch,583,False
+---,STOWERS Seine,SAM,"Apr 30, 2008",69.89,A,-76,-76,-76,---,71kgWomen,Snatch,583,False
+1,PAKOTI Taiamoni Latu Lotu Lelei,AUS,"Nov 14, 2007",67.00,A,95,99,-105,99,71kgWomen,CleanJerk,583,False
+2,MCINTYRE Ella,AUS,"Dec 11, 2006",68.46,A,90,95,98,98,71kgWomen,CleanJerk,583,False
+3,AGNEW Madeleine,NZL,"Sep 19, 2007",69.97,A,84,87,-90,87,71kgWomen,CleanJerk,583,False
+4,OOSTHUIZEN Carmi,NZL,"Feb 13, 2008",70.41,A,74,78,-82,78,71kgWomen,CleanJerk,583,False
+5,CRIGHTON-TEAU Briseis,COK,"Aug 02, 2007",69.31,A,70,-74,-74,70,71kgWomen,CleanJerk,583,False
+6,SEUAO Sefulu,SAM,"May 13, 2009",64.68,A,70,-74,-75,70,71kgWomen,CleanJerk,583,False
+---,STOWERS Seine,SAM,"Apr 30, 2008",69.89,A,---,---,---,---,71kgWomen,CleanJerk,583,False
+1,PAKOTI Taiamoni Latu Lotu Lelei,AUS,"Nov 14, 2007",67.00,A,77,99,176,---,71kgWomen,Total,583,False
+2,MCINTYRE Ella,AUS,"Dec 11, 2006",68.46,A,75,98,173,---,71kgWomen,Total,583,False
+3,AGNEW Madeleine,NZL,"Sep 19, 2007",69.97,A,66,87,153,---,71kgWomen,Total,583,False
+4,OOSTHUIZEN Carmi,NZL,"Feb 13, 2008",70.41,A,65,78,143,---,71kgWomen,Total,583,False
+5,SEUAO Sefulu,SAM,"May 13, 2009",64.68,A,64,70,134,---,71kgWomen,Total,583,False
+6,CRIGHTON-TEAU Briseis,COK,"Aug 02, 2007",69.31,A,56,70,126,---,71kgWomen,Total,583,False
+---,STOWERS Seine,SAM,"Apr 30, 2008",69.89,A,---,---,---,---,71kgWomen,Total,583,False
+1,TOBIA-ITA Issys Saivii Gianna,NZL,"May 16, 2006",73.49,A,71,74,-79,74,76kgWomen,Snatch,583,False
+2,SRIRATANA Skye,AUS,"Aug 23, 2006",72.49,A,67,70,73,73,76kgWomen,Snatch,583,False
+1,TOBIA-ITA Issys Saivii Gianna,NZL,"May 16, 2006",73.49,A,90,-95,95,95,76kgWomen,CleanJerk,583,False
+2,SRIRATANA Skye,AUS,"Aug 23, 2006",72.49,A,85,88,91,91,76kgWomen,CleanJerk,583,False
+1,TOBIA-ITA Issys Saivii Gianna,NZL,"May 16, 2006",73.49,A,74,95,169,---,76kgWomen,Total,583,False
+2,SRIRATANA Skye,AUS,"Aug 23, 2006",72.49,A,73,91,164,---,76kgWomen,Total,583,False
+1,SAGALALA Stella,SAM,"Apr 16, 2007",76.50,A,60,64,67,67,81kgWomen,Snatch,583,False
+---,NACAGILEVU Litia Sipola,NZL,"Sep 29, 2007",80.31,A,-88,---,---,---,81kgWomen,Snatch,583,False
+1,SAGALALA Stella,SAM,"Apr 16, 2007",76.50,A,75,-80,80,80,81kgWomen,CleanJerk,583,False
+---,NACAGILEVU Litia Sipola,NZL,"Sep 29, 2007",80.31,A,---,---,---,---,81kgWomen,CleanJerk,583,False
+1,SAGALALA Stella,SAM,"Apr 16, 2007",76.50,A,67,80,147,---,81kgWomen,Total,583,False
+---,NACAGILEVU Litia Sipola,NZL,"Sep 29, 2007",80.31,A,---,---,---,---,81kgWomen,Total,583,False
+1,KING Mollie,NZL,"Jan 14, 2008",109.72,A,70,-75,75,75,+81kgWomen,Snatch,583,False
+2,VESI Vesna,NZL,"Mar 03, 2006",118.55,A,65,70,-75,70,+81kgWomen,Snatch,583,False
+3,SAVOU Sinate A S,FIJ,"Feb 11, 2008",104.87,A,50,53,55,55,+81kgWomen,Snatch,583,False
+1,VESI Vesna,NZL,"Mar 03, 2006",118.55,A,85,89,94,94,+81kgWomen,CleanJerk,583,False
+2,KING Mollie,NZL,"Jan 14, 2008",109.72,A,85,90,93,93,+81kgWomen,CleanJerk,583,False
+3,SAVOU Sinate A S,FIJ,"Feb 11, 2008",104.87,A,65,-70,-70,65,+81kgWomen,CleanJerk,583,False
+1,KING Mollie,NZL,"Jan 14, 2008",109.72,A,75,93,168,---,+81kgWomen,Total,583,False
+2,VESI Vesna,NZL,"Mar 03, 2006",118.55,A,70,94,164,---,+81kgWomen,Total,583,False
+3,SAVOU Sinate A S,FIJ,"Feb 11, 2008",104.87,A,55,65,120,---,+81kgWomen,Total,583,False
