@@ -485,3 +485,9 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 589,African Junior Championships,2023-10-26,Cairo,EGY,junior,0,0,Egypt
 590,Pan-American Games,2023-10-21,Santiago,CHI,senior,0,0,NA
 591,32nd SEA Games,2023-05-13,Phnom Penh,CAM,senior,0,0,NA
+592,Asian Championships,2024-02-03,Tashkent,UZB,senior,0,0,Uzbekistan
+593,African Championships,2024-02-05,Ismailia,EGY,senior,0,0,Egypt
+594,European Championships,2024-02-12,Sofia,BUL,senior,0,0,NA
+595,Oceania Championships,2024-02-21,Auckland,AUS,senior,0,0,Australia
+596,Pan-American Championships,2024-02-24,Caracas,VEN,senior,0,0,"Venezuela, Bolivarian Republic of"
+599,IWF World Cup - Paris 2024. Qual. Event,2024-03-31,Phuket,THA,senior,0,0,Thailand

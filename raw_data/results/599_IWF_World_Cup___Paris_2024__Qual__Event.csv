@@ -1,0 +1,22 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,WON Hyon Sim,PRK,"Feb 04, 2002",45.00,A,80,85,87,87,45kgWomen,Snatch,599,False
+2,KHONG My Phuong,VIE,"May 07, 1999",45.00,A,72,74,76,76,45kgWomen,Snatch,599,False
+3,PRAMONGHKHOL Siriwimon,THA,"Nov 29, 1994",44.82,A,- 73,73,75,75,45kgWomen,Snatch,599,False
+4,NGUYEN Thi Hoai,VIE,"Apr 21, 2006",44.98,A,68,70,72,72,45kgWomen,Snatch,599,False
+5,KAMNOEDSRI Khemika,THA,"Jan 20, 2005",44.66,A,67,69,71,71,45kgWomen,Snatch,599,False
+6,HONG Zi-Yu,TPE,"Jul 13, 2002",44.72,A,- 68,- 68,68,68,45kgWomen,Snatch,599,False
+7,ISMAYILOVA Nazila,AZE,"Oct 05, 1998",45.00,A,55,- 60,- 60,55,45kgWomen,Snatch,599,False
+1,WON Hyon Sim,PRK,"Feb 04, 2002",45.00,A,100,106,109,109,45kgWomen,CleanJerk,599,False
+2,PRAMONGHKHOL Siriwimon,THA,"Nov 29, 1994",44.82,A,90,96,101,101,45kgWomen,CleanJerk,599,False
+3,KHONG My Phuong,VIE,"May 07, 1999",45.00,A,84,- 86,- 86,84,45kgWomen,CleanJerk,599,False
+4,KAMNOEDSRI Khemika,THA,"Jan 20, 2005",44.66,A,82,- 86,- 86,82,45kgWomen,CleanJerk,599,False
+5,ISMAYILOVA Nazila,AZE,"Oct 05, 1998",45.00,A,65,- 69,72,72,45kgWomen,CleanJerk,599,False
+---,HONG Zi-Yu,TPE,"Jul 13, 2002",44.72,A,- 86,- 86,- 86,---,45kgWomen,CleanJerk,599,False
+---,NGUYEN Thi Hoai,VIE,"Apr 21, 2006",44.98,A,- 85,- 85,- 85,---,45kgWomen,CleanJerk,599,False
+1,WON Hyon Sim,PRK,"Feb 04, 2002",45.00,A,87,109,196,---,45kgWomen,Total,599,False
+2,PRAMONGHKHOL Siriwimon,THA,"Nov 29, 1994",44.82,A,75,101,176,---,45kgWomen,Total,599,False
+3,KHONG My Phuong,VIE,"May 07, 1999",45.00,A,76,84,160,---,45kgWomen,Total,599,False
+4,KAMNOEDSRI Khemika,THA,"Jan 20, 2005",44.66,A,71,82,153,---,45kgWomen,Total,599,False
+5,ISMAYILOVA Nazila,AZE,"Oct 05, 1998",45.00,A,55,72,127,---,45kgWomen,Total,599,False
+---,HONG Zi-Yu,TPE,"Jul 13, 2002",44.72,A,68,---,---,---,45kgWomen,Total,599,False
+---,NGUYEN Thi Hoai,VIE,"Apr 21, 2006",44.98,A,72,---,---,---,45kgWomen,Total,599,False

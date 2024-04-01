@@ -1,0 +1,1054 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,SAHIN Muammer,TUR,"Feb 05, 1994",55.00,A,110,-112,112,112,55kgMen,Snatch,594,False
+2,SHAMILISHVILI Ramini,GEO,"May 11, 1994",54.73,A,106,109,111,111,55kgMen,Snatch,594,False
+3,RUSEV Angel Hriskov,BUL,"Jul 13, 2001",54.93,A,105,109,-111,109,55kgMen,Snatch,594,False
+4,BERDELIDZE Goderdzi,GEO,"Jul 14, 1996",54.83,A,-107,107,-110,107,55kgMen,Snatch,594,False
+5,LUCA Marian-Cristian,ROU,"Feb 16, 1999",55.00,A,102,106,-110,106,55kgMen,Snatch,594,False
+6,ALGUL Harun,TUR,"Nov 03, 2003",54.92,A,104,-107,-110,104,55kgMen,Snatch,594,False
+7,VORONOVSKYI Dmytro,UKR,"Jan 03, 1997",55.00,A,-103,103,-106,103,55kgMen,Snatch,594,False
+8,ZARKOV Dzhan,BUL,"May 08, 2006",54.78,A,95,99,102,102,55kgMen,Snatch,594,False
+9,BETCA Iulian,MDA,"Aug 17, 2003",54.92,A,-98,98,-103,98,55kgMen,Snatch,594,False
+10,COMERZAN Andrian,MDA,"Oct 11, 2005",55.00,A,85,-89,89,89,55kgMen,Snatch,594,False
+11,DZOBAK Alexandr,CZE,"Feb 14, 2004",52.96,A,-85,86,-90,86,55kgMen,Snatch,594,False
+---,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",55.00,A,-108,-108,-110,---,55kgMen,Snatch,594,False
+1,RUSEV Angel Hriskov,BUL,"Jul 13, 2001",54.93,A,135,-140,---,135,55kgMen,CleanJerk,594,False
+2,ZARKOV Dzhan,BUL,"May 08, 2006",54.78,A,123,129,133,133,55kgMen,CleanJerk,594,False
+3,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",55.00,A,125,-130,131,131,55kgMen,CleanJerk,594,False
+4,SHAMILISHVILI Ramini,GEO,"May 11, 1994",54.73,A,126,130,-134,130,55kgMen,CleanJerk,594,False
+5,LUCA Marian-Cristian,ROU,"Feb 16, 1999",55.00,A,125,128,-131,128,55kgMen,CleanJerk,594,False
+6,ALGUL Harun,TUR,"Nov 03, 2003",54.92,A,125,-130,-130,125,55kgMen,CleanJerk,594,False
+7,VORONOVSKYI Dmytro,UKR,"Jan 03, 1997",55.00,A,123,-129,-130,123,55kgMen,CleanJerk,594,False
+8,BERDELIDZE Goderdzi,GEO,"Jul 14, 1996",54.83,A,-123,-123,123,123,55kgMen,CleanJerk,594,False
+9,SAHIN Muammer,TUR,"Feb 05, 1994",55.00,A,121,-125,-125,121,55kgMen,CleanJerk,594,False
+10,BETCA Iulian,MDA,"Aug 17, 2003",54.92,A,-115,115,119,119,55kgMen,CleanJerk,594,False
+11,DZOBAK Alexandr,CZE,"Feb 14, 2004",52.96,A,110,-115,-116,110,55kgMen,CleanJerk,594,False
+12,COMERZAN Andrian,MDA,"Oct 11, 2005",55.00,A,105,110,-115,110,55kgMen,CleanJerk,594,False
+1,RUSEV Angel Hriskov,BUL,"Jul 13, 2001",54.93,A,109,135,244,---,55kgMen,Total,594,False
+2,SHAMILISHVILI Ramini,GEO,"May 11, 1994",54.73,A,111,130,241,---,55kgMen,Total,594,False
+3,ZARKOV Dzhan,BUL,"May 08, 2006",54.78,A,102,133,235,---,55kgMen,Total,594,False
+4,LUCA Marian-Cristian,ROU,"Feb 16, 1999",55.00,A,106,128,234,---,55kgMen,Total,594,False
+5,SAHIN Muammer,TUR,"Feb 05, 1994",55.00,A,112,121,233,---,55kgMen,Total,594,False
+6,BERDELIDZE Goderdzi,GEO,"Jul 14, 1996",54.83,A,107,123,230,---,55kgMen,Total,594,False
+7,ALGUL Harun,TUR,"Nov 03, 2003",54.92,A,104,125,229,---,55kgMen,Total,594,False
+8,VORONOVSKYI Dmytro,UKR,"Jan 03, 1997",55.00,A,103,123,226,---,55kgMen,Total,594,False
+9,BETCA Iulian,MDA,"Aug 17, 2003",54.92,A,98,119,217,---,55kgMen,Total,594,False
+10,COMERZAN Andrian,MDA,"Oct 11, 2005",55.00,A,89,110,199,---,55kgMen,Total,594,False
+11,DZOBAK Alexandr,CZE,"Feb 14, 2004",52.96,A,86,110,196,---,55kgMen,Total,594,False
+---,BRACHI GARCIA Josue,ESP,"Sep 08, 1992",55.00,A,---,131,---,---,55kgMen,Total,594,False
+1,DIMOV Ivan,BUL,"Apr 12, 2002",60.88,A,130,-133,-133,130,61kgMen,Snatch,594,False
+2,ZALIPSKYI Pavlo,UKR,"Jul 13, 1998",60.98,A,121,124,126,126,61kgMen,Snatch,594,False
+3,MISHVELIDZE Shota,GEO,"Oct 18, 1994",61.00,A,121,-125,125,125,61kgMen,Snatch,594,False
+4,LUNGU Daniel,MDA,"Oct 16, 1998",60.85,A,120,124,-126,124,61kgMen,Snatch,594,False
+5,MARINOV Gabriel,BUL,"Dec 25, 2003",60.96,A,118,-121,121,121,61kgMen,Snatch,594,False
+6,ELIS Mustafa,TUR,"Jul 14, 2005",60.79,A,116,-119,119,119,61kgMen,Snatch,594,False
+7,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",60.88,A,113,116,-119,116,61kgMen,Snatch,594,False
+8,IANCU Valentin-Ionadi,ROU,"Jan 16, 2000",60.99,A,115,-120,-121,115,61kgMen,Snatch,594,False
+9,BADANEV Ion,MDA,"Jan 16, 2006",60.61,A,110,115,-120,115,61kgMen,Snatch,594,False
+1,MARINOV Gabriel,BUL,"Dec 25, 2003",60.96,A,152,160,---,160,61kgMen,CleanJerk,594,False
+2,IANCU Valentin-Ionadi,ROU,"Jan 16, 2000",60.99,A,145,151,154,154,61kgMen,CleanJerk,594,False
+3,DIMOV Ivan,BUL,"Apr 12, 2002",60.88,A,-150,-150,150,150,61kgMen,CleanJerk,594,False
+4,MISHVELIDZE Shota,GEO,"Oct 18, 1994",61.00,A,143,147,-156,147,61kgMen,CleanJerk,594,False
+5,ELIS Mustafa,TUR,"Jul 14, 2005",60.79,A,-145,146,-150,146,61kgMen,CleanJerk,594,False
+6,ZALIPSKYI Pavlo,UKR,"Jul 13, 1998",60.98,A,141,-144,145,145,61kgMen,CleanJerk,594,False
+7,BADANEV Ion,MDA,"Jan 16, 2006",60.61,A,135,140,143,143,61kgMen,CleanJerk,594,False
+8,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",60.88,A,137,-141,141,141,61kgMen,CleanJerk,594,False
+9,LUNGU Daniel,MDA,"Oct 16, 1998",60.85,A,-135,135,-141,135,61kgMen,CleanJerk,594,False
+1,MARINOV Gabriel,BUL,"Dec 25, 2003",60.96,A,121,160,281,---,61kgMen,Total,594,False
+2,DIMOV Ivan,BUL,"Apr 12, 2002",60.88,A,130,150,280,---,61kgMen,Total,594,False
+3,MISHVELIDZE Shota,GEO,"Oct 18, 1994",61.00,A,125,147,272,---,61kgMen,Total,594,False
+4,ZALIPSKYI Pavlo,UKR,"Jul 13, 1998",60.98,A,126,145,271,---,61kgMen,Total,594,False
+5,IANCU Valentin-Ionadi,ROU,"Jan 16, 2000",60.99,A,115,154,269,---,61kgMen,Total,594,False
+6,ELIS Mustafa,TUR,"Jul 14, 2005",60.79,A,119,146,265,---,61kgMen,Total,594,False
+7,LUNGU Daniel,MDA,"Oct 16, 1998",60.85,A,124,135,259,---,61kgMen,Total,594,False
+8,BADANEV Ion,MDA,"Jan 16, 2006",60.61,A,115,143,258,---,61kgMen,Total,594,False
+9,VLADISAVLJEV Stevan,SRB,"Jul 04, 1999",60.88,A,116,141,257,---,61kgMen,Total,594,False
+1,KAHRIMAN Kaan,TUR,"Sep 12, 2004",67.00,A,140,-142,142,142,67kgMen,Snatch,594,False
+2,MASSIDDA Sergio,ITA,"Jan 26, 2002",65.29,A,135,-140,141,141,67kgMen,Snatch,594,False
+3,SAHAKYAN Gor,ARM,"Sep 01, 2003",67.00,A,140,-143,-143,140,67kgMen,Snatch,594,False
+4,RUSTAMOV Isa,AZE,"Nov 06, 1999",66.82,B,130,134,137,137,67kgMen,Snatch,594,False
+5,HERNANDEZ MENDOZA Acoran Juan,ESP,"Dec 30, 1990",66.75,B,132,135,-138,135,67kgMen,Snatch,594,False
+6,LAPTSEU Henadz,AIN,"Dec 15, 1998",66.99,A,135,-140,-140,135,67kgMen,Snatch,594,False
+7,HARDAL Ferdi,TUR,"Dec 31, 1996",67.00,A,135,-138,-139,135,67kgMen,Snatch,594,False
+8,CASTRO MARINO Victor,ESP,"Dec 18, 1992",66.73,B,125,130,133,133,67kgMen,Snatch,594,False
+9,CHKHEIDZE Goga,GEO,"Feb 11, 1996",66.83,A,128,132,-136,132,67kgMen,Snatch,594,False
+10,GENCHEV Valentin Rumyanov,BUL,"Apr 03, 2000",66.83,A,125,128,130,130,67kgMen,Snatch,594,False
+11,MAMMADOV Tehran,AZE,"Mar 29, 2002",65.84,B,120,125,-129,125,67kgMen,Snatch,594,False
+12,PAMPORDZHIEV Dian Angelov,BUL,"Dec 14, 1999",67.00,A,120,125,-128,125,67kgMen,Snatch,594,False
+13,KOMOROWSKI Marek,POL,"Mar 23, 1999",66.90,B,-121,121,-125,121,67kgMen,Snatch,594,False
+14,MINASIDIS Dimitris,CYP,"Apr 29, 1989",67.00,A,-121,121,-126,121,67kgMen,Snatch,594,False
+15,LAMPRIDIS Konstantinos,GRE,"Jan 28, 2005",65.20,B,110,115,119,119,67kgMen,Snatch,594,False
+16,STRANSKY Petr,CZE,"Aug 10, 1997",66.91,B,-117,117,-120,117,67kgMen,Snatch,594,False
+17,DURAK Faris,BIH,"Sep 25, 2002",66.48,B,95,100,-103,100,67kgMen,Snatch,594,False
+---,BRANDHUBER Simon Josef,GER,"Jun 27, 1991",65.49,B,---,---,---,---,67kgMen,Snatch,594,False
+1,SAHAKYAN Gor,ARM,"Sep 01, 2003",67.00,A,171,-173,---,171,67kgMen,CleanJerk,594,False
+2,HARDAL Ferdi,TUR,"Dec 31, 1996",67.00,A,167,169,-172,169,67kgMen,CleanJerk,594,False
+3,KAHRIMAN Kaan,TUR,"Sep 12, 2004",67.00,A,163,-167,168,168,67kgMen,CleanJerk,594,False
+4,RUSTAMOV Isa,AZE,"Nov 06, 1999",66.82,B,155,162,-167,162,67kgMen,CleanJerk,594,False
+5,MASSIDDA Sergio,ITA,"Jan 26, 2002",65.29,A,162,-167,-167,162,67kgMen,CleanJerk,594,False
+6,GENCHEV Valentin Rumyanov,BUL,"Apr 03, 2000",66.83,A,160,-166,-166,160,67kgMen,CleanJerk,594,False
+7,LAPTSEU Henadz,AIN,"Dec 15, 1998",66.99,A,160,-165,-165,160,67kgMen,CleanJerk,594,False
+8,PAMPORDZHIEV Dian Angelov,BUL,"Dec 14, 1999",67.00,A,153,159,-166,159,67kgMen,CleanJerk,594,False
+9,CHKHEIDZE Goga,GEO,"Feb 11, 1996",66.83,A,157,-167,-168,157,67kgMen,CleanJerk,594,False
+10,HERNANDEZ MENDOZA Acoran Juan,ESP,"Dec 30, 1990",66.75,B,156,-160,-160,156,67kgMen,CleanJerk,594,False
+11,CASTRO MARINO Victor,ESP,"Dec 18, 1992",66.73,B,145,150,-153,150,67kgMen,CleanJerk,594,False
+12,MAMMADOV Tehran,AZE,"Mar 29, 2002",65.84,B,140,145,150,150,67kgMen,CleanJerk,594,False
+13,MINASIDIS Dimitris,CYP,"Apr 29, 1989",67.00,A,150,---,---,150,67kgMen,CleanJerk,594,False
+14,LAMPRIDIS Konstantinos,GRE,"Jan 28, 2005",65.20,B,137,143,147,147,67kgMen,CleanJerk,594,False
+15,STRANSKY Petr,CZE,"Aug 10, 1997",66.91,B,143,-146,146,146,67kgMen,CleanJerk,594,False
+16,KOMOROWSKI Marek,POL,"Mar 23, 1999",66.90,B,145,-150,-150,145,67kgMen,CleanJerk,594,False
+17,DURAK Faris,BIH,"Sep 25, 2002",66.48,B,110,-117,-119,110,67kgMen,CleanJerk,594,False
+---,BRANDHUBER Simon Josef,GER,"Jun 27, 1991",65.49,B,---,---,---,---,67kgMen,CleanJerk,594,False
+1,SAHAKYAN Gor,ARM,"Sep 01, 2003",67.00,A,140,171,311,---,67kgMen,Total,594,False
+2,KAHRIMAN Kaan,TUR,"Sep 12, 2004",67.00,A,142,168,310,---,67kgMen,Total,594,False
+3,HARDAL Ferdi,TUR,"Dec 31, 1996",67.00,A,135,169,304,---,67kgMen,Total,594,False
+4,MASSIDDA Sergio,ITA,"Jan 26, 2002",65.29,A,141,162,303,---,67kgMen,Total,594,False
+5,RUSTAMOV Isa,AZE,"Nov 06, 1999",66.82,B,137,162,299,---,67kgMen,Total,594,False
+6,LAPTSEU Henadz,AIN,"Dec 15, 1998",66.99,A,135,160,295,---,67kgMen,Total,594,False
+7,HERNANDEZ MENDOZA Acoran Juan,ESP,"Dec 30, 1990",66.75,B,135,156,291,---,67kgMen,Total,594,False
+8,GENCHEV Valentin Rumyanov,BUL,"Apr 03, 2000",66.83,A,130,160,290,---,67kgMen,Total,594,False
+9,CHKHEIDZE Goga,GEO,"Feb 11, 1996",66.83,A,132,157,289,---,67kgMen,Total,594,False
+10,PAMPORDZHIEV Dian Angelov,BUL,"Dec 14, 1999",67.00,A,125,159,284,---,67kgMen,Total,594,False
+11,CASTRO MARINO Victor,ESP,"Dec 18, 1992",66.73,B,133,150,283,---,67kgMen,Total,594,False
+12,MAMMADOV Tehran,AZE,"Mar 29, 2002",65.84,B,125,150,275,---,67kgMen,Total,594,False
+13,MINASIDIS Dimitris,CYP,"Apr 29, 1989",67.00,A,121,150,271,---,67kgMen,Total,594,False
+14,KOMOROWSKI Marek,POL,"Mar 23, 1999",66.90,B,121,145,266,---,67kgMen,Total,594,False
+15,LAMPRIDIS Konstantinos,GRE,"Jan 28, 2005",65.20,B,119,147,266,---,67kgMen,Total,594,False
+16,STRANSKY Petr,CZE,"Aug 10, 1997",66.91,B,117,146,263,---,67kgMen,Total,594,False
+17,DURAK Faris,BIH,"Sep 25, 2002",66.48,B,100,110,210,---,67kgMen,Total,594,False
+---,BRANDHUBER Simon Josef,GER,"Jun 27, 1991",65.49,B,---,---,---,---,67kgMen,Total,594,False
+1,ANDREEV Bozhidar Dimitrov,BUL,"Jan 17, 1997",73.00,A,-150,150,155,155,73kgMen,Snatch,594,False
+2,SUHAREVS Ritvars,LAT,"Jan 11, 1999",73.00,A,150,-154,154,154,73kgMen,Snatch,594,False
+3,ZANNI Mirko,ITA,"Oct 16, 1997",72.81,A,150,-153,153,153,73kgMen,Snatch,594,False
+4,JAVADOV Omar,AZE,"Apr 01, 2002",72.61,B,146,150,152,152,73kgMen,Snatch,594,False
+5,GUTU Roberto,GER,"Jul 27, 2000",73.00,B,-147,-147,151,151,73kgMen,Snatch,594,False
+6,OZBEK Muhammed Furkan,TUR,"Jan 24, 2001",72.00,A,145,148,150,150,73kgMen,Snatch,594,False
+7,CALJA Briken,ALB,"Feb 19, 1990",72.90,A,-148,148,-153,148,73kgMen,Snatch,594,False
+8,SANCHEZ LOPEZ David,ESP,"Jul 20, 1994",73.00,B,-147,147,-151,147,73kgMen,Snatch,594,False
+9,MURRAY Christopher John,GBR,"Feb 05, 1999",72.62,B,-143,143,147,147,73kgMen,Snatch,594,False
+10,LANG Max Richard,GER,"Dec 06, 1992",73.00,A,140,144,147,147,73kgMen,Snatch,594,False
+11,MALAKMADZE Archil,GEO,"Apr 30, 2001",72.97,B,141,146,-151,146,73kgMen,Snatch,594,False
+12,GENC Fehmi Yusuf,TUR,"May 23, 2002",69.77,A,140,144,-146,144,73kgMen,Snatch,594,False
+13,KINGUE MATAM Bernardin Ledoux,FRA,"May 20, 1990",72.99,A,138,142,-145,142,73kgMen,Snatch,594,False
+14,DONOSE Tiberiu Ionut,ROU,"May 12, 2005",73.00,B,140,-146,-146,140,73kgMen,Snatch,594,False
+15,KUDLASZYK Piotr Mateusz,POL,"May 29, 1999",72.71,A,-138,138,-141,138,73kgMen,Snatch,594,False
+16,CHIN Jonathan Andrew Keir,GBR,"Feb 28, 1994",73.00,B,125,-130,-131,125,73kgMen,Snatch,594,False
+17,AUFDENBLATTEN Jonas,SUI,"Aug 06, 1999",72.81,B,118,122,-126,122,73kgMen,Snatch,594,False
+18,CUBRANIC Fran,CRO,"Aug 19, 2000",72.72,B,103,108,-112,108,73kgMen,Snatch,594,False
+1,ANDREEV Bozhidar Dimitrov,BUL,"Jan 17, 1997",73.00,A,181,185,193,193,73kgMen,CleanJerk,594,False
+2,OZBEK Muhammed Furkan,TUR,"Jan 24, 2001",72.00,A,-185,-186,186,186,73kgMen,CleanJerk,594,False
+3,GENC Fehmi Yusuf,TUR,"May 23, 2002",69.77,A,180,184,-186,184,73kgMen,CleanJerk,594,False
+4,KINGUE MATAM Bernardin Ledoux,FRA,"May 20, 1990",72.99,A,177,-182,182,182,73kgMen,CleanJerk,594,False
+5,CALJA Briken,ALB,"Feb 19, 1990",72.90,A,180,-185,-186,180,73kgMen,CleanJerk,594,False
+6,LANG Max Richard,GER,"Dec 06, 1992",73.00,A,175,180,-186,180,73kgMen,CleanJerk,594,False
+7,GUTU Roberto,GER,"Jul 27, 2000",73.00,B,173,178,-182,178,73kgMen,CleanJerk,594,False
+8,SUHAREVS Ritvars,LAT,"Jan 11, 1999",73.00,A,-177,177,-183,177,73kgMen,CleanJerk,594,False
+9,DONOSE Tiberiu Ionut,ROU,"May 12, 2005",73.00,B,165,170,175,175,73kgMen,CleanJerk,594,False
+10,MALAKMADZE Archil,GEO,"Apr 30, 2001",72.97,B,163,168,-173,168,73kgMen,CleanJerk,594,False
+11,JAVADOV Omar,AZE,"Apr 01, 2002",72.61,B,166,-171,-171,166,73kgMen,CleanJerk,594,False
+12,CHIN Jonathan Andrew Keir,GBR,"Feb 28, 1994",73.00,B,-163,163,-171,163,73kgMen,CleanJerk,594,False
+13,AUFDENBLATTEN Jonas,SUI,"Aug 06, 1999",72.81,B,145,152,-155,152,73kgMen,CleanJerk,594,False
+14,CUBRANIC Fran,CRO,"Aug 19, 2000",72.72,B,135,140,-147,140,73kgMen,CleanJerk,594,False
+---,MURRAY Christopher John,GBR,"Feb 05, 1999",72.62,B,-179,-179,-183,---,73kgMen,CleanJerk,594,False
+---,SANCHEZ LOPEZ David,ESP,"Jul 20, 1994",73.00,B,---,---,---,---,73kgMen,CleanJerk,594,False
+---,KUDLASZYK Piotr Mateusz,POL,"May 29, 1999",72.71,A,-178,-180,-180,---,73kgMen,CleanJerk,594,False
+---,ZANNI Mirko,ITA,"Oct 16, 1997",72.81,A,-183,-183,-183,---,73kgMen,CleanJerk,594,False
+1,ANDREEV Bozhidar Dimitrov,BUL,"Jan 17, 1997",73.00,A,155,193,348,---,73kgMen,Total,594,False
+2,OZBEK Muhammed Furkan,TUR,"Jan 24, 2001",72.00,A,150,186,336,---,73kgMen,Total,594,False
+3,SUHAREVS Ritvars,LAT,"Jan 11, 1999",73.00,A,154,177,331,---,73kgMen,Total,594,False
+4,GUTU Roberto,GER,"Jul 27, 2000",73.00,B,151,178,329,---,73kgMen,Total,594,False
+5,CALJA Briken,ALB,"Feb 19, 1990",72.90,A,148,180,328,---,73kgMen,Total,594,False
+6,GENC Fehmi Yusuf,TUR,"May 23, 2002",69.77,A,144,184,328,---,73kgMen,Total,594,False
+7,LANG Max Richard,GER,"Dec 06, 1992",73.00,A,147,180,327,---,73kgMen,Total,594,False
+8,KINGUE MATAM Bernardin Ledoux,FRA,"May 20, 1990",72.99,A,142,182,324,---,73kgMen,Total,594,False
+9,JAVADOV Omar,AZE,"Apr 01, 2002",72.61,B,152,166,318,---,73kgMen,Total,594,False
+10,DONOSE Tiberiu Ionut,ROU,"May 12, 2005",73.00,B,140,175,315,---,73kgMen,Total,594,False
+11,MALAKMADZE Archil,GEO,"Apr 30, 2001",72.97,B,146,168,314,---,73kgMen,Total,594,False
+12,CHIN Jonathan Andrew Keir,GBR,"Feb 28, 1994",73.00,B,125,163,288,---,73kgMen,Total,594,False
+13,AUFDENBLATTEN Jonas,SUI,"Aug 06, 1999",72.81,B,122,152,274,---,73kgMen,Total,594,False
+14,CUBRANIC Fran,CRO,"Aug 19, 2000",72.72,B,108,140,248,---,73kgMen,Total,594,False
+---,MURRAY Christopher John,GBR,"Feb 05, 1999",72.62,B,147,---,---,---,73kgMen,Total,594,False
+---,SANCHEZ LOPEZ David,ESP,"Jul 20, 1994",73.00,B,147,---,---,---,73kgMen,Total,594,False
+---,KUDLASZYK Piotr Mateusz,POL,"May 29, 1999",72.71,A,138,---,---,---,73kgMen,Total,594,False
+---,ZANNI Mirko,ITA,"Oct 16, 1997",72.81,A,153,---,---,---,73kgMen,Total,594,False
+1,REYES MARTINEZ Oscar,ITA,"Oct 06, 1996",79.55,A,152,155,-157,155,81kgMen,Snatch,594,False
+2,QERIMAJ Erkand,ALB,"Aug 10, 1988",80.80,A,-152,152,155,155,81kgMen,Snatch,594,False
+3,HARUTYUNYAN Rafik,ARM,"May 17, 2000",80.91,A,150,154,-157,154,81kgMen,Snatch,594,False
+4,RAMADANI Kristi,ALB,"Oct 29, 2000",81.00,B,147,151,-153,151,81kgMen,Snatch,594,False
+5,MARECEK Petr,CZE,"Jul 12, 1998",80.47,A,146,151,-153,151,81kgMen,Snatch,594,False
+6,BEBEN Patryk Sylwester,POL,"Mar 18, 2000",81.00,A,145,150,-153,150,81kgMen,Snatch,594,False
+7,FERNANDEZ GARCIA Alberto,ESP,"Nov 20, 1997",80.66,A,145,-150,-153,145,81kgMen,Snatch,594,False
+8,MOROSANU Victor,MDA,"Dec 29, 2001",80.87,A,145,-150,-150,145,81kgMen,Snatch,594,False
+9,KONDRATIUK Dmytro,UKR,"Jun 19, 2001",81.00,A,137,141,144,144,81kgMen,Snatch,594,False
+10,CABALA Sebastian,SVK,"Oct 07, 2002",79.98,A,-140,142,-144,142,81kgMen,Snatch,594,False
+11,MISAKYAN Hmayak,AUT,"Oct 02, 2002",80.87,A,141,-146,-146,141,81kgMen,Snatch,594,False
+12,ALIYEV Fugan,AZE,"Jan 20, 2001",80.59,B,135,140,-143,140,81kgMen,Snatch,594,False
+13,ZILINSKAS Zilvinas,LTU,"Nov 02, 2001",80.95,B,134,-139,140,140,81kgMen,Snatch,594,False
+14,BRATU Constantin,MDA,"Aug 16, 2000",80.66,A,140,-143,-143,140,81kgMen,Snatch,594,False
+15,ALMEIDA Miguel,POR,"Jul 09, 1999",80.17,B,130,-137,137,137,81kgMen,Snatch,594,False
+16,ALMAMMADOV Ravin,AZE,"Feb 15, 2006",81.00,B,135,-140,-140,135,81kgMen,Snatch,594,False
+17,MOREIRA Joao,POR,"Jun 05, 1997",78.68,B,110,116,120,120,81kgMen,Snatch,594,False
+1,REYES MARTINEZ Oscar,ITA,"Oct 06, 1996",79.55,A,187,191,---,191,81kgMen,CleanJerk,594,False
+2,RAMADANI Kristi,ALB,"Oct 29, 2000",81.00,B,180,186,190,190,81kgMen,CleanJerk,594,False
+3,BEBEN Patryk Sylwester,POL,"Mar 18, 2000",81.00,A,177,183,-187,183,81kgMen,CleanJerk,594,False
+4,KONDRATIUK Dmytro,UKR,"Jun 19, 2001",81.00,A,178,183,-188,183,81kgMen,CleanJerk,594,False
+5,HARUTYUNYAN Rafik,ARM,"May 17, 2000",80.91,A,182,-188,-189,182,81kgMen,CleanJerk,594,False
+6,QERIMAJ Erkand,ALB,"Aug 10, 1988",80.80,A,180,-186,-186,180,81kgMen,CleanJerk,594,False
+7,MARECEK Petr,CZE,"Jul 12, 1998",80.47,A,-175,175,-181,175,81kgMen,CleanJerk,594,False
+8,ZILINSKAS Zilvinas,LTU,"Nov 02, 2001",80.95,B,165,170,174,174,81kgMen,CleanJerk,594,False
+9,CABALA Sebastian,SVK,"Oct 07, 2002",79.98,A,170,174,-178,174,81kgMen,CleanJerk,594,False
+10,ALIYEV Fugan,AZE,"Jan 20, 2001",80.59,B,168,173,-178,173,81kgMen,CleanJerk,594,False
+11,FERNANDEZ GARCIA Alberto,ESP,"Nov 20, 1997",80.66,A,170,-175,-175,170,81kgMen,CleanJerk,594,False
+12,MOROSANU Victor,MDA,"Dec 29, 2001",80.87,A,170,-175,-175,170,81kgMen,CleanJerk,594,False
+13,BRATU Constantin,MDA,"Aug 16, 2000",80.66,A,170,-175,-175,170,81kgMen,CleanJerk,594,False
+14,MISAKYAN Hmayak,AUT,"Oct 02, 2002",80.87,A,165,-170,-170,165,81kgMen,CleanJerk,594,False
+15,ALMEIDA Miguel,POR,"Jul 09, 1999",80.17,B,160,-172,-172,160,81kgMen,CleanJerk,594,False
+16,MOREIRA Joao,POR,"Jun 05, 1997",78.68,B,140,-146,-146,140,81kgMen,CleanJerk,594,False
+---,ALMAMMADOV Ravin,AZE,"Feb 15, 2006",81.00,B,---,---,---,---,81kgMen,CleanJerk,594,False
+1,REYES MARTINEZ Oscar,ITA,"Oct 06, 1996",79.55,A,155,191,346,---,81kgMen,Total,594,False
+2,RAMADANI Kristi,ALB,"Oct 29, 2000",81.00,B,151,190,341,---,81kgMen,Total,594,False
+3,HARUTYUNYAN Rafik,ARM,"May 17, 2000",80.91,A,154,182,336,---,81kgMen,Total,594,False
+4,QERIMAJ Erkand,ALB,"Aug 10, 1988",80.80,A,155,180,335,---,81kgMen,Total,594,False
+5,BEBEN Patryk Sylwester,POL,"Mar 18, 2000",81.00,A,150,183,333,---,81kgMen,Total,594,False
+6,KONDRATIUK Dmytro,UKR,"Jun 19, 2001",81.00,A,144,183,327,---,81kgMen,Total,594,False
+7,MARECEK Petr,CZE,"Jul 12, 1998",80.47,A,151,175,326,---,81kgMen,Total,594,False
+8,CABALA Sebastian,SVK,"Oct 07, 2002",79.98,A,142,174,316,---,81kgMen,Total,594,False
+9,FERNANDEZ GARCIA Alberto,ESP,"Nov 20, 1997",80.66,A,145,170,315,---,81kgMen,Total,594,False
+10,MOROSANU Victor,MDA,"Dec 29, 2001",80.87,A,145,170,315,---,81kgMen,Total,594,False
+11,ZILINSKAS Zilvinas,LTU,"Nov 02, 2001",80.95,B,140,174,314,---,81kgMen,Total,594,False
+12,ALIYEV Fugan,AZE,"Jan 20, 2001",80.59,B,140,173,313,---,81kgMen,Total,594,False
+13,BRATU Constantin,MDA,"Aug 16, 2000",80.66,A,140,170,310,---,81kgMen,Total,594,False
+14,MISAKYAN Hmayak,AUT,"Oct 02, 2002",80.87,A,141,165,306,---,81kgMen,Total,594,False
+15,ALMEIDA Miguel,POR,"Jul 09, 1999",80.17,B,137,160,297,---,81kgMen,Total,594,False
+16,MOREIRA Joao,POR,"Jun 05, 1997",78.68,B,120,140,260,---,81kgMen,Total,594,False
+---,ALMAMMADOV Ravin,AZE,"Feb 15, 2006",81.00,B,135,---,---,---,81kgMen,Total,594,False
+1,NASAR Karlos May,BUL,"May 12, 2004",87.39,A,168,173,176,176,89kgMen,Snatch,594,False
+2,ROBU Marin,MDA,"Mar 19, 2000",88.79,A,165,-171,171,171,89kgMen,Snatch,594,False
+3,PIZZOLATO Antonino,ITA,"Aug 20, 1996",89.00,A,170,-175,-175,170,89kgMen,Snatch,594,False
+4,KARAPETYAN Andranik,ARM,"Dec 15, 1995",89.00,A,170,-175,-175,170,89kgMen,Snatch,594,False
+5,ASAYONAK Petr,AIN,"Feb 27, 1993",88.83,A,-167,-167,167,167,89kgMen,Snatch,594,False
+6,MEZINSKIS Armands,LAT,"Sep 08, 2000",88.97,A,155,159,163,163,89kgMen,Snatch,594,False
+7,FRIEDRICH Raphael,GER,"Jan 25, 2001",88.27,A,153,158,-161,158,89kgMen,Snatch,594,False
+8,MUELLER Nico,GER,"Nov 02, 1993",89.00,A,153,-158,158,158,89kgMen,Snatch,594,False
+9,IAKOVIDIS Theodoros,GRE,"Feb 12, 1991",88.23,A,152,157,-162,157,89kgMen,Snatch,594,False
+10,ALAM Omed,DEN,"May 20, 1999",89.00,B,143,147,150,150,89kgMen,Snatch,594,False
+11,CERTOV Dominik,AUT,"Oct 05, 1994",86.21,B,138,-141,141,141,89kgMen,Snatch,594,False
+12,BROWN Sean Kevin,IRL,"Jun 03, 1991",88.30,B,-141,-141,141,141,89kgMen,Snatch,594,False
+13,MAMMADZADA Nurlan,AZE,"Aug 17, 2004",86.00,B,130,135,140,140,89kgMen,Snatch,594,False
+14,SIMBUERGER Elias,AUT,"Mar 28, 2004",87.55,B,-138,-138,138,138,89kgMen,Snatch,594,False
+15,EL AMRANI Youssef,BEL,"Aug 25, 1996",87.85,B,133,-137,137,137,89kgMen,Snatch,594,False
+16,KOBILIC Zerin,BIH,"Jan 26, 1998",88.22,B,105,110,115,115,89kgMen,Snatch,594,False
+---,DOMBROVSKYI Maksym,UKR,"Apr 20, 2002",89.00,A,---,---,---,---,89kgMen,Snatch,594,False
+---,PENT Leho,EST,"Apr 02, 1990",89.00,B,---,---,---,---,89kgMen,Snatch,594,False
+---,KOFSHA Ertjan,ALB,"Apr 09, 2005",88.80,A,-155,-158,-158,---,89kgMen,Snatch,594,False
+1,NASAR Karlos May,BUL,"May 12, 2004",87.39,A,208,215,---,215,89kgMen,CleanJerk,594,False
+2,PIZZOLATO Antonino,ITA,"Aug 20, 1996",89.00,A,210,-215,-222,210,89kgMen,CleanJerk,594,False
+3,ASAYONAK Petr,AIN,"Feb 27, 1993",88.83,A,-200,200,207,207,89kgMen,CleanJerk,594,False
+4,ROBU Marin,MDA,"Mar 19, 2000",88.79,A,195,202,207,207,89kgMen,CleanJerk,594,False
+5,MUELLER Nico,GER,"Nov 02, 1993",89.00,A,190,195,201,201,89kgMen,CleanJerk,594,False
+6,MEZINSKIS Armands,LAT,"Sep 08, 2000",88.97,A,195,-200,-201,195,89kgMen,CleanJerk,594,False
+7,KARAPETYAN Andranik,ARM,"Dec 15, 1995",89.00,A,195,-204,-204,195,89kgMen,CleanJerk,594,False
+8,FRIEDRICH Raphael,GER,"Jan 25, 2001",88.27,A,183,188,-192,188,89kgMen,CleanJerk,594,False
+9,KOFSHA Ertjan,ALB,"Apr 09, 2005",88.80,A,185,-187,---,185,89kgMen,CleanJerk,594,False
+10,IAKOVIDIS Theodoros,GRE,"Feb 12, 1991",88.23,A,178,184,-189,184,89kgMen,CleanJerk,594,False
+11,ALAM Omed,DEN,"May 20, 1999",89.00,B,180,-186,-186,180,89kgMen,CleanJerk,594,False
+12,SIMBUERGER Elias,AUT,"Mar 28, 2004",87.55,B,170,-174,178,178,89kgMen,CleanJerk,594,False
+13,BROWN Sean Kevin,IRL,"Jun 03, 1991",88.30,B,169,173,177,177,89kgMen,CleanJerk,594,False
+14,EL AMRANI Youssef,BEL,"Aug 25, 1996",87.85,B,167,-171,-171,167,89kgMen,CleanJerk,594,False
+15,CERTOV Dominik,AUT,"Oct 05, 1994",86.21,B,166,-171,-171,166,89kgMen,CleanJerk,594,False
+16,KOBILIC Zerin,BIH,"Jan 26, 1998",88.22,B,-135,135,142,142,89kgMen,CleanJerk,594,False
+---,DOMBROVSKYI Maksym,UKR,"Apr 20, 2002",89.00,A,---,---,---,---,89kgMen,CleanJerk,594,False
+---,PENT Leho,EST,"Apr 02, 1990",89.00,B,---,---,---,---,89kgMen,CleanJerk,594,False
+---,MAMMADZADA Nurlan,AZE,"Aug 17, 2004",86.00,B,-165,-165,---,---,89kgMen,CleanJerk,594,False
+1,NASAR Karlos May,BUL,"May 12, 2004",87.39,A,176,215,391,---,89kgMen,Total,594,False
+2,PIZZOLATO Antonino,ITA,"Aug 20, 1996",89.00,A,170,210,380,---,89kgMen,Total,594,False
+3,ROBU Marin,MDA,"Mar 19, 2000",88.79,A,171,207,378,---,89kgMen,Total,594,False
+4,ASAYONAK Petr,AIN,"Feb 27, 1993",88.83,A,167,207,374,---,89kgMen,Total,594,False
+5,KARAPETYAN Andranik,ARM,"Dec 15, 1995",89.00,A,170,195,365,---,89kgMen,Total,594,False
+6,MUELLER Nico,GER,"Nov 02, 1993",89.00,A,158,201,359,---,89kgMen,Total,594,False
+7,MEZINSKIS Armands,LAT,"Sep 08, 2000",88.97,A,163,195,358,---,89kgMen,Total,594,False
+8,FRIEDRICH Raphael,GER,"Jan 25, 2001",88.27,A,158,188,346,---,89kgMen,Total,594,False
+9,IAKOVIDIS Theodoros,GRE,"Feb 12, 1991",88.23,A,157,184,341,---,89kgMen,Total,594,False
+10,ALAM Omed,DEN,"May 20, 1999",89.00,B,150,180,330,---,89kgMen,Total,594,False
+11,BROWN Sean Kevin,IRL,"Jun 03, 1991",88.30,B,141,177,318,---,89kgMen,Total,594,False
+12,SIMBUERGER Elias,AUT,"Mar 28, 2004",87.55,B,138,178,316,---,89kgMen,Total,594,False
+13,CERTOV Dominik,AUT,"Oct 05, 1994",86.21,B,141,166,307,---,89kgMen,Total,594,False
+14,EL AMRANI Youssef,BEL,"Aug 25, 1996",87.85,B,137,167,304,---,89kgMen,Total,594,False
+15,KOBILIC Zerin,BIH,"Jan 26, 1998",88.22,B,115,142,257,---,89kgMen,Total,594,False
+---,DOMBROVSKYI Maksym,UKR,"Apr 20, 2002",89.00,A,---,---,---,---,89kgMen,Total,594,False
+---,PENT Leho,EST,"Apr 02, 1990",89.00,B,---,---,---,---,89kgMen,Total,594,False
+---,MAMMADZADA Nurlan,AZE,"Aug 17, 2004",86.00,B,140,---,---,---,89kgMen,Total,594,False
+---,KOFSHA Ertjan,ALB,"Apr 09, 2005",88.80,A,---,185,---,---,89kgMen,Total,594,False
+1,HOVHANNISYAN Davit,ARM,"Jan 14, 1997",95.97,A,-166,166,169,169,96kgMen,Snatch,594,False
+2,MKRTCHYAN Hakob,ARM,"Mar 08, 1997",95.84,A,161,166,-168,166,96kgMen,Snatch,594,False
+3,KHADASEVICH Pavel,AIN,"Jul 16, 1993",96.00,A,165,-168,-168,165,96kgMen,Snatch,594,False
+4,CELIK Enes,TUR,"Jul 21, 2004",94.85,A,160,162,-166,162,96kgMen,Snatch,594,False
+5,SERDIUKOV Anton,UKR,"Mar 28, 1998",95.15,A,-160,160,-164,160,96kgMen,Snatch,594,False
+6,SAWULSKI Patryk Eryk,POL,"Nov 19, 2001",95.14,A,152,156,158,158,96kgMen,Snatch,594,False
+7,KURLOVICH Yulian,AIN,"May 17, 1998",93.83,A,-157,157,-163,157,96kgMen,Snatch,594,False
+8,YANG Houqin,MAC,"Dec 27, 1981",95.56,B,-151,151,155,155,96kgMen,Snatch,594,False
+9,GASIOR Jiri,CZE,"Jan 24, 1991",95.97,B,148,-151,152,152,96kgMen,Snatch,594,False
+10,KOLAR Josef,CZE,"Jan 10, 1997",96.00,B,-151,151,-156,151,96kgMen,Snatch,594,False
+11,TCHATCHET II Cyrille Fagat,GBR,"Aug 01, 1995",93.39,B,-151,-151,151,151,96kgMen,Snatch,594,False
+12,MSKHALADZE Zurab,GEO,"Jun 28, 2003",91.12,A,151,-156,-156,151,96kgMen,Snatch,594,False
+13,MAZNITSYN Stanislav,ISR,"Feb 23, 1996",95.97,A,-151,151,-155,151,96kgMen,Snatch,594,False
+14,TSCHAN Yannick,SUI,"Aug 30, 1996",95.05,B,142,146,-148,146,96kgMen,Snatch,594,False
+15,POPA Claudiu Sergiu,ROU,"Jun 22, 1999",92.75,B,140,-145,145,145,96kgMen,Snatch,594,False
+16,DOBNIK Peter,SLO,"Jul 08, 1991",95.47,B,135,141,143,143,96kgMen,Snatch,594,False
+17,SAMKO Karol,SVK,"Mar 09, 1990",95.95,B,136,140,-144,140,96kgMen,Snatch,594,False
+18,ROCHE Shane,IRL,"Jun 10, 2002",92.00,B,-136,136,-140,136,96kgMen,Snatch,594,False
+19,LOURENCO Francisco,POR,"Oct 17, 1999",94.01,B,125,133,-141,133,96kgMen,Snatch,594,False
+---,IMADOUCHENE Romain Jordan Sebastien,FRA,"Sep 05, 1995",93.03,B,---,---,---,---,96kgMen,Snatch,594,False
+---,TABAKU Ermand,ALB,"Aug 06, 1992",94.68,B,-150,-150,-150,---,96kgMen,Snatch,594,False
+---,ADAMUS Bartlomiej Stefan,POL,"May 12, 2000",95.16,A,-150,-150,-150,---,96kgMen,Snatch,594,False
+1,MKRTCHYAN Hakob,ARM,"Mar 08, 1997",95.84,A,200,205,209,209,96kgMen,CleanJerk,594,False
+2,HOVHANNISYAN Davit,ARM,"Jan 14, 1997",95.97,A,200,205,-210,205,96kgMen,CleanJerk,594,False
+3,KURLOVICH Yulian,AIN,"May 17, 1998",93.83,A,192,196,-201,196,96kgMen,CleanJerk,594,False
+4,KHADASEVICH Pavel,AIN,"Jul 16, 1993",96.00,A,195,-200,-206,195,96kgMen,CleanJerk,594,False
+5,MSKHALADZE Zurab,GEO,"Jun 28, 2003",91.12,A,185,192,-197,192,96kgMen,CleanJerk,594,False
+6,SERDIUKOV Anton,UKR,"Mar 28, 1998",95.15,A,188,192,-197,192,96kgMen,CleanJerk,594,False
+7,SAWULSKI Patryk Eryk,POL,"Nov 19, 2001",95.14,A,188,192,-197,192,96kgMen,CleanJerk,594,False
+8,YANG Houqin,MAC,"Dec 27, 1981",95.56,B,185,191,-196,191,96kgMen,CleanJerk,594,False
+9,SAMKO Karol,SVK,"Mar 09, 1990",95.95,B,185,191,-201,191,96kgMen,CleanJerk,594,False
+10,MAZNITSYN Stanislav,ISR,"Feb 23, 1996",95.97,A,190,-196,-196,190,96kgMen,CleanJerk,594,False
+11,GASIOR Jiri,CZE,"Jan 24, 1991",95.97,B,182,188,-192,188,96kgMen,CleanJerk,594,False
+12,TCHATCHET II Cyrille Fagat,GBR,"Aug 01, 1995",93.39,B,-185,188,-196,188,96kgMen,CleanJerk,594,False
+13,CELIK Enes,TUR,"Jul 21, 2004",94.85,A,180,185,-189,185,96kgMen,CleanJerk,594,False
+14,KOLAR Josef,CZE,"Jan 10, 1997",96.00,B,179,-184,-184,179,96kgMen,CleanJerk,594,False
+15,TSCHAN Yannick,SUI,"Aug 30, 1996",95.05,B,178,-182,-184,178,96kgMen,CleanJerk,594,False
+16,ROCHE Shane,IRL,"Jun 10, 2002",92.00,B,165,-169,-169,165,96kgMen,CleanJerk,594,False
+17,POPA Claudiu Sergiu,ROU,"Jun 22, 1999",92.75,B,-163,163,-168,163,96kgMen,CleanJerk,594,False
+18,DOBNIK Peter,SLO,"Jul 08, 1991",95.47,B,156,-162,-163,156,96kgMen,CleanJerk,594,False
+19,LOURENCO Francisco,POR,"Oct 17, 1999",94.01,B,155,-163,-165,155,96kgMen,CleanJerk,594,False
+---,IMADOUCHENE Romain Jordan Sebastien,FRA,"Sep 05, 1995",93.03,B,---,---,---,---,96kgMen,CleanJerk,594,False
+---,TABAKU Ermand,ALB,"Aug 06, 1992",94.68,B,---,---,---,---,96kgMen,CleanJerk,594,False
+---,ADAMUS Bartlomiej Stefan,POL,"May 12, 2000",95.16,A,---,---,---,---,96kgMen,CleanJerk,594,False
+1,MKRTCHYAN Hakob,ARM,"Mar 08, 1997",95.84,A,166,209,375,---,96kgMen,Total,594,False
+2,HOVHANNISYAN Davit,ARM,"Jan 14, 1997",95.97,A,169,205,374,---,96kgMen,Total,594,False
+3,KHADASEVICH Pavel,AIN,"Jul 16, 1993",96.00,A,165,195,360,---,96kgMen,Total,594,False
+4,KURLOVICH Yulian,AIN,"May 17, 1998",93.83,A,157,196,353,---,96kgMen,Total,594,False
+5,SERDIUKOV Anton,UKR,"Mar 28, 1998",95.15,A,160,192,352,---,96kgMen,Total,594,False
+6,SAWULSKI Patryk Eryk,POL,"Nov 19, 2001",95.14,A,158,192,350,---,96kgMen,Total,594,False
+7,CELIK Enes,TUR,"Jul 21, 2004",94.85,A,162,185,347,---,96kgMen,Total,594,False
+8,YANG Houqin,MAC,"Dec 27, 1981",95.56,B,155,191,346,---,96kgMen,Total,594,False
+9,MSKHALADZE Zurab,GEO,"Jun 28, 2003",91.12,A,151,192,343,---,96kgMen,Total,594,False
+10,MAZNITSYN Stanislav,ISR,"Feb 23, 1996",95.97,A,151,190,341,---,96kgMen,Total,594,False
+11,GASIOR Jiri,CZE,"Jan 24, 1991",95.97,B,152,188,340,---,96kgMen,Total,594,False
+12,TCHATCHET II Cyrille Fagat,GBR,"Aug 01, 1995",93.39,B,151,188,339,---,96kgMen,Total,594,False
+13,SAMKO Karol,SVK,"Mar 09, 1990",95.95,B,140,191,331,---,96kgMen,Total,594,False
+14,KOLAR Josef,CZE,"Jan 10, 1997",96.00,B,151,179,330,---,96kgMen,Total,594,False
+15,TSCHAN Yannick,SUI,"Aug 30, 1996",95.05,B,146,178,324,---,96kgMen,Total,594,False
+16,POPA Claudiu Sergiu,ROU,"Jun 22, 1999",92.75,B,145,163,308,---,96kgMen,Total,594,False
+17,ROCHE Shane,IRL,"Jun 10, 2002",92.00,B,136,165,301,---,96kgMen,Total,594,False
+18,DOBNIK Peter,SLO,"Jul 08, 1991",95.47,B,143,156,299,---,96kgMen,Total,594,False
+19,LOURENCO Francisco,POR,"Oct 17, 1999",94.01,B,133,155,288,---,96kgMen,Total,594,False
+---,IMADOUCHENE Romain Jordan Sebastien,FRA,"Sep 05, 1995",93.03,B,---,---,---,---,96kgMen,Total,594,False
+---,TABAKU Ermand,ALB,"Aug 06, 1992",94.68,B,---,---,---,---,96kgMen,Total,594,False
+---,ADAMUS Bartlomiej Stefan,POL,"May 12, 2000",95.16,A,---,---,---,---,96kgMen,Total,594,False
+1,KARAPETYAN Garik,ARM,"Jun 11, 2003",102.00,A,177,182,-187,182,102kgMen,Snatch,594,False
+2,TSIKHANTSOU Yauheni,AIN,"Apr 11, 1998",101.71,A,-176,176,181,181,102kgMen,Snatch,594,False
+3,GASPARYAN Samvel,ARM,"Nov 24, 1997",102.00,A,173,177,180,180,102kgMen,Snatch,594,False
+4,SHARANKOU Siarhei,AIN,"Jun 15, 2002",101.98,A,170,176,178,178,102kgMen,Snatch,594,False
+5,BRATU Tudor,MDA,"Sep 27, 2002",100.00,B,165,170,175,175,102kgMen,Snatch,594,False
+6,CHKHEIDZE Irakli,GEO,"Jan 05, 1999",101.68,A,168,174,-178,174,102kgMen,Snatch,594,False
+7,MARINOV Vasil Kaloyanov,BUL,"Jan 28, 2001",102.00,A,173,-177,-177,173,102kgMen,Snatch,594,False
+8,PLESNIEKS Arturs,LAT,"Jan 21, 1992",101.76,A,-168,168,173,173,102kgMen,Snatch,594,False
+9,YANTSEVYCH Yevhenii,UKR,"Sep 26, 2000",101.95,B,160,164,-167,164,102kgMen,Snatch,594,False
+10,SHUKURLU Ali,AZE,"Nov 09, 2003",101.32,B,158,163,-170,163,102kgMen,Snatch,594,False
+11,MANUSHI Redon,FRA,"May 02, 1990",100.63,B,-160,160,-165,160,102kgMen,Snatch,594,False
+12,KACINSKAS Irmantas,LTU,"Feb 23, 1992",100.05,B,-145,150,158,158,102kgMen,Snatch,594,False
+13,GRIFFITHS Andrew,GBR,"May 20, 1993",101.94,B,151,-157,157,157,102kgMen,Snatch,594,False
+14,MUGURDUMOV Artur,ISR,"Jun 06, 1988",102.00,A,156,-160,-160,156,102kgMen,Snatch,594,False
+15,VAUTARD Brandon Robert Jean,FRA,"Sep 09, 1996",102.00,B,-150,-150,150,150,102kgMen,Snatch,594,False
+16,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Oct 30, 1996",101.69,B,145,-149,149,149,102kgMen,Snatch,594,False
+17,PELTONEN Roni Jali Kasperi,FIN,"Oct 06, 1998",101.94,B,141,-145,148,148,102kgMen,Snatch,594,False
+18,SIDISKIS Arnas,LTU,"Jul 05, 1990",101.86,B,145,-150,-150,145,102kgMen,Snatch,594,False
+19,STREICHL Martin,CZE,"Jul 19, 2000",99.93,B,138,-142,142,142,102kgMen,Snatch,594,False
+20,DE MELO FERNANDES Joao,POR,"Jan 13, 1987",97.64,B,125,130,-135,130,102kgMen,Snatch,594,False
+---,GOLJASZ Daniel,POL,"Aug 14, 1997",99.36,A,-159,-160,-160,---,102kgMen,Snatch,594,False
+---,KASABIJEW Arsen,POL,"Nov 15, 1987",102.00,A,-165,-165,-165,---,102kgMen,Snatch,594,False
+1,TSIKHANTSOU Yauheni,AIN,"Apr 11, 1998",101.71,A,211,217,-225,217,102kgMen,CleanJerk,594,False
+2,GASPARYAN Samvel,ARM,"Nov 24, 1997",102.00,A,211,-216,216,216,102kgMen,CleanJerk,594,False
+3,CHKHEIDZE Irakli,GEO,"Jan 05, 1999",101.68,A,212,-217,-218,212,102kgMen,CleanJerk,594,False
+4,SHARANKOU Siarhei,AIN,"Jun 15, 2002",101.98,A,205,212,-215,212,102kgMen,CleanJerk,594,False
+5,KARAPETYAN Garik,ARM,"Jun 11, 2003",102.00,A,-211,212,-217,212,102kgMen,CleanJerk,594,False
+6,BRATU Tudor,MDA,"Sep 27, 2002",100.00,B,200,210,-215,210,102kgMen,CleanJerk,594,False
+7,VAUTARD Brandon Robert Jean,FRA,"Sep 09, 1996",102.00,B,202,-209,210,210,102kgMen,CleanJerk,594,False
+8,MARINOV Vasil Kaloyanov,BUL,"Jan 28, 2001",102.00,A,208,-213,-215,208,102kgMen,CleanJerk,594,False
+9,MUGURDUMOV Artur,ISR,"Jun 06, 1988",102.00,A,195,200,-205,200,102kgMen,CleanJerk,594,False
+10,SHUKURLU Ali,AZE,"Nov 09, 2003",101.32,B,192,198,-202,198,102kgMen,CleanJerk,594,False
+11,GOLJASZ Daniel,POL,"Aug 14, 1997",99.36,A,198,-203,-206,198,102kgMen,CleanJerk,594,False
+12,YANTSEVYCH Yevhenii,UKR,"Sep 26, 2000",101.95,B,190,194,-197,194,102kgMen,CleanJerk,594,False
+13,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Oct 30, 1996",101.69,B,181,187,-192,187,102kgMen,CleanJerk,594,False
+14,MANUSHI Redon,FRA,"May 02, 1990",100.63,B,183,-186,-186,183,102kgMen,CleanJerk,594,False
+15,STREICHL Martin,CZE,"Jul 19, 2000",99.93,B,178,182,-188,182,102kgMen,CleanJerk,594,False
+16,GRIFFITHS Andrew,GBR,"May 20, 1993",101.94,B,-182,182,-187,182,102kgMen,CleanJerk,594,False
+17,PELTONEN Roni Jali Kasperi,FIN,"Oct 06, 1998",101.94,B,180,-189,-190,180,102kgMen,CleanJerk,594,False
+18,KACINSKAS Irmantas,LTU,"Feb 23, 1992",100.05,B,180,-186,-186,180,102kgMen,CleanJerk,594,False
+19,DE MELO FERNANDES Joao,POR,"Jan 13, 1987",97.64,B,156,-160,---,156,102kgMen,CleanJerk,594,False
+---,PLESNIEKS Arturs,LAT,"Jan 21, 1992",101.76,A,-208,-208,-210,---,102kgMen,CleanJerk,594,False
+---,SIDISKIS Arnas,LTU,"Jul 05, 1990",101.86,B,-176,-176,---,---,102kgMen,CleanJerk,594,False
+---,KASABIJEW Arsen,POL,"Nov 15, 1987",102.00,A,---,---,---,---,102kgMen,CleanJerk,594,False
+1,TSIKHANTSOU Yauheni,AIN,"Apr 11, 1998",101.71,A,181,217,398,---,102kgMen,Total,594,False
+2,GASPARYAN Samvel,ARM,"Nov 24, 1997",102.00,A,180,216,396,---,102kgMen,Total,594,False
+3,KARAPETYAN Garik,ARM,"Jun 11, 2003",102.00,A,182,212,394,---,102kgMen,Total,594,False
+4,SHARANKOU Siarhei,AIN,"Jun 15, 2002",101.98,A,178,212,390,---,102kgMen,Total,594,False
+5,CHKHEIDZE Irakli,GEO,"Jan 05, 1999",101.68,A,174,212,386,---,102kgMen,Total,594,False
+6,BRATU Tudor,MDA,"Sep 27, 2002",100.00,B,175,210,385,---,102kgMen,Total,594,False
+7,MARINOV Vasil Kaloyanov,BUL,"Jan 28, 2001",102.00,A,173,208,381,---,102kgMen,Total,594,False
+8,SHUKURLU Ali,AZE,"Nov 09, 2003",101.32,B,163,198,361,---,102kgMen,Total,594,False
+9,VAUTARD Brandon Robert Jean,FRA,"Sep 09, 1996",102.00,B,150,210,360,---,102kgMen,Total,594,False
+10,YANTSEVYCH Yevhenii,UKR,"Sep 26, 2000",101.95,B,164,194,358,---,102kgMen,Total,594,False
+11,MUGURDUMOV Artur,ISR,"Jun 06, 1988",102.00,A,156,200,356,---,102kgMen,Total,594,False
+12,MANUSHI Redon,FRA,"May 02, 1990",100.63,B,160,183,343,---,102kgMen,Total,594,False
+13,GRIFFITHS Andrew,GBR,"May 20, 1993",101.94,B,157,182,339,---,102kgMen,Total,594,False
+14,KACINSKAS Irmantas,LTU,"Feb 23, 1992",100.05,B,158,180,338,---,102kgMen,Total,594,False
+15,DIAKOVASILIS Jacob Alexander Panayotis,DEN,"Oct 30, 1996",101.69,B,149,187,336,---,102kgMen,Total,594,False
+16,PELTONEN Roni Jali Kasperi,FIN,"Oct 06, 1998",101.94,B,148,180,328,---,102kgMen,Total,594,False
+17,STREICHL Martin,CZE,"Jul 19, 2000",99.93,B,142,182,324,---,102kgMen,Total,594,False
+18,DE MELO FERNANDES Joao,POR,"Jan 13, 1987",97.64,B,130,156,286,---,102kgMen,Total,594,False
+19,GOLJASZ Daniel,POL,"Aug 14, 1997",99.36,A,---,198,198,---,102kgMen,Total,594,False
+---,PLESNIEKS Arturs,LAT,"Jan 21, 1992",101.76,A,173,---,---,---,102kgMen,Total,594,False
+---,SIDISKIS Arnas,LTU,"Jul 05, 1990",101.86,B,145,---,---,---,102kgMen,Total,594,False
+---,KASABIJEW Arsen,POL,"Nov 15, 1987",102.00,A,---,---,---,---,102kgMen,Total,594,False
+1,DADASHBAYLI Dadash,AZE,"Jul 15, 1996",108.79,A,172,174,176,176,109kgMen,Snatch,594,False
+2,HRISTOV Hristo Dimitrov,BUL,"Apr 27, 2001",109.00,A,170,173,175,175,109kgMen,Snatch,594,False
+3,HOFMANN Matthaeus Klaus Lorant Georg,GER,"Jun 28, 1994",105.09,A,167,-169,172,172,109kgMen,Snatch,594,False
+4,MARTIROSJAN Sargis,AUT,"Sep 14, 1986",109.00,A,165,168,171,171,109kgMen,Snatch,594,False
+5,CIOBANU Tudor,MDA,"Feb 27, 1999",106.05,A,160,165,168,168,109kgMen,Snatch,594,False
+6,DEMIRCI Onur,TUR,"Aug 07, 2003",109.00,A,161,-166,168,168,109kgMen,Snatch,594,False
+7,LOMTADZE Zaza,GEO,"Jun 12, 2001",108.64,A,160,164,167,167,109kgMen,Snatch,594,False
+8,BURUN Muhammed Emin,TUR,"Oct 02, 2004",107.67,A,-161,161,166,166,109kgMen,Snatch,594,False
+9,RUBANOVSKYI Mykyta,UKR,"Feb 19, 2003",108.86,A,160,164,-167,164,109kgMen,Snatch,594,False
+10,VIKINGSSON SJOEBLOM Joen Carl Erik,SWE,"May 02, 2003",105.77,B,154,158,161,161,109kgMen,Snatch,594,False
+11,PRYLYPKO Vladyslav,UKR,"Nov 06, 2000",109.00,A,153,156,159,159,109kgMen,Snatch,594,False
+12,IONITA Paul,ROU,"Jul 06, 2002",108.74,B,152,-157,158,158,109kgMen,Snatch,594,False
+13,FERNANDES VITAL E SILVA Antonio Manuel,POR,"Jan 23, 1988",108.02,B,150,-158,-159,150,109kgMen,Snatch,594,False
+14,VOGEL Arnost,CZE,"Feb 17, 2000",105.42,B,-144,144,148,148,109kgMen,Snatch,594,False
+15,META Albert,ALB,"May 12, 1995",107.70,B,147,-152,-152,147,109kgMen,Snatch,594,False
+16,FERRA Franko,ALB,"Feb 09, 2004",108.42,B,-145,145,-150,145,109kgMen,Snatch,594,False
+17,KESKITALO Hannes Heikki Juhani,FIN,"Nov 10, 1996",109.00,B,137,144,-150,144,109kgMen,Snatch,594,False
+18,SKEDELJ Jure,SLO,"Jul 24, 1995",108.27,B,135,-140,-140,135,109kgMen,Snatch,594,False
+---,NUMIC Mak,BIH,"Jul 23, 1998",108.95,B,-120,-126,-126,---,109kgMen,Snatch,594,False
+---,PETROSYAN Petros,ARM,"Nov 28, 2002",108.79,A,-165,---,---,---,109kgMen,Snatch,594,False
+1,DADASHBAYLI Dadash,AZE,"Jul 15, 1996",108.79,A,205,212,-225,212,109kgMen,CleanJerk,594,False
+2,DEMIRCI Onur,TUR,"Aug 07, 2003",109.00,A,-200,200,207,207,109kgMen,CleanJerk,594,False
+3,HOFMANN Matthaeus Klaus Lorant Georg,GER,"Jun 28, 1994",105.09,A,197,202,206,206,109kgMen,CleanJerk,594,False
+4,HRISTOV Hristo Dimitrov,BUL,"Apr 27, 2001",109.00,A,202,205,-208,205,109kgMen,CleanJerk,594,False
+5,LOMTADZE Zaza,GEO,"Jun 12, 2001",108.64,A,203,-212,-212,203,109kgMen,CleanJerk,594,False
+6,RUBANOVSKYI Mykyta,UKR,"Feb 19, 2003",108.86,A,201,-206,-208,201,109kgMen,CleanJerk,594,False
+7,CIOBANU Tudor,MDA,"Feb 27, 1999",106.05,A,190,-200,201,201,109kgMen,CleanJerk,594,False
+8,KESKITALO Hannes Heikki Juhani,FIN,"Nov 10, 1996",109.00,B,193,198,-203,198,109kgMen,CleanJerk,594,False
+9,IONITA Paul,ROU,"Jul 06, 2002",108.74,B,-190,190,197,197,109kgMen,CleanJerk,594,False
+10,PRYLYPKO Vladyslav,UKR,"Nov 06, 2000",109.00,A,197,-203,-203,197,109kgMen,CleanJerk,594,False
+11,BURUN Muhammed Emin,TUR,"Oct 02, 2004",107.67,A,191,-198,-200,191,109kgMen,CleanJerk,594,False
+12,VIKINGSSON SJOEBLOM Joen Carl Erik,SWE,"May 02, 2003",105.77,B,188,-194,-197,188,109kgMen,CleanJerk,594,False
+13,MARTIROSJAN Sargis,AUT,"Sep 14, 1986",109.00,A,-181,185,-191,185,109kgMen,CleanJerk,594,False
+14,META Albert,ALB,"May 12, 1995",107.70,B,-178,178,181,181,109kgMen,CleanJerk,594,False
+15,VOGEL Arnost,CZE,"Feb 17, 2000",105.42,B,-180,180,-187,180,109kgMen,CleanJerk,594,False
+16,FERNANDES VITAL E SILVA Antonio Manuel,POR,"Jan 23, 1988",108.02,B,-175,-178,178,178,109kgMen,CleanJerk,594,False
+17,FERRA Franko,ALB,"Feb 09, 2004",108.42,B,-170,170,-175,170,109kgMen,CleanJerk,594,False
+18,SKEDELJ Jure,SLO,"Jul 24, 1995",108.27,B,165,-170,170,170,109kgMen,CleanJerk,594,False
+19,NUMIC Mak,BIH,"Jul 23, 1998",108.95,B,145,152,-160,152,109kgMen,CleanJerk,594,False
+---,PETROSYAN Petros,ARM,"Nov 28, 2002",108.79,A,---,---,---,---,109kgMen,CleanJerk,594,False
+1,DADASHBAYLI Dadash,AZE,"Jul 15, 1996",108.79,A,176,212,388,---,109kgMen,Total,594,False
+2,HRISTOV Hristo Dimitrov,BUL,"Apr 27, 2001",109.00,A,175,205,380,---,109kgMen,Total,594,False
+3,HOFMANN Matthaeus Klaus Lorant Georg,GER,"Jun 28, 1994",105.09,A,172,206,378,---,109kgMen,Total,594,False
+4,DEMIRCI Onur,TUR,"Aug 07, 2003",109.00,A,168,207,375,---,109kgMen,Total,594,False
+5,LOMTADZE Zaza,GEO,"Jun 12, 2001",108.64,A,167,203,370,---,109kgMen,Total,594,False
+6,CIOBANU Tudor,MDA,"Feb 27, 1999",106.05,A,168,201,369,---,109kgMen,Total,594,False
+7,RUBANOVSKYI Mykyta,UKR,"Feb 19, 2003",108.86,A,164,201,365,---,109kgMen,Total,594,False
+8,BURUN Muhammed Emin,TUR,"Oct 02, 2004",107.67,A,166,191,357,---,109kgMen,Total,594,False
+9,MARTIROSJAN Sargis,AUT,"Sep 14, 1986",109.00,A,171,185,356,---,109kgMen,Total,594,False
+10,PRYLYPKO Vladyslav,UKR,"Nov 06, 2000",109.00,A,159,197,356,---,109kgMen,Total,594,False
+11,IONITA Paul,ROU,"Jul 06, 2002",108.74,B,158,197,355,---,109kgMen,Total,594,False
+12,VIKINGSSON SJOEBLOM Joen Carl Erik,SWE,"May 02, 2003",105.77,B,161,188,349,---,109kgMen,Total,594,False
+13,KESKITALO Hannes Heikki Juhani,FIN,"Nov 10, 1996",109.00,B,144,198,342,---,109kgMen,Total,594,False
+14,FERNANDES VITAL E SILVA Antonio Manuel,POR,"Jan 23, 1988",108.02,B,150,178,328,---,109kgMen,Total,594,False
+15,VOGEL Arnost,CZE,"Feb 17, 2000",105.42,B,148,180,328,---,109kgMen,Total,594,False
+16,META Albert,ALB,"May 12, 1995",107.70,B,147,181,328,---,109kgMen,Total,594,False
+17,FERRA Franko,ALB,"Feb 09, 2004",108.42,B,145,170,315,---,109kgMen,Total,594,False
+18,SKEDELJ Jure,SLO,"Jul 24, 1995",108.27,B,135,170,305,---,109kgMen,Total,594,False
+19,NUMIC Mak,BIH,"Jul 23, 1998",108.95,B,---,152,152,---,109kgMen,Total,594,False
+---,PETROSYAN Petros,ARM,"Nov 28, 2002",108.79,A,---,---,---,---,109kgMen,Total,594,False
+1,LALAYAN Varazdat,ARM,"May 01, 1999",152.50,A,200,205,-210,205,+109kgMen,Snatch,594,False
+2,ZIAZIULIN Eduard,AIN,"Oct 29, 1998",146.80,A,195,-200,-200,195,+109kgMen,Snatch,594,False
+3,MARTIROSYAN Simon,ARM,"Feb 17, 1997",130.20,A,190,-200,-200,190,+109kgMen,Snatch,594,False
+4,SEIM Mart,EST,"Oct 24, 1990",153.10,A,180,185,-188,185,+109kgMen,Snatch,594,False
+5,KUCERA Kamil,CZE,"Mar 19, 1985",157.00,A,175,-180,-182,175,+109kgMen,Snatch,594,False
+6,TURMANIDZE Bakari,GEO,"Mar 29, 1995",168.30,A,175,-181,-183,175,+109kgMen,Snatch,594,False
+7,HANZENKO Oleh,UKR,"Dec 10, 1999",162.00,A,170,174,-179,174,+109kgMen,Snatch,594,False
+8,LITVINOV David,ISR,"Sep 23, 1993",135.05,B,160,165,169,169,+109kgMen,Snatch,594,False
+9,KUWORGE Enzo Kofi,NED,"Aug 31, 2001",169.20,B,160,165,168,168,+109kgMen,Snatch,594,False
+10,NAGY Peter,HUN,"Jan 16, 1986",161.60,B,160,-165,167,167,+109kgMen,Snatch,594,False
+11,ATHANASIOU Ioannis,GRE,"Jun 18, 1994",153.80,B,161,166,-169,166,+109kgMen,Snatch,594,False
+12,HOLME Ragnar Gamlestoel,NOR,"Jun 19, 2001",137.40,B,155,160,-165,160,+109kgMen,Snatch,594,False
+13,KESKITALO Hanno Matias,FIN,"Jul 01, 2003",144.00,B,155,160,-163,160,+109kgMen,Snatch,594,False
+14,MACURA Vladimir,SVK,"Jan 08, 2005",144.90,B,154,158,-162,158,+109kgMen,Snatch,594,False
+15,RAJIC Krizan,CRO,"Dec 20, 1996",137.70,B,140,-146,-146,140,+109kgMen,Snatch,594,False
+---,TALAKHADZE Lasha,GEO,"Oct 02, 1993",176.00,A,---,---,---,---,+109kgMen,Snatch,594,False
+---,COULLET Anthony Jean Pierre,FRA,"Jan 10, 1997",153.80,A,-162,-167,-167,---,+109kgMen,Snatch,594,False
+---,KAJDOCI Tamas,SRB,"Apr 21, 1997",139.20,B,---,---,---,---,+109kgMen,Snatch,594,False
+1,LALAYAN Varazdat,ARM,"May 01, 1999",152.50,A,240,250,---,250,+109kgMen,CleanJerk,594,False
+2,MARTIROSYAN Simon,ARM,"Feb 17, 1997",130.20,A,241,247,-255,247,+109kgMen,CleanJerk,594,False
+3,ZIAZIULIN Eduard,AIN,"Oct 29, 1998",146.80,A,235,-240,241,241,+109kgMen,CleanJerk,594,False
+4,SEIM Mart,EST,"Oct 24, 1990",153.10,A,225,-237,---,225,+109kgMen,CleanJerk,594,False
+5,HANZENKO Oleh,UKR,"Dec 10, 1999",162.00,A,210,216,-220,216,+109kgMen,CleanJerk,594,False
+6,TURMANIDZE Bakari,GEO,"Mar 29, 1995",168.30,A,215,---,---,215,+109kgMen,CleanJerk,594,False
+7,NAGY Peter,HUN,"Jan 16, 1986",161.60,B,201,207,-212,207,+109kgMen,CleanJerk,594,False
+8,LITVINOV David,ISR,"Sep 23, 1993",135.05,B,200,-205,206,206,+109kgMen,CleanJerk,594,False
+9,ATHANASIOU Ioannis,GRE,"Jun 18, 1994",153.80,B,200,204,-206,204,+109kgMen,CleanJerk,594,False
+10,KUWORGE Enzo Kofi,NED,"Aug 31, 2001",169.20,B,202,---,---,202,+109kgMen,CleanJerk,594,False
+11,HOLME Ragnar Gamlestoel,NOR,"Jun 19, 2001",137.40,B,185,195,---,195,+109kgMen,CleanJerk,594,False
+12,MACURA Vladimir,SVK,"Jan 08, 2005",144.90,B,-182,182,189,189,+109kgMen,CleanJerk,594,False
+13,KESKITALO Hanno Matias,FIN,"Jul 01, 2003",144.00,B,180,186,-190,186,+109kgMen,CleanJerk,594,False
+14,RAJIC Krizan,CRO,"Dec 20, 1996",137.70,B,170,-180,-180,170,+109kgMen,CleanJerk,594,False
+---,TALAKHADZE Lasha,GEO,"Oct 02, 1993",176.00,A,---,---,---,---,+109kgMen,CleanJerk,594,False
+---,COULLET Anthony Jean Pierre,FRA,"Jan 10, 1997",153.80,A,---,---,---,---,+109kgMen,CleanJerk,594,False
+---,KUCERA Kamil,CZE,"Mar 19, 1985",157.00,A,-221,-221,-225,---,+109kgMen,CleanJerk,594,False
+---,KAJDOCI Tamas,SRB,"Apr 21, 1997",139.20,B,---,---,---,---,+109kgMen,CleanJerk,594,False
+1,LALAYAN Varazdat,ARM,"May 01, 1999",152.50,A,205,250,455,---,+109kgMen,Total,594,False
+2,MARTIROSYAN Simon,ARM,"Feb 17, 1997",130.20,A,190,247,437,---,+109kgMen,Total,594,False
+3,ZIAZIULIN Eduard,AIN,"Oct 29, 1998",146.80,A,195,241,436,---,+109kgMen,Total,594,False
+4,SEIM Mart,EST,"Oct 24, 1990",153.10,A,185,225,410,---,+109kgMen,Total,594,False
+5,TURMANIDZE Bakari,GEO,"Mar 29, 1995",168.30,A,175,215,390,---,+109kgMen,Total,594,False
+6,HANZENKO Oleh,UKR,"Dec 10, 1999",162.00,A,174,216,390,---,+109kgMen,Total,594,False
+7,LITVINOV David,ISR,"Sep 23, 1993",135.05,B,169,206,375,---,+109kgMen,Total,594,False
+8,NAGY Peter,HUN,"Jan 16, 1986",161.60,B,167,207,374,---,+109kgMen,Total,594,False
+9,KUWORGE Enzo Kofi,NED,"Aug 31, 2001",169.20,B,168,202,370,---,+109kgMen,Total,594,False
+10,ATHANASIOU Ioannis,GRE,"Jun 18, 1994",153.80,B,166,204,370,---,+109kgMen,Total,594,False
+11,HOLME Ragnar Gamlestoel,NOR,"Jun 19, 2001",137.40,B,160,195,355,---,+109kgMen,Total,594,False
+12,MACURA Vladimir,SVK,"Jan 08, 2005",144.90,B,158,189,347,---,+109kgMen,Total,594,False
+13,KESKITALO Hanno Matias,FIN,"Jul 01, 2003",144.00,B,160,186,346,---,+109kgMen,Total,594,False
+14,RAJIC Krizan,CRO,"Dec 20, 1996",137.70,B,140,170,310,---,+109kgMen,Total,594,False
+---,TALAKHADZE Lasha,GEO,"Oct 02, 1993",176.00,A,---,---,---,---,+109kgMen,Total,594,False
+---,COULLET Anthony Jean Pierre,FRA,"Jan 10, 1997",153.80,A,---,---,---,---,+109kgMen,Total,594,False
+---,KUCERA Kamil,CZE,"Mar 19, 1985",157.00,A,175,---,---,---,+109kgMen,Total,594,False
+---,KAJDOCI Tamas,SRB,"Apr 21, 1997",139.20,B,---,---,---,---,+109kgMen,Total,594,False
+1,BEKTAS Cansu,TUR,"Nov 23, 2003",45.00,A,70,73,75,75,45kgWomen,Snatch,594,False
+2,GARCIA RINCON Marta,ESP,"Jun 28, 2003",44.94,A,-69,70,72,72,45kgWomen,Snatch,594,False
+3,NGUEN Nadezhda-Mey Tuy,BUL,"Jul 01, 2000",45.00,A,67,69,-71,69,45kgWomen,Snatch,594,False
+4,MALASHCHUK Kateryna,UKR,"Mar 28, 2008",44.99,A,65,67,-69,67,45kgWomen,Snatch,594,False
+5,ALTUN Gamze,TUR,"Jul 29, 2003",45.00,A,65,-68,-68,65,45kgWomen,Snatch,594,False
+6,MIRON Ioana Madalina,ROU,"Jan 05, 2005",44.63,A,61,65,-68,65,45kgWomen,Snatch,594,False
+7,DUMITRESCU Bianca-Daniela,ROU,"Jun 16, 2000",44.95,A,60,64,-68,64,45kgWomen,Snatch,594,False
+8,KOPONEN Sonja,FIN,"Dec 18, 1989",45.00,B,-60,60,63,63,45kgWomen,Snatch,594,False
+9,GRABUCEA Ecaterina,MDA,"Jul 31, 2001",43.88,B,57,59,-60,59,45kgWomen,Snatch,594,False
+10,BUDNIKOVA Tetiana,UKR,"May 28, 2001",45.00,A,57,59,-61,59,45kgWomen,Snatch,594,False
+11,ISMAYILOVA Nazila,AZE,"Oct 05, 1998",45.00,B,55,58,-60,58,45kgWomen,Snatch,594,False
+12,DANILOV Gabriela,MDA,"May 19, 2009",44.90,B,57,-59,-60,57,45kgWomen,Snatch,594,False
+---,KOSTADINOVA Boyana Todorova,BUL,"Jan 31, 2008",45.00,A,-65,-66,-66,---,45kgWomen,Snatch,594,False
+1,ALTUN Gamze,TUR,"Jul 29, 2003",45.00,A,-90,90,92,92,45kgWomen,CleanJerk,594,False
+2,BEKTAS Cansu,TUR,"Nov 23, 2003",45.00,A,88,-91,-93,88,45kgWomen,CleanJerk,594,False
+3,MIRON Ioana Madalina,ROU,"Jan 05, 2005",44.63,A,78,81,85,85,45kgWomen,CleanJerk,594,False
+4,GARCIA RINCON Marta,ESP,"Jun 28, 2003",44.94,A,82,84,-87,84,45kgWomen,CleanJerk,594,False
+5,BUDNIKOVA Tetiana,UKR,"May 28, 2001",45.00,A,76,78,81,81,45kgWomen,CleanJerk,594,False
+6,KOSTADINOVA Boyana Todorova,BUL,"Jan 31, 2008",45.00,A,77,80,-83,80,45kgWomen,CleanJerk,594,False
+7,NGUEN Nadezhda-Mey Tuy,BUL,"Jul 01, 2000",45.00,A,-80,80,-86,80,45kgWomen,CleanJerk,594,False
+8,KOPONEN Sonja,FIN,"Dec 18, 1989",45.00,B,72,-76,76,76,45kgWomen,CleanJerk,594,False
+9,MALASHCHUK Kateryna,UKR,"Mar 28, 2008",44.99,A,75,-78,-78,75,45kgWomen,CleanJerk,594,False
+10,DUMITRESCU Bianca-Daniela,ROU,"Jun 16, 2000",44.95,A,75,-80,-82,75,45kgWomen,CleanJerk,594,False
+11,GRABUCEA Ecaterina,MDA,"Jul 31, 2001",43.88,B,70,73,-75,73,45kgWomen,CleanJerk,594,False
+12,ISMAYILOVA Nazila,AZE,"Oct 05, 1998",45.00,B,70,-74,---,70,45kgWomen,CleanJerk,594,False
+13,DANILOV Gabriela,MDA,"May 19, 2009",44.90,B,66,-69,-70,66,45kgWomen,CleanJerk,594,False
+1,BEKTAS Cansu,TUR,"Nov 23, 2003",45.00,A,75,88,163,---,45kgWomen,Total,594,False
+2,ALTUN Gamze,TUR,"Jul 29, 2003",45.00,A,65,92,157,---,45kgWomen,Total,594,False
+3,GARCIA RINCON Marta,ESP,"Jun 28, 2003",44.94,A,72,84,156,---,45kgWomen,Total,594,False
+4,MIRON Ioana Madalina,ROU,"Jan 05, 2005",44.63,A,65,85,150,---,45kgWomen,Total,594,False
+5,NGUEN Nadezhda-Mey Tuy,BUL,"Jul 01, 2000",45.00,A,69,80,149,---,45kgWomen,Total,594,False
+6,MALASHCHUK Kateryna,UKR,"Mar 28, 2008",44.99,A,67,75,142,---,45kgWomen,Total,594,False
+7,BUDNIKOVA Tetiana,UKR,"May 28, 2001",45.00,A,59,81,140,---,45kgWomen,Total,594,False
+8,KOPONEN Sonja,FIN,"Dec 18, 1989",45.00,B,63,76,139,---,45kgWomen,Total,594,False
+9,DUMITRESCU Bianca-Daniela,ROU,"Jun 16, 2000",44.95,A,64,75,139,---,45kgWomen,Total,594,False
+10,GRABUCEA Ecaterina,MDA,"Jul 31, 2001",43.88,B,59,73,132,---,45kgWomen,Total,594,False
+11,ISMAYILOVA Nazila,AZE,"Oct 05, 1998",45.00,B,58,70,128,---,45kgWomen,Total,594,False
+12,DANILOV Gabriela,MDA,"May 19, 2009",44.90,B,57,66,123,---,45kgWomen,Total,594,False
+13,KOSTADINOVA Boyana Todorova,BUL,"Jan 31, 2008",45.00,A,---,80,80,---,45kgWomen,Total,594,False
+1,CAMBEI Mihaela-Valentina,ROU,"Nov 18, 2002",48.92,A,85,90,-93,90,49kgWomen,Snatch,594,False
+2,ALICI Duygu,TUR,"Jan 14, 2001",48.99,A,75,-78,78,78,49kgWomen,Snatch,594,False
+3,ARMENGOU I CASTELL Sira,ESP,"Apr 18, 1997",47.97,A,71,74,-76,74,49kgWomen,Snatch,594,False
+4,BILICIER Medine,TUR,"Feb 15, 2004",49.00,A,-74,74,-77,74,49kgWomen,Snatch,594,False
+5,DRZAZGA OLIWIA Weronika,POL,"May 17, 2005",48.82,A,70,72,74,74,49kgWomen,Snatch,594,False
+6,NGUYEN Tham,IRL,"Sep 15, 1996",49.00,A,-74,-74,74,74,49kgWomen,Snatch,594,False
+7,GIMENEZ-GUERVOS PEREZ Maria Jose,ESP,"Apr 27, 1993",49.00,A,70,-73,-73,70,49kgWomen,Snatch,594,False
+8,ZAGORAC Radmila,SRB,"Jan 24, 2001",48.82,A,70,-74,-76,70,49kgWomen,Snatch,594,False
+9,KOVALOVA Yuliia,UKR,"Feb 09, 2003",49.00,A,70,-73,-73,70,49kgWomen,Snatch,594,False
+10,COPELAND Rebecca Janet,IRL,"Aug 14, 1995",48.52,B,64,67,-69,67,49kgWomen,Snatch,594,False
+11,POPESCU Alina,MDA,"Nov 18, 2006",48.96,B,64,-67,67,67,49kgWomen,Snatch,594,False
+12,PANA Adriana Cosmina,ROU,"Dec 18, 2001",48.77,A,-67,67,-71,67,49kgWomen,Snatch,594,False
+13,STRATOUDAKI Maria,GRE,"Jun 05, 2008",48.89,A,-67,67,-71,67,49kgWomen,Snatch,594,False
+14,STRZYKALA Mara,LUX,"Mar 13, 1992",48.88,B,66,-69,-69,66,49kgWomen,Snatch,594,False
+15,PETROVA Ivana Gerogieva,BUL,"Aug 26, 2001",47.27,B,60,63,65,65,49kgWomen,Snatch,594,False
+16,RUSEVA Reni,BUL,"Feb 04, 2005",47.56,B,-60,60,-64,60,49kgWomen,Snatch,594,False
+17,MAJER Tihana,CRO,"Jun 14, 1991",48.62,B,55,-59,-59,55,49kgWomen,Snatch,594,False
+---,IMPERIO Giulia,ITA,"Dec 07, 2001",49.00,A,-83,-83,-83,---,49kgWomen,Snatch,594,False
+1,CAMBEI Mihaela-Valentina,ROU,"Nov 18, 2002",48.92,A,100,105,109,109,49kgWomen,CleanJerk,594,False
+2,DRZAZGA OLIWIA Weronika,POL,"May 17, 2005",48.82,A,93,-95,96,96,49kgWomen,CleanJerk,594,False
+3,NGUYEN Tham,IRL,"Sep 15, 1996",49.00,A,-95,95,-97,95,49kgWomen,CleanJerk,594,False
+4,KOVALOVA Yuliia,UKR,"Feb 09, 2003",49.00,A,89,93,-95,93,49kgWomen,CleanJerk,594,False
+5,STRZYKALA Mara,LUX,"Mar 13, 1992",48.88,B,85,89,92,92,49kgWomen,CleanJerk,594,False
+6,ARMENGOU I CASTELL Sira,ESP,"Apr 18, 1997",47.97,A,90,-94,-94,90,49kgWomen,CleanJerk,594,False
+7,STRATOUDAKI Maria,GRE,"Jun 05, 2008",48.89,A,88,-91,-91,88,49kgWomen,CleanJerk,594,False
+8,ZAGORAC Radmila,SRB,"Jan 24, 2001",48.82,A,88,-94,-94,88,49kgWomen,CleanJerk,594,False
+9,GIMENEZ-GUERVOS PEREZ Maria Jose,ESP,"Apr 27, 1993",49.00,A,86,---,---,86,49kgWomen,CleanJerk,594,False
+10,PANA Adriana Cosmina,ROU,"Dec 18, 2001",48.77,A,83,86,-89,86,49kgWomen,CleanJerk,594,False
+11,PETROVA Ivana Gerogieva,BUL,"Aug 26, 2001",47.27,B,75,-80,80,80,49kgWomen,CleanJerk,594,False
+12,COPELAND Rebecca Janet,IRL,"Aug 14, 1995",48.52,B,79,-81,-83,79,49kgWomen,CleanJerk,594,False
+13,MAJER Tihana,CRO,"Jun 14, 1991",48.62,B,75,78,-81,78,49kgWomen,CleanJerk,594,False
+14,RUSEVA Reni,BUL,"Feb 04, 2005",47.56,B,75,-80,-81,75,49kgWomen,CleanJerk,594,False
+15,POPESCU Alina,MDA,"Nov 18, 2006",48.96,B,75,-80,-80,75,49kgWomen,CleanJerk,594,False
+---,IMPERIO Giulia,ITA,"Dec 07, 2001",49.00,A,---,---,---,---,49kgWomen,CleanJerk,594,False
+---,ALICI Duygu,TUR,"Jan 14, 2001",48.99,A,-95,-95,-95,---,49kgWomen,CleanJerk,594,False
+---,BILICIER Medine,TUR,"Feb 15, 2004",49.00,A,-93,-93,-95,---,49kgWomen,CleanJerk,594,False
+1,CAMBEI Mihaela-Valentina,ROU,"Nov 18, 2002",48.92,A,90,109,199,---,49kgWomen,Total,594,False
+2,DRZAZGA OLIWIA Weronika,POL,"May 17, 2005",48.82,A,74,96,170,---,49kgWomen,Total,594,False
+3,NGUYEN Tham,IRL,"Sep 15, 1996",49.00,A,74,95,169,---,49kgWomen,Total,594,False
+4,ARMENGOU I CASTELL Sira,ESP,"Apr 18, 1997",47.97,A,74,90,164,---,49kgWomen,Total,594,False
+5,KOVALOVA Yuliia,UKR,"Feb 09, 2003",49.00,A,70,93,163,---,49kgWomen,Total,594,False
+6,STRZYKALA Mara,LUX,"Mar 13, 1992",48.88,B,66,92,158,---,49kgWomen,Total,594,False
+7,ZAGORAC Radmila,SRB,"Jan 24, 2001",48.82,A,70,88,158,---,49kgWomen,Total,594,False
+8,GIMENEZ-GUERVOS PEREZ Maria Jose,ESP,"Apr 27, 1993",49.00,A,70,86,156,---,49kgWomen,Total,594,False
+9,STRATOUDAKI Maria,GRE,"Jun 05, 2008",48.89,A,67,88,155,---,49kgWomen,Total,594,False
+10,PANA Adriana Cosmina,ROU,"Dec 18, 2001",48.77,A,67,86,153,---,49kgWomen,Total,594,False
+11,COPELAND Rebecca Janet,IRL,"Aug 14, 1995",48.52,B,67,79,146,---,49kgWomen,Total,594,False
+12,PETROVA Ivana Gerogieva,BUL,"Aug 26, 2001",47.27,B,65,80,145,---,49kgWomen,Total,594,False
+13,POPESCU Alina,MDA,"Nov 18, 2006",48.96,B,67,75,142,---,49kgWomen,Total,594,False
+14,RUSEVA Reni,BUL,"Feb 04, 2005",47.56,B,60,75,135,---,49kgWomen,Total,594,False
+15,MAJER Tihana,CRO,"Jun 14, 1991",48.62,B,55,78,133,---,49kgWomen,Total,594,False
+---,IMPERIO Giulia,ITA,"Dec 07, 2001",49.00,A,---,---,---,---,49kgWomen,Total,594,False
+---,ALICI Duygu,TUR,"Jan 14, 2001",48.99,A,78,---,---,---,49kgWomen,Total,594,False
+---,BILICIER Medine,TUR,"Feb 15, 2004",49.00,A,74,---,---,---,49kgWomen,Total,594,False
+1,WAALER Sol Anette,NOR,"Aug 14, 1992",54.63,A,-84,84,86,86,55kgWomen,Snatch,594,False
+2,HULINA Yulia,AIN,"May 06, 2002",54.99,A,80,83,85,85,55kgWomen,Snatch,594,False
+3,ALICI Burcu,TUR,"Jan 14, 2001",54.90,A,80,84,85,85,55kgWomen,Snatch,594,False
+4,DELIA Celine Ludovica,ITA,"Sep 09, 2005",55.00,A,-83,84,-86,84,55kgWomen,Snatch,594,False
+5,SANCHEZ FERRER Alba,ESP,"Jan 10, 1998",55.00,A,81,-84,84,84,55kgWomen,Snatch,594,False
+6,SCHUILWERVE Marlous,NED,"Jan 15, 1995",54.92,A,78,-81,82,82,55kgWomen,Snatch,594,False
+7,GRIGORYAN Aleksandra,ARM,"Aug 01, 2005",54.85,A,81,-84,-84,81,55kgWomen,Snatch,594,False
+8,YAYLYAN Izabella,ARM,"Jan 04, 1995",55.00,A,80,-85,-85,80,55kgWomen,Snatch,594,False
+9,VANDENABEELE Annelien,BEL,"Nov 26, 2004",54.76,A,77,-80,80,80,55kgWomen,Snatch,594,False
+10,MEISTER Scheila,SUI,"Feb 05, 1987",55.00,A,-79,79,-82,79,55kgWomen,Snatch,594,False
+11,JACOBSEN Rebekka Tao,NOR,"Sep 12, 1996",55.00,A,75,78,-80,78,55kgWomen,Snatch,594,False
+12,COJOCARU Nicoleta,MDA,"Nov 05, 2009",54.57,B,72,77,-80,77,55kgWomen,Snatch,594,False
+13,ARVA Cintia Andrea,HUN,"Dec 31, 2002",54.42,B,70,-73,-73,70,55kgWomen,Snatch,594,False
+14,WEINFURTOVA Katerina,CZE,"Sep 18, 2000",54.97,B,-63,-63,63,63,55kgWomen,Snatch,594,False
+15,ANCIUKEVICE Aiste,LTU,"Apr 09, 1989",54.47,B,-60,60,62,62,55kgWomen,Snatch,594,False
+1,GRIGORYAN Aleksandra,ARM,"Aug 01, 2005",54.85,A,105,111,115,115,55kgWomen,CleanJerk,594,False
+2,DELIA Celine Ludovica,ITA,"Sep 09, 2005",55.00,A,-105,107,111,111,55kgWomen,CleanJerk,594,False
+3,ALICI Burcu,TUR,"Jan 14, 2001",54.90,A,101,105,-107,105,55kgWomen,CleanJerk,594,False
+4,SANCHEZ FERRER Alba,ESP,"Jan 10, 1998",55.00,A,104,-106,-107,104,55kgWomen,CleanJerk,594,False
+5,WAALER Sol Anette,NOR,"Aug 14, 1992",54.63,A,-104,104,-106,104,55kgWomen,CleanJerk,594,False
+6,JACOBSEN Rebekka Tao,NOR,"Sep 12, 1996",55.00,A,102,-105,-107,102,55kgWomen,CleanJerk,594,False
+7,YAYLYAN Izabella,ARM,"Jan 04, 1995",55.00,A,95,100,-105,100,55kgWomen,CleanJerk,594,False
+8,MEISTER Scheila,SUI,"Feb 05, 1987",55.00,A,98,-102,-102,98,55kgWomen,CleanJerk,594,False
+9,HULINA Yulia,AIN,"May 06, 2002",54.99,A,-98,98,-102,98,55kgWomen,CleanJerk,594,False
+10,VANDENABEELE Annelien,BEL,"Nov 26, 2004",54.76,A,-93,94,97,97,55kgWomen,CleanJerk,594,False
+11,COJOCARU Nicoleta,MDA,"Nov 05, 2009",54.57,B,92,95,-98,95,55kgWomen,CleanJerk,594,False
+12,ARVA Cintia Andrea,HUN,"Dec 31, 2002",54.42,B,92,94,-97,94,55kgWomen,CleanJerk,594,False
+13,SCHUILWERVE Marlous,NED,"Jan 15, 1995",54.92,A,94,-97,-99,94,55kgWomen,CleanJerk,594,False
+14,ANCIUKEVICE Aiste,LTU,"Apr 09, 1989",54.47,B,81,84,-87,84,55kgWomen,CleanJerk,594,False
+15,WEINFURTOVA Katerina,CZE,"Sep 18, 2000",54.97,B,74,-78,-82,74,55kgWomen,CleanJerk,594,False
+1,GRIGORYAN Aleksandra,ARM,"Aug 01, 2005",54.85,A,81,115,196,---,55kgWomen,Total,594,False
+2,DELIA Celine Ludovica,ITA,"Sep 09, 2005",55.00,A,84,111,195,---,55kgWomen,Total,594,False
+3,WAALER Sol Anette,NOR,"Aug 14, 1992",54.63,A,86,104,190,---,55kgWomen,Total,594,False
+4,ALICI Burcu,TUR,"Jan 14, 2001",54.90,A,85,105,190,---,55kgWomen,Total,594,False
+5,SANCHEZ FERRER Alba,ESP,"Jan 10, 1998",55.00,A,84,104,188,---,55kgWomen,Total,594,False
+6,HULINA Yulia,AIN,"May 06, 2002",54.99,A,85,98,183,---,55kgWomen,Total,594,False
+7,YAYLYAN Izabella,ARM,"Jan 04, 1995",55.00,A,80,100,180,---,55kgWomen,Total,594,False
+8,JACOBSEN Rebekka Tao,NOR,"Sep 12, 1996",55.00,A,78,102,180,---,55kgWomen,Total,594,False
+9,VANDENABEELE Annelien,BEL,"Nov 26, 2004",54.76,A,80,97,177,---,55kgWomen,Total,594,False
+10,MEISTER Scheila,SUI,"Feb 05, 1987",55.00,A,79,98,177,---,55kgWomen,Total,594,False
+11,SCHUILWERVE Marlous,NED,"Jan 15, 1995",54.92,A,82,94,176,---,55kgWomen,Total,594,False
+12,COJOCARU Nicoleta,MDA,"Nov 05, 2009",54.57,B,77,95,172,---,55kgWomen,Total,594,False
+13,ARVA Cintia Andrea,HUN,"Dec 31, 2002",54.42,B,70,94,164,---,55kgWomen,Total,594,False
+14,ANCIUKEVICE Aiste,LTU,"Apr 09, 1989",54.47,B,62,84,146,---,55kgWomen,Total,594,False
+15,WEINFURTOVA Katerina,CZE,"Sep 18, 2000",54.97,B,63,74,137,---,55kgWomen,Total,594,False
+1,KONOTOP Kamila,UKR,"Mar 23, 2001",59.00,A,102,105,-108,105,59kgWomen,Snatch,594,False
+2,STERCKX Nina,BEL,"Jul 26, 2002",58.89,A,98,101,-103,101,59kgWomen,Snatch,594,False
+3,TCHAKOUNTE Dora Meiriama,FRA,"Mar 23, 1995",58.80,A,-95,95,98,98,59kgWomen,Snatch,594,False
+4,RETULAINEN Saara Sylvia Amanda,FIN,"May 30, 1993",59.00,A,92,-95,95,95,59kgWomen,Snatch,594,False
+5,COTRUTA Andreea,ROU,"Nov 11, 2003",57.75,A,90,94,-97,94,59kgWomen,Snatch,594,False
+6,RIGAUD Garance Ariette Ouiza,FRA,"Dec 11, 1999",58.30,A,93,-96,-96,93,59kgWomen,Snatch,594,False
+7,SHCHAPANAVA Alina,AIN,"Dec 04, 2000",58.74,A,-92,-92,92,92,59kgWomen,Snatch,594,False
+8,GORDON BROWN Jessica Mary,GBR,"Dec 25, 1995",58.96,B,87,90,-93,90,59kgWomen,Snatch,594,False
+9,GEORGOPOULOU Sofia,GRE,"Sep 22, 2000",58.98,A,87,90,-93,90,59kgWomen,Snatch,594,False
+10,KARDARA Maria,GRE,"Aug 27, 2001",59.00,B,83,85,87,87,59kgWomen,Snatch,594,False
+11,POLKA Maria,POL,"Jan 07, 2003",59.00,B,82,84,86,86,59kgWomen,Snatch,594,False
+12,SZYMANEK Monika Malgorzata,POL,"Jan 06, 2002",58.98,B,78,82,85,85,59kgWomen,Snatch,594,False
+13,MOROSAN Marinela,ROU,"Aug 16, 2001",58.96,A,85,-88,-88,85,59kgWomen,Snatch,594,False
+14,CRYMBLE Hannah,IRL,"Oct 28, 1995",58.68,B,81,84,-87,84,59kgWomen,Snatch,594,False
+15,MARTINEZ SANTIAGO Irene,ESP,"Sep 14, 1993",58.93,B,83,-86,-86,83,59kgWomen,Snatch,594,False
+16,AARSTEN Amalie Loevind,DEN,"Apr 25, 1994",58.88,B,-79,79,82,82,59kgWomen,Snatch,594,False
+17,HELGADOTTIR Thuridur Erla,ISL,"Jul 30, 1991",59.00,B,78,-82,-82,78,59kgWomen,Snatch,594,False
+18,GORISEK Ivana,CRO,"Feb 04, 1985",58.82,B,-74,74,77,77,59kgWomen,Snatch,594,False
+19,MALCHARCZIKOVA Eliska,CZE,"Mar 11, 2002",58.66,B,73,-76,77,77,59kgWomen,Snatch,594,False
+20,TAVARES GOMEZ Rita,POR,"Jun 19, 2001",58.63,B,75,-80,-80,75,59kgWomen,Snatch,594,False
+21,LEBBE Nathalie Marie B,BEL,"May 22, 1992",59.00,B,-75,75,-78,75,59kgWomen,Snatch,594,False
+22,SWEENEY Deanna,IRL,"Feb 01, 1992",58.96,B,66,-68,-68,66,59kgWomen,Snatch,594,False
+---,SMITH Zoe,GBR,"Apr 26, 1994",58.69,A,-84,---,---,---,59kgWomen,Snatch,594,False
+---,MAGISTRIS Lucrezia,ITA,"Apr 21, 1999",59.00,A,-99,-99,-100,---,59kgWomen,Snatch,594,False
+1,KONOTOP Kamila,UKR,"Mar 23, 2001",59.00,A,121,125,---,125,59kgWomen,CleanJerk,594,False
+2,RETULAINEN Saara Sylvia Amanda,FIN,"May 30, 1993",59.00,A,114,117,119,119,59kgWomen,CleanJerk,594,False
+3,COTRUTA Andreea,ROU,"Nov 11, 2003",57.75,A,114,-118,118,118,59kgWomen,CleanJerk,594,False
+4,TCHAKOUNTE Dora Meiriama,FRA,"Mar 23, 1995",58.80,A,-117,117,-120,117,59kgWomen,CleanJerk,594,False
+5,GEORGOPOULOU Sofia,GRE,"Sep 22, 2000",58.98,A,109,112,-115,112,59kgWomen,CleanJerk,594,False
+6,GORDON BROWN Jessica Mary,GBR,"Dec 25, 1995",58.96,B,107,110,-113,110,59kgWomen,CleanJerk,594,False
+7,SZYMANEK Monika Malgorzata,POL,"Jan 06, 2002",58.98,B,105,-110,110,110,59kgWomen,CleanJerk,594,False
+8,SHCHAPANAVA Alina,AIN,"Dec 04, 2000",58.74,A,110,-115,-115,110,59kgWomen,CleanJerk,594,False
+9,POLKA Maria,POL,"Jan 07, 2003",59.00,B,102,105,108,108,59kgWomen,CleanJerk,594,False
+10,MOROSAN Marinela,ROU,"Aug 16, 2001",58.96,A,-103,103,105,105,59kgWomen,CleanJerk,594,False
+11,AARSTEN Amalie Loevind,DEN,"Apr 25, 1994",58.88,B,101,104,-108,104,59kgWomen,CleanJerk,594,False
+12,HELGADOTTIR Thuridur Erla,ISL,"Jul 30, 1991",59.00,B,98,101,104,104,59kgWomen,CleanJerk,594,False
+13,CRYMBLE Hannah,IRL,"Oct 28, 1995",58.68,B,101,-104,104,104,59kgWomen,CleanJerk,594,False
+14,KARDARA Maria,GRE,"Aug 27, 2001",59.00,B,98,102,-105,102,59kgWomen,CleanJerk,594,False
+15,MARTINEZ SANTIAGO Irene,ESP,"Sep 14, 1993",58.93,B,94,-99,-99,94,59kgWomen,CleanJerk,594,False
+16,LEBBE Nathalie Marie B,BEL,"May 22, 1992",59.00,B,93,-96,-97,93,59kgWomen,CleanJerk,594,False
+17,MALCHARCZIKOVA Eliska,CZE,"Mar 11, 2002",58.66,B,89,92,-95,92,59kgWomen,CleanJerk,594,False
+18,SWEENEY Deanna,IRL,"Feb 01, 1992",58.96,B,88,91,-93,91,59kgWomen,CleanJerk,594,False
+19,GORISEK Ivana,CRO,"Feb 04, 1985",58.82,B,86,90,-92,90,59kgWomen,CleanJerk,594,False
+20,TAVARES GOMEZ Rita,POR,"Jun 19, 2001",58.63,B,-90,90,-95,90,59kgWomen,CleanJerk,594,False
+---,STERCKX Nina,BEL,"Jul 26, 2002",58.89,A,-117,-118,-122,---,59kgWomen,CleanJerk,594,False
+---,RIGAUD Garance Ariette Ouiza,FRA,"Dec 11, 1999",58.30,A,-115,-120,-124,---,59kgWomen,CleanJerk,594,False
+---,SMITH Zoe,GBR,"Apr 26, 1994",58.69,A,---,---,---,---,59kgWomen,CleanJerk,594,False
+---,MAGISTRIS Lucrezia,ITA,"Apr 21, 1999",59.00,A,---,---,---,---,59kgWomen,CleanJerk,594,False
+1,KONOTOP Kamila,UKR,"Mar 23, 2001",59.00,A,105,125,230,---,59kgWomen,Total,594,False
+2,TCHAKOUNTE Dora Meiriama,FRA,"Mar 23, 1995",58.80,A,98,117,215,---,59kgWomen,Total,594,False
+3,RETULAINEN Saara Sylvia Amanda,FIN,"May 30, 1993",59.00,A,95,119,214,---,59kgWomen,Total,594,False
+4,COTRUTA Andreea,ROU,"Nov 11, 2003",57.75,A,94,118,212,---,59kgWomen,Total,594,False
+5,SHCHAPANAVA Alina,AIN,"Dec 04, 2000",58.74,A,92,110,202,---,59kgWomen,Total,594,False
+6,GEORGOPOULOU Sofia,GRE,"Sep 22, 2000",58.98,A,90,112,202,---,59kgWomen,Total,594,False
+7,GORDON BROWN Jessica Mary,GBR,"Dec 25, 1995",58.96,B,90,110,200,---,59kgWomen,Total,594,False
+8,SZYMANEK Monika Malgorzata,POL,"Jan 06, 2002",58.98,B,85,110,195,---,59kgWomen,Total,594,False
+9,POLKA Maria,POL,"Jan 07, 2003",59.00,B,86,108,194,---,59kgWomen,Total,594,False
+10,MOROSAN Marinela,ROU,"Aug 16, 2001",58.96,A,85,105,190,---,59kgWomen,Total,594,False
+11,KARDARA Maria,GRE,"Aug 27, 2001",59.00,B,87,102,189,---,59kgWomen,Total,594,False
+12,CRYMBLE Hannah,IRL,"Oct 28, 1995",58.68,B,84,104,188,---,59kgWomen,Total,594,False
+13,AARSTEN Amalie Loevind,DEN,"Apr 25, 1994",58.88,B,82,104,186,---,59kgWomen,Total,594,False
+14,HELGADOTTIR Thuridur Erla,ISL,"Jul 30, 1991",59.00,B,78,104,182,---,59kgWomen,Total,594,False
+15,MARTINEZ SANTIAGO Irene,ESP,"Sep 14, 1993",58.93,B,83,94,177,---,59kgWomen,Total,594,False
+16,MALCHARCZIKOVA Eliska,CZE,"Mar 11, 2002",58.66,B,77,92,169,---,59kgWomen,Total,594,False
+17,LEBBE Nathalie Marie B,BEL,"May 22, 1992",59.00,B,75,93,168,---,59kgWomen,Total,594,False
+18,GORISEK Ivana,CRO,"Feb 04, 1985",58.82,B,77,90,167,---,59kgWomen,Total,594,False
+19,TAVARES GOMEZ Rita,POR,"Jun 19, 2001",58.63,B,75,90,165,---,59kgWomen,Total,594,False
+20,SWEENEY Deanna,IRL,"Feb 01, 1992",58.96,B,66,91,157,---,59kgWomen,Total,594,False
+---,STERCKX Nina,BEL,"Jul 26, 2002",58.89,A,101,---,---,---,59kgWomen,Total,594,False
+---,RIGAUD Garance Ariette Ouiza,FRA,"Dec 11, 1999",58.30,A,93,---,---,---,59kgWomen,Total,594,False
+---,SMITH Zoe,GBR,"Apr 26, 1994",58.69,A,---,---,---,---,59kgWomen,Total,594,False
+---,MAGISTRIS Lucrezia,ITA,"Apr 21, 1999",59.00,A,---,---,---,---,59kgWomen,Total,594,False
+1,SAMULIAK Svitlana,UKR,"Jul 19, 2003",61.46,A,97,99,101,101,64kgWomen,Snatch,594,False
+2,DAVYDOVA Hanna,UKR,"Jun 25, 1998",64.00,A,-98,98,100,100,64kgWomen,Snatch,594,False
+3,OZKAN Aysel,TUR,"Feb 26, 2002",63.94,A,95,-98,98,98,64kgWomen,Snatch,594,False
+4,MAISEYEVICH Dziyana,AIN,"Apr 22, 2002",63.97,A,93,95,97,97,64kgWomen,Snatch,594,False
+5,SHATOVA Galya Anetova,BUL,"Aug 29, 2001",63.03,A,92,94,96,96,64kgWomen,Snatch,594,False
+6,WOLK Wiktoria Krystyna,POL,"Mar 10, 2001",63.23,A,-93,-94,94,94,64kgWomen,Snatch,594,False
+7,JEZKOVA Patricie,CZE,"Feb 19, 1994",63.98,A,89,93,-96,93,64kgWomen,Snatch,594,False
+8,FAUVEL Laurene,FRA,"May 21, 1999",63.82,A,90,-93,93,93,64kgWomen,Snatch,594,False
+9,ADAMUS Bartlomiej Stefan,POL,"May 12, 2000",64.00,B,89,92,-94,92,64kgWomen,Snatch,594,False
+10,ANDERSSON Ine Drablos,NOR,"Aug 17, 1989",61.07,A,89,-91,-91,89,64kgWomen,Snatch,594,False
+11,ARUNOVIC Tamara,SRB,"Dec 28, 1998",63.68,A,89,-91,-92,89,64kgWomen,Snatch,594,False
+12,KUSTERER Sabine Beate,GER,"Jan 04, 1991",63.77,A,-86,86,89,89,64kgWomen,Snatch,594,False
+13,ZIKOWSKY Paula,AUT,"Dec 11, 1995",63.48,B,85,-88,88,88,64kgWomen,Snatch,594,False
+14,MARTINEZ ANASAGASTI Garoa,ESP,"Sep 24, 1997",63.94,B,87,-91,-91,87,64kgWomen,Snatch,594,False
+15,KRSKOVA Lucia,SVK,"Oct 14, 1987",63.80,B,80,84,87,87,64kgWomen,Snatch,594,False
+16,BJELIC Sonja,SRB,"Jul 17, 1999",63.58,A,-85,86,-90,86,64kgWomen,Snatch,594,False
+17,KETILSDOTTIR Katla Bjoerk,ISL,"Nov 08, 2000",62.92,C,78,81,84,84,64kgWomen,Snatch,594,False
+18,TIMMERMANS Myrthe,NED,"Jan 05, 1997",63.91,B,84,-87,-88,84,64kgWomen,Snatch,594,False
+19,SCHMID Tanja Siriam,SUI,"Feb 12, 1992",63.88,B,-84,84,-88,84,64kgWomen,Snatch,594,False
+20,MONTEIRO Mafalda,POR,"Nov 18, 1996",64.00,B,75,81,84,84,64kgWomen,Snatch,594,False
+21,HENRIKSSON Moa,SWE,"Dec 13, 1998",61.85,B,80,-83,83,83,64kgWomen,Snatch,594,False
+22,NOVAK Alina,AUT,"Sep 12, 2003",64.00,B,80,-83,-83,80,64kgWomen,Snatch,594,False
+23,MULVIHILL Ailbhe Aine,IRL,"Aug 25, 1999",63.60,C,75,78,-81,78,64kgWomen,Snatch,594,False
+24,BARRY Gillian,IRL,"Dec 26, 1999",63.67,C,74,76,78,78,64kgWomen,Snatch,594,False
+25,PERISSINOTTO Kristy,BEL,"Sep 16, 1995",63.52,C,-78,-78,78,78,64kgWomen,Snatch,594,False
+26,STASSIJNS Eva,BEL,"Apr 10, 1998",63.52,C,74,77,-79,77,64kgWomen,Snatch,594,False
+27,REHL Josephine,DEN,"Jul 10, 2001",63.96,B,-77,77,-80,77,64kgWomen,Snatch,594,False
+28,MALJKOVIC Barbara,CRO,"Jul 23, 2002",63.12,C,-65,-65,66,66,64kgWomen,Snatch,594,False
+1,WOLK Wiktoria Krystyna,POL,"Mar 10, 2001",63.23,A,115,118,121,121,64kgWomen,CleanJerk,594,False
+2,DAVYDOVA Hanna,UKR,"Jun 25, 1998",64.00,A,117,120,-122,120,64kgWomen,CleanJerk,594,False
+3,SAMULIAK Svitlana,UKR,"Jul 19, 2003",61.46,A,115,118,-120,118,64kgWomen,CleanJerk,594,False
+4,OZKAN Aysel,TUR,"Feb 26, 2002",63.94,A,112,116,-119,116,64kgWomen,CleanJerk,594,False
+5,SHATOVA Galya Anetova,BUL,"Aug 29, 2001",63.03,A,115,-119,-119,115,64kgWomen,CleanJerk,594,False
+6,MARTINEZ ANASAGASTI Garoa,ESP,"Sep 24, 1997",63.94,B,110,114,-117,114,64kgWomen,CleanJerk,594,False
+7,ARUNOVIC Tamara,SRB,"Dec 28, 1998",63.68,A,107,110,113,113,64kgWomen,CleanJerk,594,False
+8,KUSTERER Sabine Beate,GER,"Jan 04, 1991",63.77,A,107,111,113,113,64kgWomen,CleanJerk,594,False
+9,MAISEYEVICH Dziyana,AIN,"Apr 22, 2002",63.97,A,112,-116,-116,112,64kgWomen,CleanJerk,594,False
+10,ANDERSSON Ine Drablos,NOR,"Aug 17, 1989",61.07,A,112,-115,-116,112,64kgWomen,CleanJerk,594,False
+11,FAUVEL Laurene,FRA,"May 21, 1999",63.82,A,110,-113,-113,110,64kgWomen,CleanJerk,594,False
+12,JEZKOVA Patricie,CZE,"Feb 19, 1994",63.98,A,110,-113,-113,110,64kgWomen,CleanJerk,594,False
+13,REHL Josephine,DEN,"Jul 10, 2001",63.96,B,100,104,108,108,64kgWomen,CleanJerk,594,False
+14,ADAMUS Bartlomiej Stefan,POL,"May 12, 2000",64.00,B,105,-108,108,108,64kgWomen,CleanJerk,594,False
+15,BJELIC Sonja,SRB,"Jul 17, 1999",63.58,A,100,104,-107,104,64kgWomen,CleanJerk,594,False
+16,TIMMERMANS Myrthe,NED,"Jan 05, 1997",63.91,B,103,-106,-106,103,64kgWomen,CleanJerk,594,False
+17,ZIKOWSKY Paula,AUT,"Dec 11, 1995",63.48,B,-103,103,-106,103,64kgWomen,CleanJerk,594,False
+18,NOVAK Alina,AUT,"Sep 12, 2003",64.00,B,100,-103,103,103,64kgWomen,CleanJerk,594,False
+19,KRSKOVA Lucia,SVK,"Oct 14, 1987",63.80,B,98,101,-103,101,64kgWomen,CleanJerk,594,False
+20,PERISSINOTTO Kristy,BEL,"Sep 16, 1995",63.52,C,93,-98,100,100,64kgWomen,CleanJerk,594,False
+21,MONTEIRO Mafalda,POR,"Nov 18, 1996",64.00,B,100,-103,-104,100,64kgWomen,CleanJerk,594,False
+22,HENRIKSSON Moa,SWE,"Dec 13, 1998",61.85,B,-100,100,-103,100,64kgWomen,CleanJerk,594,False
+23,STASSIJNS Eva,BEL,"Apr 10, 1998",63.52,C,95,97,-99,97,64kgWomen,CleanJerk,594,False
+24,BARRY Gillian,IRL,"Dec 26, 1999",63.67,C,92,95,97,97,64kgWomen,CleanJerk,594,False
+25,KETILSDOTTIR Katla Bjoerk,ISL,"Nov 08, 2000",62.92,C,94,-97,97,97,64kgWomen,CleanJerk,594,False
+26,MULVIHILL Ailbhe Aine,IRL,"Aug 25, 1999",63.60,C,90,93,96,96,64kgWomen,CleanJerk,594,False
+27,MALJKOVIC Barbara,CRO,"Jul 23, 2002",63.12,C,88,92,-95,92,64kgWomen,CleanJerk,594,False
+---,SCHMID Tanja Siriam,SUI,"Feb 12, 1992",63.88,B,-106,-106,-106,---,64kgWomen,CleanJerk,594,False
+1,DAVYDOVA Hanna,UKR,"Jun 25, 1998",64.00,A,100,120,220,---,64kgWomen,Total,594,False
+2,SAMULIAK Svitlana,UKR,"Jul 19, 2003",61.46,A,101,118,219,---,64kgWomen,Total,594,False
+3,WOLK Wiktoria Krystyna,POL,"Mar 10, 2001",63.23,A,94,121,215,---,64kgWomen,Total,594,False
+4,OZKAN Aysel,TUR,"Feb 26, 2002",63.94,A,98,116,214,---,64kgWomen,Total,594,False
+5,SHATOVA Galya Anetova,BUL,"Aug 29, 2001",63.03,A,96,115,211,---,64kgWomen,Total,594,False
+6,MAISEYEVICH Dziyana,AIN,"Apr 22, 2002",63.97,A,97,112,209,---,64kgWomen,Total,594,False
+7,FAUVEL Laurene,FRA,"May 21, 1999",63.82,A,93,110,203,---,64kgWomen,Total,594,False
+8,JEZKOVA Patricie,CZE,"Feb 19, 1994",63.98,A,93,110,203,---,64kgWomen,Total,594,False
+9,ARUNOVIC Tamara,SRB,"Dec 28, 1998",63.68,A,89,113,202,---,64kgWomen,Total,594,False
+10,KUSTERER Sabine Beate,GER,"Jan 04, 1991",63.77,A,89,113,202,---,64kgWomen,Total,594,False
+11,MARTINEZ ANASAGASTI Garoa,ESP,"Sep 24, 1997",63.94,B,87,114,201,---,64kgWomen,Total,594,False
+12,ANDERSSON Ine Drablos,NOR,"Aug 17, 1989",61.07,A,89,112,201,---,64kgWomen,Total,594,False
+13,ADAMUS Bartlomiej Stefan,POL,"May 12, 2000",64.00,B,92,108,200,---,64kgWomen,Total,594,False
+14,ZIKOWSKY Paula,AUT,"Dec 11, 1995",63.48,B,88,103,191,---,64kgWomen,Total,594,False
+15,BJELIC Sonja,SRB,"Jul 17, 1999",63.58,A,86,104,190,---,64kgWomen,Total,594,False
+16,KRSKOVA Lucia,SVK,"Oct 14, 1987",63.80,B,87,101,188,---,64kgWomen,Total,594,False
+17,TIMMERMANS Myrthe,NED,"Jan 05, 1997",63.91,B,84,103,187,---,64kgWomen,Total,594,False
+18,REHL Josephine,DEN,"Jul 10, 2001",63.96,B,77,108,185,---,64kgWomen,Total,594,False
+19,MONTEIRO Mafalda,POR,"Nov 18, 1996",64.00,B,84,100,184,---,64kgWomen,Total,594,False
+20,HENRIKSSON Moa,SWE,"Dec 13, 1998",61.85,B,83,100,183,---,64kgWomen,Total,594,False
+21,NOVAK Alina,AUT,"Sep 12, 2003",64.00,B,80,103,183,---,64kgWomen,Total,594,False
+22,KETILSDOTTIR Katla Bjoerk,ISL,"Nov 08, 2000",62.92,C,84,97,181,---,64kgWomen,Total,594,False
+23,PERISSINOTTO Kristy,BEL,"Sep 16, 1995",63.52,C,78,100,178,---,64kgWomen,Total,594,False
+24,BARRY Gillian,IRL,"Dec 26, 1999",63.67,C,78,97,175,---,64kgWomen,Total,594,False
+25,MULVIHILL Ailbhe Aine,IRL,"Aug 25, 1999",63.60,C,78,96,174,---,64kgWomen,Total,594,False
+26,STASSIJNS Eva,BEL,"Apr 10, 1998",63.52,C,77,97,174,---,64kgWomen,Total,594,False
+27,MALJKOVIC Barbara,CRO,"Jul 23, 2002",63.12,C,66,92,158,---,64kgWomen,Total,594,False
+---,SCHMID Tanja Siriam,SUI,"Feb 12, 1992",63.88,B,84,---,---,---,64kgWomen,Total,594,False
+1,TOMA Loredana-Elena,ROU,"May 10, 1995",68.96,A,106,109,114,114,71kgWomen,Snatch,594,False
+2,SCHWEIZER Lisa Marie,GER,"Jul 18, 1995",70.83,A,101,105,107,107,71kgWomen,Snatch,594,False
+3,VALODZKA Siuzanna,AIN,"Aug 17, 2000",70.95,A,101,105,-107,105,71kgWomen,Snatch,594,False
+4,STURLUDOTTIR Eyglo Fanndal,ISL,"Jun 25, 2001",71.00,A,99,102,105,105,71kgWomen,Snatch,594,False
+5,YLISOINI Anna Janette Tellervo,FIN,"Apr 06, 2006",70.88,A,101,-104,-104,101,71kgWomen,Snatch,594,False
+6,GHERMAN Daniela Mariana,SWE,"Sep 23, 1997",68.43,B,95,-99,100,100,71kgWomen,Snatch,594,False
+7,DAVIES Sarah,GBR,"Aug 19, 1992",71.00,A,98,-101,-101,98,71kgWomen,Snatch,594,False
+8,GOLD Celia Henna,ISR,"Feb 10, 1998",70.50,A,98,-101,-101,98,71kgWomen,Snatch,594,False
+9,BARTON Erin,GBR,"Apr 24, 1990",71.00,B,94,-97,-97,94,71kgWomen,Snatch,594,False
+10,IVZHENKO Olha,UKR,"Oct 06, 2003",65.61,B,-94,94,-99,94,71kgWomen,Snatch,594,False
+11,JAKAITE Lijana,LTU,"Aug 02, 1998",70.80,B,93,-95,-95,93,71kgWomen,Snatch,594,False
+12,GRAILLOT Vicky,FRA,"Jul 02, 2000",67.80,B,90,93,-95,93,71kgWomen,Snatch,594,False
+13,GUDE Line Ravn,DEN,"Feb 19, 1998",70.37,B,85,89,92,92,71kgWomen,Snatch,594,False
+14,POLAKTSIDOU Despoina,GRE,"Oct 21, 1999",70.79,B,86,90,-92,90,71kgWomen,Snatch,594,False
+15,RINGSAKER Tinna Henriette,NOR,"Aug 29, 1999",70.74,C,84,87,-90,87,71kgWomen,Snatch,594,False
+16,BAECKSTROEM Jannike Anna,FIN,"Aug 20, 2003",68.96,C,82,85,87,87,71kgWomen,Snatch,594,False
+17,SORENSEN Sandra,DEN,"Apr 19, 2001",67.19,C,83,-86,86,86,71kgWomen,Snatch,594,False
+18,SZALAI Lili,HUN,"Apr 11, 2004",68.63,B,-85,85,-90,85,71kgWomen,Snatch,594,False
+19,LOEN Julia Jordanger,NOR,"Feb 28, 2002",70.38,B,-84,-85,85,85,71kgWomen,Snatch,594,False
+20,HUSTAVOVA Natalia,SVK,"Dec 14, 1999",66.81,C,80,83,-85,83,71kgWomen,Snatch,594,False
+21,RYBOVA Adela,CZE,"Mar 22, 2000",67.04,C,72,75,-78,75,71kgWomen,Snatch,594,False
+22,ARNAUDOVA Maria-Aleksandra Pavlova,BUL,"Oct 02, 2009",67.39,C,68,72,75,75,71kgWomen,Snatch,594,False
+---,VOLNA Veronika,CZE,"Feb 28, 1999",65.47,C,-75,-75,-76,---,71kgWomen,Snatch,594,False
+1,VALODZKA Siuzanna,AIN,"Aug 17, 2000",70.95,A,127,130,-137,130,71kgWomen,CleanJerk,594,False
+2,GOLD Celia Henna,ISR,"Feb 10, 1998",70.50,A,124,-128,128,128,71kgWomen,CleanJerk,594,False
+3,DAVIES Sarah,GBR,"Aug 19, 1992",71.00,A,-127,-128,128,128,71kgWomen,CleanJerk,594,False
+4,TOMA Loredana-Elena,ROU,"May 10, 1995",68.96,A,127,-131,-131,127,71kgWomen,CleanJerk,594,False
+5,STURLUDOTTIR Eyglo Fanndal,ISL,"Jun 25, 2001",71.00,A,125,-129,-129,125,71kgWomen,CleanJerk,594,False
+6,SCHWEIZER Lisa Marie,GER,"Jul 18, 1995",70.83,A,-120,120,124,124,71kgWomen,CleanJerk,594,False
+7,BARTON Erin,GBR,"Apr 24, 1990",71.00,B,123,-127,-127,123,71kgWomen,CleanJerk,594,False
+8,YLISOINI Anna Janette Tellervo,FIN,"Apr 06, 2006",70.88,A,120,123,-126,123,71kgWomen,CleanJerk,594,False
+9,GHERMAN Daniela Mariana,SWE,"Sep 23, 1997",68.43,B,115,120,-122,120,71kgWomen,CleanJerk,594,False
+10,GRAILLOT Vicky,FRA,"Jul 02, 2000",67.80,B,116,120,-125,120,71kgWomen,CleanJerk,594,False
+11,GUDE Line Ravn,DEN,"Feb 19, 1998",70.37,B,110,115,120,120,71kgWomen,CleanJerk,594,False
+12,IVZHENKO Olha,UKR,"Oct 06, 2003",65.61,B,116,-120,-120,116,71kgWomen,CleanJerk,594,False
+13,RINGSAKER Tinna Henriette,NOR,"Aug 29, 1999",70.74,C,109,113,115,115,71kgWomen,CleanJerk,594,False
+14,JAKAITE Lijana,LTU,"Aug 02, 1998",70.80,B,112,-115,115,115,71kgWomen,CleanJerk,594,False
+15,LOEN Julia Jordanger,NOR,"Feb 28, 2002",70.38,B,104,107,110,110,71kgWomen,CleanJerk,594,False
+16,HUSTAVOVA Natalia,SVK,"Dec 14, 1999",66.81,C,103,107,109,109,71kgWomen,CleanJerk,594,False
+17,SZALAI Lili,HUN,"Apr 11, 2004",68.63,B,105,108,-111,108,71kgWomen,CleanJerk,594,False
+18,BAECKSTROEM Jannike Anna,FIN,"Aug 20, 2003",68.96,C,101,104,-108,104,71kgWomen,CleanJerk,594,False
+19,VOLNA Veronika,CZE,"Feb 28, 1999",65.47,C,99,-104,104,104,71kgWomen,CleanJerk,594,False
+20,SORENSEN Sandra,DEN,"Apr 19, 2001",67.19,C,98,-102,-103,98,71kgWomen,CleanJerk,594,False
+21,RYBOVA Adela,CZE,"Mar 22, 2000",67.04,C,89,94,97,97,71kgWomen,CleanJerk,594,False
+22,ARNAUDOVA Maria-Aleksandra Pavlova,BUL,"Oct 02, 2009",67.39,C,85,90,95,95,71kgWomen,CleanJerk,594,False
+---,POLAKTSIDOU Despoina,GRE,"Oct 21, 1999",70.79,B,-104,-104,-106,---,71kgWomen,CleanJerk,594,False
+1,TOMA Loredana-Elena,ROU,"May 10, 1995",68.96,A,114,127,241,---,71kgWomen,Total,594,False
+2,VALODZKA Siuzanna,AIN,"Aug 17, 2000",70.95,A,105,130,235,---,71kgWomen,Total,594,False
+3,SCHWEIZER Lisa Marie,GER,"Jul 18, 1995",70.83,A,107,124,231,---,71kgWomen,Total,594,False
+4,STURLUDOTTIR Eyglo Fanndal,ISL,"Jun 25, 2001",71.00,A,105,125,230,---,71kgWomen,Total,594,False
+5,GOLD Celia Henna,ISR,"Feb 10, 1998",70.50,A,98,128,226,---,71kgWomen,Total,594,False
+6,DAVIES Sarah,GBR,"Aug 19, 1992",71.00,A,98,128,226,---,71kgWomen,Total,594,False
+7,YLISOINI Anna Janette Tellervo,FIN,"Apr 06, 2006",70.88,A,101,123,224,---,71kgWomen,Total,594,False
+8,GHERMAN Daniela Mariana,SWE,"Sep 23, 1997",68.43,B,100,120,220,---,71kgWomen,Total,594,False
+9,BARTON Erin,GBR,"Apr 24, 1990",71.00,B,94,123,217,---,71kgWomen,Total,594,False
+10,GRAILLOT Vicky,FRA,"Jul 02, 2000",67.80,B,93,120,213,---,71kgWomen,Total,594,False
+11,GUDE Line Ravn,DEN,"Feb 19, 1998",70.37,B,92,120,212,---,71kgWomen,Total,594,False
+12,IVZHENKO Olha,UKR,"Oct 06, 2003",65.61,B,94,116,210,---,71kgWomen,Total,594,False
+13,JAKAITE Lijana,LTU,"Aug 02, 1998",70.80,B,93,115,208,---,71kgWomen,Total,594,False
+14,RINGSAKER Tinna Henriette,NOR,"Aug 29, 1999",70.74,C,87,115,202,---,71kgWomen,Total,594,False
+15,LOEN Julia Jordanger,NOR,"Feb 28, 2002",70.38,B,85,110,195,---,71kgWomen,Total,594,False
+16,SZALAI Lili,HUN,"Apr 11, 2004",68.63,B,85,108,193,---,71kgWomen,Total,594,False
+17,HUSTAVOVA Natalia,SVK,"Dec 14, 1999",66.81,C,83,109,192,---,71kgWomen,Total,594,False
+18,BAECKSTROEM Jannike Anna,FIN,"Aug 20, 2003",68.96,C,87,104,191,---,71kgWomen,Total,594,False
+19,SORENSEN Sandra,DEN,"Apr 19, 2001",67.19,C,86,98,184,---,71kgWomen,Total,594,False
+20,RYBOVA Adela,CZE,"Mar 22, 2000",67.04,C,75,97,172,---,71kgWomen,Total,594,False
+21,ARNAUDOVA Maria-Aleksandra Pavlova,BUL,"Oct 02, 2009",67.39,C,75,95,170,---,71kgWomen,Total,594,False
+---,POLAKTSIDOU Despoina,GRE,"Oct 21, 1999",70.79,B,90,---,---,---,71kgWomen,Total,594,False
+---,VOLNA Veronika,CZE,"Feb 28, 1999",65.47,C,---,104,---,---,71kgWomen,Total,594,False
+1,TOKO KEGNE Genna Romida,ITA,"Nov 10, 2002",75.33,A,98,101,-103,101,76kgWomen,Snatch,594,False
+2,DANCZ Lara,GER,"Jun 30, 2000",75.31,A,97,-100,101,101,76kgWomen,Snatch,594,False
+3,RUBANOVICH Nikol Bella,ISR,"May 09, 1998",74.43,A,96,99,-102,99,76kgWomen,Snatch,594,False
+4,OUALIT Nadia,ESP,"Sep 27, 1996",75.57,A,94,98,-101,98,76kgWomen,Snatch,594,False
+5,PAHULIAYEVA Palina,AIN,"Jan 18, 2003",73.99,A,-94,94,97,97,76kgWomen,Snatch,594,False
+6,CIUBOTARU Alexandrina,MDA,"Sep 17, 2005",75.60,A,91,94,-96,94,76kgWomen,Snatch,594,False
+7,HORVATH Laura,HUN,"Mar 21, 1997",75.82,A,90,-94,-94,90,76kgWomen,Snatch,594,False
+8,TOLSTRUP Laura Vest,DEN,"Sep 12, 1997",73.98,A,-88,89,-92,89,76kgWomen,Snatch,594,False
+9,GLEISNER Emma Eveliina,FIN,"Sep 05, 1997",75.90,A,-85,85,88,88,76kgWomen,Snatch,594,False
+10,RONDZIKOVA Nina,SVK,"Jan 22, 1995",71.49,A,83,86,88,88,76kgWomen,Snatch,594,False
+11,GAVRAN Ivona,CRO,"Apr 03, 1999",74.91,A,86,-90,-92,86,76kgWomen,Snatch,594,False
+12,STEFANSDOTTIR Gudny Bjork,ISL,"Aug 08, 2001",71.55,B,85,-90,-92,85,76kgWomen,Snatch,594,False
+13,GARCIA STEFANOVA Sofia,BUL,"May 19, 2008",75.98,B,-70,71,75,75,76kgWomen,Snatch,594,False
+14,MROZ Paula,BEL,"Apr 25, 1994",73.84,B,71,-74,-74,71,76kgWomen,Snatch,594,False
+---,FEGUE Marie Josephe,FRA,"May 28, 1991",74.85,B,---,---,---,---,76kgWomen,Snatch,594,False
+1,TOKO KEGNE Genna Romida,ITA,"Nov 10, 2002",75.33,A,120,126,-131,126,76kgWomen,CleanJerk,594,False
+2,RUBANOVICH Nikol Bella,ISR,"May 09, 1998",74.43,A,-116,117,---,117,76kgWomen,CleanJerk,594,False
+3,TOLSTRUP Laura Vest,DEN,"Sep 12, 1997",73.98,A,-116,116,-119,116,76kgWomen,CleanJerk,594,False
+4,HORVATH Laura,HUN,"Mar 21, 1997",75.82,A,-115,115,-119,115,76kgWomen,CleanJerk,594,False
+5,PAHULIAYEVA Palina,AIN,"Jan 18, 2003",73.99,A,-115,115,-119,115,76kgWomen,CleanJerk,594,False
+6,DANCZ Lara,GER,"Jun 30, 2000",75.31,A,111,114,-116,114,76kgWomen,CleanJerk,594,False
+7,OUALIT Nadia,ESP,"Sep 27, 1996",75.57,A,113,-116,-117,113,76kgWomen,CleanJerk,594,False
+8,GLEISNER Emma Eveliina,FIN,"Sep 05, 1997",75.90,A,108,111,-114,111,76kgWomen,CleanJerk,594,False
+9,RONDZIKOVA Nina,SVK,"Jan 22, 1995",71.49,A,104,108,111,111,76kgWomen,CleanJerk,594,False
+10,STEFANSDOTTIR Gudny Bjork,ISL,"Aug 08, 2001",71.55,B,104,107,110,110,76kgWomen,CleanJerk,594,False
+11,GARCIA STEFANOVA Sofia,BUL,"May 19, 2008",75.98,B,90,96,102,102,76kgWomen,CleanJerk,594,False
+12,GAVRAN Ivona,CRO,"Apr 03, 1999",74.91,A,102,-107,-110,102,76kgWomen,CleanJerk,594,False
+13,MROZ Paula,BEL,"Apr 25, 1994",73.84,B,-90,90,-94,90,76kgWomen,CleanJerk,594,False
+---,CIUBOTARU Alexandrina,MDA,"Sep 17, 2005",75.60,A,-115,-115,-115,---,76kgWomen,CleanJerk,594,False
+---,FEGUE Marie Josephe,FRA,"May 28, 1991",74.85,B,---,---,---,---,76kgWomen,CleanJerk,594,False
+1,TOKO KEGNE Genna Romida,ITA,"Nov 10, 2002",75.33,A,101,126,227,---,76kgWomen,Total,594,False
+2,RUBANOVICH Nikol Bella,ISR,"May 09, 1998",74.43,A,99,117,216,---,76kgWomen,Total,594,False
+3,DANCZ Lara,GER,"Jun 30, 2000",75.31,A,101,114,215,---,76kgWomen,Total,594,False
+4,PAHULIAYEVA Palina,AIN,"Jan 18, 2003",73.99,A,97,115,212,---,76kgWomen,Total,594,False
+5,OUALIT Nadia,ESP,"Sep 27, 1996",75.57,A,98,113,211,---,76kgWomen,Total,594,False
+6,HORVATH Laura,HUN,"Mar 21, 1997",75.82,A,90,115,205,---,76kgWomen,Total,594,False
+7,TOLSTRUP Laura Vest,DEN,"Sep 12, 1997",73.98,A,89,116,205,---,76kgWomen,Total,594,False
+8,GLEISNER Emma Eveliina,FIN,"Sep 05, 1997",75.90,A,88,111,199,---,76kgWomen,Total,594,False
+9,RONDZIKOVA Nina,SVK,"Jan 22, 1995",71.49,A,88,111,199,---,76kgWomen,Total,594,False
+10,STEFANSDOTTIR Gudny Bjork,ISL,"Aug 08, 2001",71.55,B,85,110,195,---,76kgWomen,Total,594,False
+11,GAVRAN Ivona,CRO,"Apr 03, 1999",74.91,A,86,102,188,---,76kgWomen,Total,594,False
+12,GARCIA STEFANOVA Sofia,BUL,"May 19, 2008",75.98,B,75,102,177,---,76kgWomen,Total,594,False
+13,MROZ Paula,BEL,"Apr 25, 1994",73.84,B,71,90,161,---,76kgWomen,Total,594,False
+---,CIUBOTARU Alexandrina,MDA,"Sep 17, 2005",75.60,A,94,---,---,---,76kgWomen,Total,594,False
+---,FEGUE Marie Josephe,FRA,"May 28, 1991",74.85,B,---,---,---,---,76kgWomen,Total,594,False
+1,ZIELINSKA STUBINSKA Weronika,POL,"May 16, 1997",79.61,A,-103,103,-106,103,81kgWomen,Snatch,594,False
+2,ERIGHINA Elena,MDA,"Jun 03, 1996",80.76,A,-99,99,103,103,81kgWomen,Snatch,594,False
+3,LAGROU Ilke,BEL,"Jan 27, 1998",80.43,A,97,100,103,103,81kgWomen,Snatch,594,False
+4,NARIN Dilara,TUR,"Mar 17, 2002",81.00,A,-95,97,-101,97,81kgWomen,Snatch,594,False
+5,KHEIDZER Darya,AIN,"Aug 03, 2002",80.79,A,93,-96,96,96,81kgWomen,Snatch,594,False
+6,GYURJYAN Liana,ARM,"Jun 13, 2002",81.00,A,95,-98,-98,95,81kgWomen,Snatch,594,False
+7,JERABKOVA Simona,CZE,"Sep 29, 2000",76.48,A,-84,84,87,87,81kgWomen,Snatch,594,False
+8,CILCIC Anastasia,MDA,"Nov 19, 2001",80.77,A,80,84,-87,84,81kgWomen,Snatch,594,False
+---,FEKLISTOVA Katrina,GBR,"Jun 04, 1997",79.82,A,---,---,---,---,81kgWomen,Snatch,594,False
+---,LOWIK Nikki Merel Elisabeth,NED,"Jan 30, 2001",80.57,A,-102,-103,-104,---,81kgWomen,Snatch,594,False
+1,ZIELINSKA STUBINSKA Weronika,POL,"May 16, 1997",79.61,A,127,-130,132,132,81kgWomen,CleanJerk,594,False
+2,ERIGHINA Elena,MDA,"Jun 03, 1996",80.76,A,126,129,131,131,81kgWomen,CleanJerk,594,False
+3,NARIN Dilara,TUR,"Mar 17, 2002",81.00,A,125,-128,-128,125,81kgWomen,CleanJerk,594,False
+4,GYURJYAN Liana,ARM,"Jun 13, 2002",81.00,A,-125,125,-129,125,81kgWomen,CleanJerk,594,False
+5,KHEIDZER Darya,AIN,"Aug 03, 2002",80.79,A,112,116,-120,116,81kgWomen,CleanJerk,594,False
+6,CILCIC Anastasia,MDA,"Nov 19, 2001",80.77,A,100,-105,109,109,81kgWomen,CleanJerk,594,False
+7,JERABKOVA Simona,CZE,"Sep 29, 2000",76.48,A,105,-109,-110,105,81kgWomen,CleanJerk,594,False
+---,LAGROU Ilke,BEL,"Jan 27, 1998",80.43,A,-123,-125,-125,---,81kgWomen,CleanJerk,594,False
+---,FEKLISTOVA Katrina,GBR,"Jun 04, 1997",79.82,A,---,---,---,---,81kgWomen,CleanJerk,594,False
+---,LOWIK Nikki Merel Elisabeth,NED,"Jan 30, 2001",80.57,A,-125,---,---,---,81kgWomen,CleanJerk,594,False
+1,ZIELINSKA STUBINSKA Weronika,POL,"May 16, 1997",79.61,A,103,132,235,---,81kgWomen,Total,594,False
+2,ERIGHINA Elena,MDA,"Jun 03, 1996",80.76,A,103,131,234,---,81kgWomen,Total,594,False
+3,NARIN Dilara,TUR,"Mar 17, 2002",81.00,A,97,125,222,---,81kgWomen,Total,594,False
+4,GYURJYAN Liana,ARM,"Jun 13, 2002",81.00,A,95,125,220,---,81kgWomen,Total,594,False
+5,KHEIDZER Darya,AIN,"Aug 03, 2002",80.79,A,96,116,212,---,81kgWomen,Total,594,False
+6,CILCIC Anastasia,MDA,"Nov 19, 2001",80.77,A,84,109,193,---,81kgWomen,Total,594,False
+7,JERABKOVA Simona,CZE,"Sep 29, 2000",76.48,A,87,105,192,---,81kgWomen,Total,594,False
+---,LAGROU Ilke,BEL,"Jan 27, 1998",80.43,A,103,---,---,---,81kgWomen,Total,594,False
+---,FEKLISTOVA Katrina,GBR,"Jun 04, 1997",79.82,A,---,---,---,---,81kgWomen,Total,594,False
+---,LOWIK Nikki Merel Elisabeth,NED,"Jan 30, 2001",80.57,A,---,---,---,---,81kgWomen,Total,594,False
+1,KOANDA Solfrid Eila Amena,NOR,"Nov 13, 1998",85.62,A,114,-118,120,120,87kgWomen,Snatch,594,False
+2,JENSEN Anne Sofie Vejsgaard,DEN,"Jul 16, 1998",86.72,A,99,103,107,107,87kgWomen,Snatch,594,False
+3,KHURSHUDYAN Hripsime,ARM,"Jul 27, 1987",86.80,A,102,-105,105,105,87kgWomen,Snatch,594,False
+4,SCHROTH Nina,GER,"Aug 16, 1991",86.35,A,-100,100,104,104,87kgWomen,Snatch,594,False
+5,HAKOBYAN Tatev,ARM,"Mar 21, 1996",86.95,A,103,-106,-106,103,87kgWomen,Snatch,594,False
+6,MANIEVSKA Anastasiia,UKR,"Sep 09, 1998",84.75,A,102,-105,-106,102,87kgWomen,Snatch,594,False
+7,MITYKO Veronika,HUN,"Jul 26, 2000",83.05,A,-101,-101,102,102,87kgWomen,Snatch,594,False
+8,CAN Busra,TUR,"May 04, 2006",86.83,A,97,100,-103,100,87kgWomen,Snatch,594,False
+9,PETERSON Eliise,EST,"Apr 07, 1992",85.68,A,-100,100,-104,100,87kgWomen,Snatch,594,False
+10,MURGVLIANI Mariam,GEO,"Dec 05, 2006",85.39,A,97,-101,-101,97,87kgWomen,Snatch,594,False
+11,SENICOVA Nikola,SVK,"May 27, 2000",84.99,A,-96,97,-101,97,87kgWomen,Snatch,594,False
+12,ALEXE Alexandra,ROU,"Apr 20, 2000",83.65,A,95,-99,-99,95,87kgWomen,Snatch,594,False
+13,ZEMBOVA Lenka,SVK,"Jan 18, 2002",87.00,B,-91,91,94,94,87kgWomen,Snatch,594,False
+14,JONSDOTTIR Fridny Fjola,ISL,"May 10, 1997",81.82,B,88,-92,-93,88,87kgWomen,Snatch,594,False
+15,SMIGOVA Eliska,CZE,"Jan 04, 1995",83.78,B,87,-90,-91,87,87kgWomen,Snatch,594,False
+16,CHARITOPOULOU Desponia,GRE,"Jun 29, 1999",82.58,B,80,-85,85,85,87kgWomen,Snatch,594,False
+17,SEDA Pavlina,CZE,"Feb 11, 2002",84.01,B,79,82,84,84,87kgWomen,Snatch,594,False
+18,CORIC Abida,BIH,"Jan 03, 1991",81.89,B,80,-83,-83,80,87kgWomen,Snatch,594,False
+1,KOANDA Solfrid Eila Amena,NOR,"Nov 13, 1998",85.62,A,148,155,160,160,87kgWomen,CleanJerk,594,False
+2,MANIEVSKA Anastasiia,UKR,"Sep 09, 1998",84.75,A,126,128,---,128,87kgWomen,CleanJerk,594,False
+3,CAN Busra,TUR,"May 04, 2006",86.83,A,123,-127,127,127,87kgWomen,CleanJerk,594,False
+4,HAKOBYAN Tatev,ARM,"Mar 21, 1996",86.95,A,124,-126,-127,124,87kgWomen,CleanJerk,594,False
+5,KHURSHUDYAN Hripsime,ARM,"Jul 27, 1987",86.80,A,-122,122,-125,122,87kgWomen,CleanJerk,594,False
+6,ALEXE Alexandra,ROU,"Apr 20, 2000",83.65,A,118,121,-125,121,87kgWomen,CleanJerk,594,False
+7,MURGVLIANI Mariam,GEO,"Dec 05, 2006",85.39,A,116,-121,121,121,87kgWomen,CleanJerk,594,False
+8,PETERSON Eliise,EST,"Apr 07, 1992",85.68,A,120,-123,-124,120,87kgWomen,CleanJerk,594,False
+9,JENSEN Anne Sofie Vejsgaard,DEN,"Jul 16, 1998",86.72,A,115,-119,119,119,87kgWomen,CleanJerk,594,False
+10,SCHROTH Nina,GER,"Aug 16, 1991",86.35,A,118,-122,-123,118,87kgWomen,CleanJerk,594,False
+11,SENICOVA Nikola,SVK,"May 27, 2000",84.99,A,118,-124,-124,118,87kgWomen,CleanJerk,594,False
+12,MITYKO Veronika,HUN,"Jul 26, 2000",83.05,A,112,116,118,118,87kgWomen,CleanJerk,594,False
+13,ZEMBOVA Lenka,SVK,"Jan 18, 2002",87.00,B,110,-114,115,115,87kgWomen,CleanJerk,594,False
+14,SMIGOVA Eliska,CZE,"Jan 04, 1995",83.78,B,110,114,-117,114,87kgWomen,CleanJerk,594,False
+15,JONSDOTTIR Fridny Fjola,ISL,"May 10, 1997",81.82,B,-105,106,-112,106,87kgWomen,CleanJerk,594,False
+16,CHARITOPOULOU Desponia,GRE,"Jun 29, 1999",82.58,B,101,-106,106,106,87kgWomen,CleanJerk,594,False
+17,SEDA Pavlina,CZE,"Feb 11, 2002",84.01,B,92,96,100,100,87kgWomen,CleanJerk,594,False
+18,CORIC Abida,BIH,"Jan 03, 1991",81.89,B,99,-103,-103,99,87kgWomen,CleanJerk,594,False
+1,KOANDA Solfrid Eila Amena,NOR,"Nov 13, 1998",85.62,A,120,160,280,---,87kgWomen,Total,594,False
+2,MANIEVSKA Anastasiia,UKR,"Sep 09, 1998",84.75,A,102,128,230,---,87kgWomen,Total,594,False
+3,KHURSHUDYAN Hripsime,ARM,"Jul 27, 1987",86.80,A,105,122,227,---,87kgWomen,Total,594,False
+4,HAKOBYAN Tatev,ARM,"Mar 21, 1996",86.95,A,103,124,227,---,87kgWomen,Total,594,False
+5,CAN Busra,TUR,"May 04, 2006",86.83,A,100,127,227,---,87kgWomen,Total,594,False
+6,JENSEN Anne Sofie Vejsgaard,DEN,"Jul 16, 1998",86.72,A,107,119,226,---,87kgWomen,Total,594,False
+7,SCHROTH Nina,GER,"Aug 16, 1991",86.35,A,104,118,222,---,87kgWomen,Total,594,False
+8,MITYKO Veronika,HUN,"Jul 26, 2000",83.05,A,102,118,220,---,87kgWomen,Total,594,False
+9,PETERSON Eliise,EST,"Apr 07, 1992",85.68,A,100,120,220,---,87kgWomen,Total,594,False
+10,MURGVLIANI Mariam,GEO,"Dec 05, 2006",85.39,A,97,121,218,---,87kgWomen,Total,594,False
+11,ALEXE Alexandra,ROU,"Apr 20, 2000",83.65,A,95,121,216,---,87kgWomen,Total,594,False
+12,SENICOVA Nikola,SVK,"May 27, 2000",84.99,A,97,118,215,---,87kgWomen,Total,594,False
+13,ZEMBOVA Lenka,SVK,"Jan 18, 2002",87.00,B,94,115,209,---,87kgWomen,Total,594,False
+14,SMIGOVA Eliska,CZE,"Jan 04, 1995",83.78,B,87,114,201,---,87kgWomen,Total,594,False
+15,JONSDOTTIR Fridny Fjola,ISL,"May 10, 1997",81.82,B,88,106,194,---,87kgWomen,Total,594,False
+16,CHARITOPOULOU Desponia,GRE,"Jun 29, 1999",82.58,B,85,106,191,---,87kgWomen,Total,594,False
+17,SEDA Pavlina,CZE,"Feb 11, 2002",84.01,B,84,100,184,---,87kgWomen,Total,594,False
+18,CORIC Abida,BIH,"Jan 03, 1991",81.89,B,80,99,179,---,87kgWomen,Total,594,False
+1,HOTFRID Anastasiia,GEO,"Apr 25, 1996",100.13,A,111,115,117,117,+87kgWomen,Snatch,594,False
+2,CAMPBELL Emily Jade,GBR,"May 06, 1994",129.80,A,112,-116,-116,112,+87kgWomen,Snatch,594,False
+3,KISIL Valentyna,UKR,"Jul 05, 1998",100.76,A,104,106,108,108,+87kgWomen,Snatch,594,False
+4,CEVIK Fatmagul,TUR,"Oct 05, 2005",109.68,A,-103,103,107,107,+87kgWomen,Snatch,594,False
+5,BORODINA Krystyna,UKR,"Aug 19, 1999",96.43,A,98,100,102,102,+87kgWomen,Snatch,594,False
+6,FISCHER Sarah,AUT,"Nov 09, 2000",96.22,A,97,101,-105,101,+87kgWomen,Snatch,594,False
+7,AGUSTDOTTIR Erla,ISL,"May 22, 2001",116.21,B,93,97,100,100,+87kgWomen,Snatch,594,False
+8,IVANOVA Dzhesika,BUL,"Oct 26, 1998",102.36,A,94,98,100,100,+87kgWomen,Snatch,594,False
+9,KRALOVA Tereza,CZE,"Oct 22, 1989",93.07,B,88,-92,92,92,+87kgWomen,Snatch,594,False
+10,SCHEPENS Danique,NED,"Nov 28, 1990",100.82,B,85,-91,-92,85,+87kgWomen,Snatch,594,False
+11,ELLIS Cecily,NED,"Jun 27, 1995",104.03,B,-75,75,-82,75,+87kgWomen,Snatch,594,False
+---,SUREN Tuana,TUR,"May 01, 2006",96.74,A,-103,-103,---,---,+87kgWomen,Snatch,594,False
+1,CAMPBELL Emily Jade,GBR,"May 06, 1994",129.80,A,146,151,---,151,+87kgWomen,CleanJerk,594,False
+2,HOTFRID Anastasiia,GEO,"Apr 25, 1996",100.13,A,128,133,140,140,+87kgWomen,CleanJerk,594,False
+3,CEVIK Fatmagul,TUR,"Oct 05, 2005",109.68,A,125,129,131,131,+87kgWomen,CleanJerk,594,False
+4,FISCHER Sarah,AUT,"Nov 09, 2000",96.22,A,125,130,-132,130,+87kgWomen,CleanJerk,594,False
+5,KISIL Valentyna,UKR,"Jul 05, 1998",100.76,A,126,-129,-130,126,+87kgWomen,CleanJerk,594,False
+6,BORODINA Krystyna,UKR,"Aug 19, 1999",96.43,A,125,-130,-131,125,+87kgWomen,CleanJerk,594,False
+7,IVANOVA Dzhesika,BUL,"Oct 26, 1998",102.36,A,116,125,-128,125,+87kgWomen,CleanJerk,594,False
+8,AGUSTDOTTIR Erla,ISL,"May 22, 2001",116.21,B,110,-115,115,115,+87kgWomen,CleanJerk,594,False
+9,SCHEPENS Danique,NED,"Nov 28, 1990",100.82,B,108,112,-115,112,+87kgWomen,CleanJerk,594,False
+10,KRALOVA Tereza,CZE,"Oct 22, 1989",93.07,B,-111,112,-118,112,+87kgWomen,CleanJerk,594,False
+11,ELLIS Cecily,NED,"Jun 27, 1995",104.03,B,95,-100,100,100,+87kgWomen,CleanJerk,594,False
+---,SUREN Tuana,TUR,"May 01, 2006",96.74,A,---,---,---,---,+87kgWomen,CleanJerk,594,False
+1,CAMPBELL Emily Jade,GBR,"May 06, 1994",129.80,A,112,151,263,---,+87kgWomen,Total,594,False
+2,HOTFRID Anastasiia,GEO,"Apr 25, 1996",100.13,A,117,140,257,---,+87kgWomen,Total,594,False
+3,CEVIK Fatmagul,TUR,"Oct 05, 2005",109.68,A,107,131,238,---,+87kgWomen,Total,594,False
+4,KISIL Valentyna,UKR,"Jul 05, 1998",100.76,A,108,126,234,---,+87kgWomen,Total,594,False
+5,FISCHER Sarah,AUT,"Nov 09, 2000",96.22,A,101,130,231,---,+87kgWomen,Total,594,False
+6,BORODINA Krystyna,UKR,"Aug 19, 1999",96.43,A,102,125,227,---,+87kgWomen,Total,594,False
+7,IVANOVA Dzhesika,BUL,"Oct 26, 1998",102.36,A,100,125,225,---,+87kgWomen,Total,594,False
+8,AGUSTDOTTIR Erla,ISL,"May 22, 2001",116.21,B,100,115,215,---,+87kgWomen,Total,594,False
+9,KRALOVA Tereza,CZE,"Oct 22, 1989",93.07,B,92,112,204,---,+87kgWomen,Total,594,False
+10,SCHEPENS Danique,NED,"Nov 28, 1990",100.82,B,85,112,197,---,+87kgWomen,Total,594,False
+11,ELLIS Cecily,NED,"Jun 27, 1995",104.03,B,75,100,175,---,+87kgWomen,Total,594,False
+---,SUREN Tuana,TUR,"May 01, 2006",96.74,A,---,---,---,---,+87kgWomen,Total,594,False

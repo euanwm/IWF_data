@@ -1,63 +1,63 @@
 total_rank,snatch_rank,cleanjerk_rank,name,athlete_id,date_of_birth,age,gender,nation,group,bw,category,dq,old_classes,event_id,event,date,snatch_lift1,snatch_lift2,snatch_lift3,snatch_best,cleanjerk_lift1,cleanjerk_lift2,cleanjerk_lift3,cleanjerk_best,total
-1,1,1,ESPINOSA Luis Alberto,4778,2006-11-30,16.7,M,VEN,A,109.2,+102 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,120,126,-131,126,-150,150,-160,150,276
-1,2,1,ROJAS ROJAS Valentina Belen,13845,2008-04-14,15.3,W,CHI,A,87.8,+81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,75,-80,80,80,95,100,103,103,183
-2,1,2,MENDOZA SALAZAR Barbara Nazaret,10498,2008-06-30,15.1,W,VEN,A,86.6,+81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,80,-85,85,85,96,-101,-101,96,181
-3,3,3,CIFUENTES TERCERO Jimena,3484,2008-06-02,15.2,W,MEX,A,100.8,+81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,65,69,74,74,80,-91,-93,80,154
-1,1,1,MESA Joaquin Eluney,10540,2006-07-21,17,M,ARG,A,98.65,102 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,138,145,151,151,165,171,176,176,327
-2,2,2,GONZALEZ Ernesto,5723,2006-08-22,16.9,M,VEN,A,101.6,102 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,-105,105,-110,105,150,-160,-160,150,255
-1,1,1,BRITO RANGEL Roimary Gabriela,2497,2006-05-04,17.2,W,VEN,A,39.65,40 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,51,53,-54,53,62,65,68,68,121
-2,2,2,REYES LINARES Hana Valeria,13524,2006-01-27,17.5,W,MEX,A,39.4,40 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,50,52,-54,52,-60,60,-63,60,112
-1,1,1,ESTRADA VELEZ Lawren Sofia,4802,2007-06-12,16.1,W,COL,A,43.45,45 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,58,61,63,63,75,78,80,80,143
-2,2,2,CHIRINO PINERO Valeria Valentina,3323,2008-05-06,15.2,W,VEN,A,44.85,45 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,55,-60,-60,55,67,72,-76,72,127
-1,1,1,BUSTILLO OROZCO Fredy Andres,2634,2007-12-01,15.7,M,COL,A,48.25,49 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,75,78,82,82,95,100,105,105,187
-1,1,1,RODRIGUEZ HERRERA Naudisbel Fiorela,13779,2006-07-20,17,W,VEN,A,48.75,49 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,64,68,-71,68,80,84,-87,84,152
-2,2,2,FRANCOS Kiara Natali,5195,2006-05-15,17.2,W,ARG,A,48.8,49 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,57,60,63,63,75,79,83,83,146
-3,3,3,COTUA KATIUSKA Ilona Ortiz,3642,2006-07-06,17.1,W,COL,A,48.45,49 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,56,-58,-58,56,-74,74,-76,74,130
-4,4,4,MICHI ANGULO Lizquet Ingrish,10599,2009-01-11,14.5,W,PER,A,48.8,49 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,45,50,53,53,55,-60,60,60,113
-1,1,1,GRIJALBA SARRIA Yilver Esteban,5884,2006-09-15,16.9,M,COL,A,54.8,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,90,94,-98,94,113,117,122,122,216
-2,2,3,MEZA Domingo Francisco,10568,2006-12-19,16.6,M,ARG,A,53.45,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,87,90,93,93,113,117,-122,117,210
-3,4,2,ANDRADE RODRIGUEZ Samuel,1139,2007-05-17,16.2,M,COL,A,54.2,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,88,91,-94,91,110,114,118,118,209
-4,3,5,INUMA ROJAS Michael Angel,7025,2006-05-22,17.2,M,PER,A,53.7,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,85,89,92,92,109,112,-115,112,204
-5,6,4,GARCIA Luis,5401,2008-04-11,15.3,M,VEN,A,54.85,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,78,-79,82,82,101,107,116,116,198
-6,5,6,SEPULVEDA ARANEDA Luis Yacier,14703,2008-08-13,15,M,CHI,A,54.85,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,78,81,83,83,95,99,-103,99,182
-1,1,1,UITZIL CHUC Andrea Sak Nik-Te,16514,2006-10-22,16.8,W,MEX,A,53.95,55 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,71,73,76,76,87,90,-94,90,166
-2,2,3,HERNANDEZ Angela,6447,2007-03-27,16.3,W,VEN,A,54.85,55 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,67,72,-74,72,82,86,-90,86,158
-3,3,2,DIAZ RUZ Sharon,4188,2008-04-05,15.3,W,COL,A,53.95,55 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,63,66,-68,66,82,-86,87,87,153
-4,4,4,SILVA RAMIREZ Mayumi Gimena,15038,2007-01-27,16.5,W,PER,A,54.4,55 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,58,-62,62,62,68,71,74,74,136
-1,2,1,JIMENEZ CARRENO Yilihannys Griselina,7360,2006-09-28,16.8,W,VEN,A,58.9,59 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,74,78,-80,78,95,98,102,102,180
-2,1,2,SOLANO FLOREZ Jeissy Jarielly,15272,2006-09-25,16.8,W,COL,A,58.1,59 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,73,77,79,79,92,96,100,100,179
-1,1,1,VARGAS CAMPOS Dionangel David,16745,2007-09-07,15.9,M,VEN,A,60.15,61 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,97,99,101,101,120,123,127,127,228
-2,2,2,RINCON NARANJO Santiago,13628,2006-05-12,17.2,M,COL,A,60.8,61 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,95,98,100,100,117,122,126,126,226
-3,3,3,CORRO Moises,3619,2008-02-10,15.5,M,VEN,A,60.9,61 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,92,96,-99,96,112,118,-122,118,214
-1,1,1,SEGURA GRUESO Ingrid Vanesa,14642,2006-06-29,17.1,W,COL,A,63.85,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,90,95,97,97,114,118,-120,118,215
-2,3,2,RENGIFO CHIRINOS Claudia Alejandra,13483,2007-12-01,15.7,W,VEN,A,63,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,85,-90,-90,85,105,110,-113,110,195
-3,2,3,AYALA Milena Madelein,1579,2006-09-20,16.9,W,ARG,A,62.55,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,79,85,89,89,96,101,105,105,194
-4,4,4,PAREDES VASQUEZ Jheysi Dayana,12426,2006-06-17,17.1,W,PER,A,63.4,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,73,77,-79,77,93,-96,96,96,173
-5,5,5,APARICIO LEON Kelly Joan,1243,2007-04-09,16.3,W,PAN,A,63.95,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,67,70,72,72,88,-91,91,91,163
-1,1,1,MENDEZ Gabriel,10474,2006-02-27,17.4,M,VEN,A,65.7,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,106,110,115,115,132,-137,141,141,256
-2,2,2,CORDOBA CUERO Johan Camilo,3602,2007-01-23,16.5,M,COL,A,66.85,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,105,109,-112,109,130,135,140,140,249
-3,4,3,TORRES VASQUEZ Sebastian Ignacio,16249,2006-12-21,16.6,M,CHI,A,67,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,-103,103,-108,103,130,136,-138,136,239
-4,3,4,REYES PALACIOS Maximiliano,13533,2007-05-15,16.2,M,MEX,A,67,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,101,106,-111,106,125,-128,-130,125,231
-5,5,5,HERNANDEZ Ignacio,6464,2008-07-02,15.1,M,CHI,A,65.5,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,60,65,-70,65,-75,75,80,80,145
-1,1,2,SILVA FERNANDEZ Keily Carolina,15030,2006-08-04,17,W,VEN,A,64.25,71 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,85,87,92,92,107,110,113,113,205
-2,2,1,CERQUERA MONTOYA Ivanna Gabriela,3017,2006-01-27,17.5,W,COL,A,70.55,71 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,81,86,-88,86,108,111,114,114,200
-3,3,3,OCHOA RODRIGUEZ Sahara Yeismar,11885,2007-08-06,16,W,VEN,A,68.35,71 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,76,79,-82,79,95,-98,98,98,177
-4,4,4,MAYORGA IGOR Constanza Muriel A,10303,2007-02-15,16.4,W,CHI,A,67.3,71 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,73,-76,76,76,-97,-97,97,97,173
-1,1,3,MARIN MERCADO Juan Alexander,10057,2007-06-06,16.1,M,COL,A,73,73 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,110,115,120,120,135,140,-143,140,260
-2,2,2,BOUTTO NUNEZ Jesus David,2424,2008-02-25,15.4,M,VEN,A,71.5,73 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,105,108,116,116,130,135,141,141,257
-3,4,1,BOGADO Kyle,2297,2006-03-20,17.4,M,PAR,A,72.05,73 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,-103,103,106,106,-136,137,142,142,248
-4,3,4,CASTELLANOS PECH Angel Luis,2934,2007-08-27,15.9,M,MEX,A,73,73 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,-103,103,107,107,122,131,137,137,244
-1,1,1,SEGURA SOLIS Maricela,14647,2007-01-22,16.5,W,COL,A,75.77,76 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,74,79,-82,79,100,105,110,110,189
-1,1,1,LOAIZA MEDINA Mauricio Osvaldo,9419,2006-12-15,16.6,M,VEN,A,80.65,81 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,121,128,132,132,150,156,-162,156,288
-2,3,2,OLIVERA DELFINO Ramiro Valentin,11991,2006-08-05,17,M,ARG,A,78.25,81 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,109,114,-120,114,145,155,-162,155,269
-3,2,3,MURILLO LOPEZ Jhon Esteban,11237,2008-02-21,15.4,M,COL,A,80.25,81 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,110,115,-120,115,130,135,140,140,255
-4,4,4,DUARTE IRALA Alejandro Jose,4405,2006-06-24,17.1,M,PAR,A,78.4,81 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,104,108,111,111,-124,124,-131,124,235
-1,2,1,MONTES MOKAY Melany,10951,2006-02-09,17.5,W,MEX,A,80.5,81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,82,-85,-85,82,100,105,-108,105,187
-2,1,2,VALERO RODRIGUEZ Everyk Alejandra,16687,2007-04-01,16.3,W,VEN,A,79.1,81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,78,-83,83,83,90,101,-105,101,184
-1,1,1,BOUTTO NUNEZ Jesus Enrique,2425,2006-04-06,17.3,M,VEN,A,86.8,89 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,120,125,128,128,152,-159,-160,152,280
-2,2,2,ALPUCHE YAH Luis Demetrio,920,2007-04-30,16.2,M,MEX,A,86.75,89 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,118,-123,-124,118,151,-160,-163,151,269
-3,3,3,MORENO BAHAMONDES Matias Renato,11006,2009-04-19,14.3,M,CHI,A,89,89 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,100,105,110,110,130,135,-140,135,245
-1,1,2,LUNA Cesar,9637,2007-03-31,16.3,M,CHI,A,93.4,96 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,117,121,127,127,145,148,-155,148,275
-2,3,1,ROMERO ARVIZU Kevin,13868,2006-07-13,17,M,MEX,A,89.5,96 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,110,115,120,120,140,147,154,154,274
-3,2,3,PENARANDA AGUDELO Sergio,12588,2006-05-28,17.2,M,COL,A,89.95,96 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,112,116,121,121,130,140,145,145,266
-4,4,4,BERMUDEZ CORTES Cristian David,2128,2007-05-07,16.2,M,COL,A,95.05,96 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,95,100,-105,100,115,-123,123,123,223
+1,1,1,ESPINOSA Luis Alberto,4815,2006-11-30,16.7,M,VEN,A,109.2,+102 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,120,126,-131,126,-150,150,-160,150,276
+1,2,1,ROJAS ROJAS Valentina Belen,13932,2008-04-14,15.3,W,CHI,A,87.8,+81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,75,-80,80,80,95,100,103,103,183
+2,1,2,MENDOZA SALAZAR Barbara Nazaret,10566,2008-06-30,15.1,W,VEN,A,86.6,+81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,80,-85,85,85,96,-101,-101,96,181
+3,3,3,CIFUENTES TERCERO Jimena,3510,2008-06-02,15.2,W,MEX,A,100.8,+81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,65,69,74,74,80,-91,-93,80,154
+1,1,1,MESA Joaquin Eluney,10608,2006-07-21,17,M,ARG,A,98.65,102 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,138,145,151,151,165,171,176,176,327
+2,2,2,GONZALEZ Ernesto,5765,2006-08-22,16.9,M,VEN,A,101.6,102 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,-105,105,-110,105,150,-160,-160,150,255
+1,1,1,BRITO RANGEL Roimary Gabriela,2520,2006-05-04,17.2,W,VEN,A,39.65,40 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,51,53,-54,53,62,65,68,68,121
+2,2,2,REYES LINARES Hana Valeria,13611,2006-01-27,17.5,W,MEX,A,39.4,40 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,50,52,-54,52,-60,60,-63,60,112
+1,1,1,ESTRADA VELEZ Lawren Sofia,4839,2007-06-12,16.1,W,COL,A,43.45,45 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,58,61,63,63,75,78,80,80,143
+2,2,2,CHIRINO PINERO Valeria Valentina,3348,2008-05-06,15.2,W,VEN,A,44.85,45 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,55,-60,-60,55,67,72,-76,72,127
+1,1,1,BUSTILLO OROZCO Fredy Andres,2658,2007-12-01,15.7,M,COL,A,48.25,49 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,75,78,82,82,95,100,105,105,187
+1,1,1,RODRIGUEZ HERRERA Naudisbel Fiorela,13866,2006-07-20,17,W,VEN,A,48.75,49 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,64,68,-71,68,80,84,-87,84,152
+2,2,2,FRANCOS Kiara Natali,5235,2006-05-15,17.2,W,ARG,A,48.8,49 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,57,60,63,63,75,79,83,83,146
+3,3,3,COTUA KATIUSKA Ilona Ortiz,3671,2006-07-06,17.1,W,COL,A,48.45,49 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,56,-58,-58,56,-74,74,-76,74,130
+4,4,4,MICHI ANGULO Lizquet Ingrish,10667,2009-01-11,14.5,W,PER,A,48.8,49 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,45,50,53,53,55,-60,60,60,113
+1,1,1,GRIJALBA SARRIA Yilver Esteban,5926,2006-09-15,16.9,M,COL,A,54.8,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,90,94,-98,94,113,117,122,122,216
+2,2,3,MEZA Domingo Francisco,10636,2006-12-19,16.6,M,ARG,A,53.45,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,87,90,93,93,113,117,-122,117,210
+3,4,2,ANDRADE RODRIGUEZ Samuel,1152,2007-05-17,16.2,M,COL,A,54.2,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,88,91,-94,91,110,114,118,118,209
+4,3,5,INUMA ROJAS Michael Angel,7073,2006-05-22,17.2,M,PER,A,53.7,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,85,89,92,92,109,112,-115,112,204
+5,6,4,GARCIA Luis,5441,2008-04-11,15.3,M,VEN,A,54.85,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,78,-79,82,82,101,107,116,116,198
+6,5,6,SEPULVEDA ARANEDA Luis Yacier,14794,2008-08-13,15,M,CHI,A,54.85,55 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,78,81,83,83,95,99,-103,99,182
+1,1,1,UITZIL CHUC Andrea Sak Nik-Te,16617,2006-10-22,16.8,W,MEX,A,53.95,55 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,71,73,76,76,87,90,-94,90,166
+2,2,3,HERNANDEZ Angela,6492,2007-03-27,16.3,W,VEN,A,54.85,55 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,67,72,-74,72,82,86,-90,86,158
+3,3,2,DIAZ RUZ Sharon,4220,2008-04-05,15.3,W,COL,A,53.95,55 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,63,66,-68,66,82,-86,87,87,153
+4,4,4,SILVA RAMIREZ Mayumi Gimena,15129,2007-01-27,16.5,W,PER,A,54.4,55 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,58,-62,62,62,68,71,74,74,136
+1,2,1,JIMENEZ CARRENO Yilihannys Griselina,7410,2006-09-28,16.8,W,VEN,A,58.9,59 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,74,78,-80,78,95,98,102,102,180
+2,1,2,SOLANO FLOREZ Jeissy Jarielly,15363,2006-09-25,16.8,W,COL,A,58.1,59 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,73,77,79,79,92,96,100,100,179
+1,1,1,VARGAS CAMPOS Dionangel David,16848,2007-09-07,15.9,M,VEN,A,60.15,61 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,97,99,101,101,120,123,127,127,228
+2,2,2,RINCON NARANJO Santiago,13715,2006-05-12,17.2,M,COL,A,60.8,61 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,95,98,100,100,117,122,126,126,226
+3,3,3,CORRO Moises,3648,2008-02-10,15.5,M,VEN,A,60.9,61 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,92,96,-99,96,112,118,-122,118,214
+1,1,1,SEGURA GRUESO Ingrid Vanesa,14733,2006-06-29,17.1,W,COL,A,63.85,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,90,95,97,97,114,118,-120,118,215
+2,3,2,RENGIFO CHIRINOS Claudia Alejandra,13570,2007-12-01,15.7,W,VEN,A,63,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,85,-90,-90,85,105,110,-113,110,195
+3,2,3,AYALA Milena Madelein,1595,2006-09-20,16.9,W,ARG,A,62.55,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,79,85,89,89,96,101,105,105,194
+4,4,4,PAREDES VASQUEZ Jheysi Dayana,12503,2006-06-17,17.1,W,PER,A,63.4,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,73,77,-79,77,93,-96,96,96,173
+5,5,5,APARICIO LEON Kelly Joan,1256,2007-04-09,16.3,W,PAN,A,63.95,64 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,67,70,72,72,88,-91,91,91,163
+1,1,1,MENDEZ Gabriel,10541,2006-02-27,17.4,M,VEN,A,65.7,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,106,110,115,115,132,-137,141,141,256
+2,2,2,CORDOBA CUERO Johan Camilo,3630,2007-01-23,16.5,M,COL,A,66.85,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,105,109,-112,109,130,135,140,140,249
+3,4,3,TORRES VASQUEZ Sebastian Ignacio,16349,2006-12-21,16.6,M,CHI,A,67,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,-103,103,-108,103,130,136,-138,136,239
+4,3,4,REYES PALACIOS Maximiliano,13620,2007-05-15,16.2,M,MEX,A,67,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,101,106,-111,106,125,-128,-130,125,231
+5,5,5,HERNANDEZ Ignacio,6509,2008-07-02,15.1,M,CHI,A,65.5,67 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,60,65,-70,65,-75,75,80,80,145
+1,1,2,SILVA FERNANDEZ Keily Carolina,15121,2006-08-04,17,W,VEN,A,64.25,71 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,85,87,92,92,107,110,113,113,205
+2,2,1,CERQUERA MONTOYA Ivanna Gabriela,3041,2006-01-27,17.5,W,COL,A,70.55,71 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,81,86,-88,86,108,111,114,114,200
+3,3,3,OCHOA RODRIGUEZ Sahara Yeismar,11959,2007-08-06,16,W,VEN,A,68.35,71 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,76,79,-82,79,95,-98,98,98,177
+4,4,4,MAYORGA IGOR Constanza Muriel A,10368,2007-02-15,16.4,W,CHI,A,67.3,71 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,73,-76,76,76,-97,-97,97,97,173
+1,1,3,MARIN MERCADO Juan Alexander,10122,2007-06-06,16.1,M,COL,A,73,73 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,110,115,120,120,135,140,-143,140,260
+2,2,2,BOUTTO NUNEZ Jesus David,2447,2008-02-25,15.4,M,VEN,A,71.5,73 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,105,108,116,116,130,135,141,141,257
+3,4,1,BOGADO Kyle,2318,2006-03-20,17.4,M,PAR,A,72.05,73 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,-103,103,106,106,-136,137,142,142,248
+4,3,4,CASTELLANOS PECH Angel Luis,2958,2007-08-27,15.9,M,MEX,A,73,73 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,-103,103,107,107,122,131,137,137,244
+1,1,1,SEGURA SOLIS Maricela,14738,2007-01-22,16.5,W,COL,A,75.77,76 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,74,79,-82,79,100,105,110,110,189
+1,1,1,LOAIZA MEDINA Mauricio Osvaldo,9477,2006-12-15,16.6,M,VEN,A,80.65,81 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,121,128,132,132,150,156,-162,156,288
+2,3,2,OLIVERA DELFINO Ramiro Valentin,12066,2006-08-05,17,M,ARG,A,78.25,81 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,109,114,-120,114,145,155,-162,155,269
+3,2,3,MURILLO LOPEZ Jhon Esteban,11308,2008-02-21,15.4,M,COL,A,80.25,81 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,110,115,-120,115,130,135,140,140,255
+4,4,4,DUARTE IRALA Alejandro Jose,4437,2006-06-24,17.1,M,PAR,A,78.4,81 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,104,108,111,111,-124,124,-131,124,235
+1,2,1,MONTES MOKAY Melany,11020,2006-02-09,17.5,W,MEX,A,80.5,81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,82,-85,-85,82,100,105,-108,105,187
+2,1,2,VALERO RODRIGUEZ Everyk Alejandra,16790,2007-04-01,16.3,W,VEN,A,79.1,81 kg Women,0,0,580,Pan-American Youth Championships,2023-07-28,78,-83,83,83,90,101,-105,101,184
+1,1,1,BOUTTO NUNEZ Jesus Enrique,2448,2006-04-06,17.3,M,VEN,A,86.8,89 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,120,125,128,128,152,-159,-160,152,280
+2,2,2,ALPUCHE YAH Luis Demetrio,933,2007-04-30,16.2,M,MEX,A,86.75,89 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,118,-123,-124,118,151,-160,-163,151,269
+3,3,3,MORENO BAHAMONDES Matias Renato,11076,2009-04-19,14.3,M,CHI,A,89,89 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,100,105,110,110,130,135,-140,135,245
+1,1,2,LUNA Cesar,9699,2007-03-31,16.3,M,CHI,A,93.4,96 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,117,121,127,127,145,148,-155,148,275
+2,3,1,ROMERO ARVIZU Kevin,13955,2006-07-13,17,M,MEX,A,89.5,96 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,110,115,120,120,140,147,154,154,274
+3,2,3,PENARANDA AGUDELO Sergio,12665,2006-05-28,17.2,M,COL,A,89.95,96 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,112,116,121,121,130,140,145,145,266
+4,4,4,BERMUDEZ CORTES Cristian David,2149,2007-05-07,16.2,M,COL,A,95.05,96 kg Men,0,0,580,Pan-American Youth Championships,2023-07-28,95,100,-105,100,115,-123,123,123,223
