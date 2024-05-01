@@ -431,7 +431,6 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 530,2022 IWF Youth World Championships,2022-06-11,Leon,MEX,youth,0,0,Mexico
 531,PAN-AMERICAN JUNIOR CHAMPIONSHIPS,2021-10-17,Guadalajara,MEX,junior,0,0,Mexico
 532,2022 European Championships,2022-05-28,Tirana,ALB,senior,0,0,Albania
-534,Singapore Weightlifting International,2022-02-25,Singapore,SGP,senior,0,0,Singapore
 535,New Zealand International,2022-02-26,Auckland,NZL,senior,0,0,New Zealand
 536,Mauritius International Open,2022-02-26,Vacoas,MRI,senior,0,0,NA
 537,Canadian Invitational,2022-02-26,Scarbourough,CAN,senior,0,0,Canada
