@@ -1,0 +1,832 @@
+rank,name,nation,born,bw,group,lift1,lift2,lift3,lift4,cat,sec,event_id,old_classes
+1,BUSTILLO OROZCO Freddy Andres,COL,"Dec 01, 2007",48.31,A,82,85,87,87,49kgMen,Snatch,600,False
+2,AL OJAIAN Mohammed Nawaf,KSA,"Jun 20, 2009",48.96,A,82,- 86,87,87,49kgMen,Snatch,600,False
+3,DI MARIA Christian,ITA,"Mar 06, 2010",48.11,A,- 83,83,86,86,49kgMen,Snatch,600,False
+4,MORENO SANTIAGO Juan Jose,ESP,"Nov 08, 2007",49.00,A,82,- 85,86,86,49kgMen,Snatch,600,False
+5,HEMBROM Babulal,IND,"Jul 10, 2007",49.00,A,83,- 86,86,86,49kgMen,Snatch,600,False
+6,BETANCOURT PUSDA Elkin David,ECU,"Feb 08, 2008",48.81,A,78,82,- 86,82,49kgMen,Snatch,600,False
+7,IVANOV Rumen,BUL,"Aug 18, 2008",49.00,A,76,- 80,- 81,76,49kgMen,Snatch,600,False
+8,WEI Lian-Cheng,TPE,"Aug 11, 2009",48.62,B,60,66,- 69,66,49kgMen,Snatch,600,False
+9,LINO LINO Jefferson,PER,"Jan 05, 2009",48.40,B,52,55,58,58,49kgMen,Snatch,600,False
+10,ARIAS DEL VALLE Luca Emiliano,CRC,"Feb 27, 2009",48.90,B,52,- 56,- 56,52,49kgMen,Snatch,600,False
+---,KIRILOV Isus Rosenov,BUL,"Oct 22, 2008",49.00,A,- 84,- 85,- 85,---,49kgMen,Snatch,600,False
+1,BUSTILLO OROZCO Freddy Andres,COL,"Dec 01, 2007",48.31,A,103,107,109,109,49kgMen,CleanJerk,600,False
+2,AL OJAIAN Mohammed Nawaf,KSA,"Jun 20, 2009",48.96,A,101,105,108,108,49kgMen,CleanJerk,600,False
+3,HEMBROM Babulal,IND,"Jul 10, 2007",49.00,A,103,105,107,107,49kgMen,CleanJerk,600,False
+4,DI MARIA Christian,ITA,"Mar 06, 2010",48.11,A,100,104,-107,104,49kgMen,CleanJerk,600,False
+5,BETANCOURT PUSDA Elkin David,ECU,"Feb 08, 2008",48.81,A,-103,104,-108,104,49kgMen,CleanJerk,600,False
+6,MORENO SANTIAGO Juan Jose,ESP,"Nov 08, 2007",49.00,A,98,102,-106,102,49kgMen,CleanJerk,600,False
+7,KIRILOV Isus Rosenov,BUL,"Oct 22, 2008",49.00,A,96,-101,---,96,49kgMen,CleanJerk,600,False
+8,IVANOV Rumen,BUL,"Aug 18, 2008",49.00,A,95,-100,---,95,49kgMen,CleanJerk,600,False
+9,WEI Lian-Cheng,TPE,"Aug 11, 2009",48.62,B,70,- 81,81,81,49kgMen,CleanJerk,600,False
+10,LINO LINO Jefferson,PER,"Jan 05, 2009",48.40,B,72,76,- 78,76,49kgMen,CleanJerk,600,False
+11,ARIAS DEL VALLE Luca Emiliano,CRC,"Feb 27, 2009",48.90,B,65,- 70,70,70,49kgMen,CleanJerk,600,False
+1,BUSTILLO OROZCO Freddy Andres,COL,"Dec 01, 2007",48.31,A,87,109,196,---,49kgMen,Total,600,False
+2,AL OJAIAN Mohammed Nawaf,KSA,"Jun 20, 2009",48.96,A,87,108,195,---,49kgMen,Total,600,False
+3,HEMBROM Babulal,IND,"Jul 10, 2007",49.00,A,86,107,193,---,49kgMen,Total,600,False
+4,DI MARIA Christian,ITA,"Mar 06, 2010",48.11,A,86,104,190,---,49kgMen,Total,600,False
+5,MORENO SANTIAGO Juan Jose,ESP,"Nov 08, 2007",49.00,A,86,102,188,---,49kgMen,Total,600,False
+6,BETANCOURT PUSDA Elkin David,ECU,"Feb 08, 2008",48.81,A,82,104,186,---,49kgMen,Total,600,False
+7,IVANOV Rumen,BUL,"Aug 18, 2008",49.00,A,76,95,171,---,49kgMen,Total,600,False
+8,WEI Lian-Cheng,TPE,"Aug 11, 2009",48.62,B,66,81,147,---,49kgMen,Total,600,False
+9,LINO LINO Jefferson,PER,"Jan 05, 2009",48.40,B,58,76,134,---,49kgMen,Total,600,False
+10,ARIAS DEL VALLE Luca Emiliano,CRC,"Feb 27, 2009",48.90,B,52,70,122,---,49kgMen,Total,600,False
+---,KIRILOV Isus Rosenov,BUL,"Oct 22, 2008",49.00,A,---,96,---,---,49kgMen,Total,600,False
+1,SIMEONOV Nino Violetov,BUL,"Apr 10, 2007",55.00,A,97,-100,101,101,55kgMen,Snatch,600,False
+2,YILMAZ Ramazan Efe,TUR,"Sep 11, 2008",54.75,A,93,97,99,99,55kgMen,Snatch,600,False
+3,ANDRADE RODRIGUEZ Samuel,COL,"May 17, 2007",54.91,A,94,98,-101,98,55kgMen,Snatch,600,False
+4,MAHARAJAN A,IND,"Apr 22, 2008",54.69,A,92,95,98,98,55kgMen,Snatch,600,False
+5,SECRIERU Danu,MDA,"Feb 24, 2008",54.71,A,93,97,-100,97,55kgMen,Snatch,600,False
+6,PAPOLTI Narcis,ROU,"Feb 09, 2007",54.67,A,96,- 99,-100,96,55kgMen,Snatch,600,False
+7,RIVERO HIDALGO Lissandro Andres,VEN,"Nov 20, 2007",54.86,A,- 95,95,- 99,95,55kgMen,Snatch,600,False
+8,ALWABARI Mohammed Abdullah A,KSA,"Jul 17, 2007",55.00,A,- 88,88,93,93,55kgMen,Snatch,600,False
+9,ZISS Michael,USA,"Aug 31, 2007",54.60,A,- 87,90,- 94,90,55kgMen,Snatch,600,False
+10,DE LA ROSA ROSALES Jared Isidro,MEX,"Jul 05, 2009",53.95,A,83,86,- 89,86,55kgMen,Snatch,600,False
+11,ONOFRE ROCAFUERTE Alan Esnayde,ECU,"Dec 17, 2007",52.80,B,- 82,82,85,85,55kgMen,Snatch,600,False
+12,ROSE Sebastian,USA,"Aug 13, 2007",54.80,B,77,80,83,83,55kgMen,Snatch,600,False
+13,RETO FASABI Kevin Jarry,PER,"Nov 09, 2007",53.75,B,77,81,83,83,55kgMen,Snatch,600,False
+14,ADAM Johannes,NRU,"Sep 09, 2007",54.96,B,80,- 83,83,83,55kgMen,Snatch,600,False
+15,PANDURO RUIZ Fernando Andrei,PER,"Dec 03, 2008",53.98,B,63,- 66,66,66,55kgMen,Snatch,600,False
+1,YILMAZ Ramazan Efe,TUR,"Sep 11, 2008",54.75,A,123,126,129,129,55kgMen,CleanJerk,600,False
+2,ANDRADE RODRIGUEZ Samuel,COL,"May 17, 2007",54.91,A,120,124,-127,124,55kgMen,CleanJerk,600,False
+3,RIVERO HIDALGO Lissandro Andres,VEN,"Nov 20, 2007",54.86,A,118,121,-125,121,55kgMen,CleanJerk,600,False
+4,MAHARAJAN A,IND,"Apr 22, 2008",54.69,A,114,117,-121,117,55kgMen,CleanJerk,600,False
+5,SECRIERU Danu,MDA,"Feb 24, 2008",54.71,A,-116,116,-122,116,55kgMen,CleanJerk,600,False
+6,PAPOLTI Narcis,ROU,"Feb 09, 2007",54.67,A,115,-121,-121,115,55kgMen,CleanJerk,600,False
+7,ALWABARI Mohammed Abdullah A,KSA,"Jul 17, 2007",55.00,A,108,113,-116,113,55kgMen,CleanJerk,600,False
+8,ZISS Michael,USA,"Aug 31, 2007",54.60,A,110,-114,-117,110,55kgMen,CleanJerk,600,False
+9,DE LA ROSA ROSALES Jared Isidro,MEX,"Jul 05, 2009",53.95,A,103,106,109,109,55kgMen,CleanJerk,600,False
+10,ONOFRE ROCAFUERTE Alan Esnayde,ECU,"Dec 17, 2007",52.80,B,105,108,-111,108,55kgMen,CleanJerk,600,False
+11,RETO FASABI Kevin Jarry,PER,"Nov 09, 2007",53.75,B,97,101,104,104,55kgMen,CleanJerk,600,False
+12,ROSE Sebastian,USA,"Aug 13, 2007",54.80,B,100,103,-106,103,55kgMen,CleanJerk,600,False
+13,ADAM Johannes,NRU,"Sep 09, 2007",54.96,B,100,-104,-105,100,55kgMen,CleanJerk,600,False
+14,PANDURO RUIZ Fernando Andrei,PER,"Dec 03, 2008",53.98,B,80,84,87,87,55kgMen,CleanJerk,600,False
+---,SIMEONOV Nino Violetov,BUL,"Apr 10, 2007",55.00,A,---,---,---,---,55kgMen,CleanJerk,600,False
+1,YILMAZ Ramazan Efe,TUR,"Sep 11, 2008",54.75,A,99,129,228,---,55kgMen,Total,600,False
+2,ANDRADE RODRIGUEZ Samuel,COL,"May 17, 2007",54.91,A,98,124,222,---,55kgMen,Total,600,False
+3,RIVERO HIDALGO Lissandro Andres,VEN,"Nov 20, 2007",54.86,A,95,121,216,---,55kgMen,Total,600,False
+4,MAHARAJAN A,IND,"Apr 22, 2008",54.69,A,98,117,215,---,55kgMen,Total,600,False
+5,SECRIERU Danu,MDA,"Feb 24, 2008",54.71,A,97,116,213,---,55kgMen,Total,600,False
+6,PAPOLTI Narcis,ROU,"Feb 09, 2007",54.67,A,96,115,211,---,55kgMen,Total,600,False
+7,ALWABARI Mohammed Abdullah A,KSA,"Jul 17, 2007",55.00,A,93,113,206,---,55kgMen,Total,600,False
+8,ZISS Michael,USA,"Aug 31, 2007",54.60,A,90,110,200,---,55kgMen,Total,600,False
+9,DE LA ROSA ROSALES Jared Isidro,MEX,"Jul 05, 2009",53.95,A,86,109,195,---,55kgMen,Total,600,False
+10,ONOFRE ROCAFUERTE Alan Esnayde,ECU,"Dec 17, 2007",52.80,B,85,108,193,---,55kgMen,Total,600,False
+11,RETO FASABI Kevin Jarry,PER,"Nov 09, 2007",53.75,B,83,104,187,---,55kgMen,Total,600,False
+12,ROSE Sebastian,USA,"Aug 13, 2007",54.80,B,83,103,186,---,55kgMen,Total,600,False
+13,ADAM Johannes,NRU,"Sep 09, 2007",54.96,B,83,100,183,---,55kgMen,Total,600,False
+14,PANDURO RUIZ Fernando Andrei,PER,"Dec 03, 2008",53.98,B,66,87,153,---,55kgMen,Total,600,False
+---,SIMEONOV Nino Violetov,BUL,"Apr 10, 2007",55.00,A,101,---,---,---,55kgMen,Total,600,False
+1,VARGAS CAMPOS Dionangel David,VEN,"Sep 07, 2007",61.00,A,105,108,110,110,61kgMen,Snatch,600,False
+2,HOVHANNISYAN Hovhannes,ARM,"May 02, 2007",61.00,A,104,108,-110,108,61kgMen,Snatch,600,False
+3,CHOMKHUNTHOD Wutthiphong,THA,"Feb 10, 2007",60.42,A,100,105,107,107,61kgMen,Snatch,600,False
+4,ALMOHAIMEED Abdullah Abrahim A,KSA,"Jun 28, 2008",60.49,A,104,-108,-109,104,61kgMen,Snatch,600,False
+5,BETCA Dan Dorin,MDA,"Feb 17, 2008",60.84,A,103,-107,-109,103,61kgMen,Snatch,600,False
+6,MARES VEGA Francisco Manuel,MEX,"Dec 13, 2007",58.14,A,95,-100,-100,95,61kgMen,Snatch,600,False
+7,FERNANDEZ MORI Jose Manuel,PER,"Mar 08, 2007",60.29,A,80,84,- 87,84,61kgMen,Snatch,600,False
+8,WEBB Derrick Santiago,ARU,"Mar 10, 2007",60.90,A,80,- 85,- 85,80,61kgMen,Snatch,600,False
+9,GONZALEZ MARIN Alvaro Isrrael,NCA,"Nov 24, 2008",57.52,A,- 70,70,75,75,61kgMen,Snatch,600,False
+10,PASAPERA MORA Henry Joseph,PER,"Aug 08, 2008",59.69,A,- 67,- 67,67,67,61kgMen,Snatch,600,False
+1,HOVHANNISYAN Hovhannes,ARM,"May 02, 2007",61.00,A,128,134,-137,134,61kgMen,CleanJerk,600,False
+2,VARGAS CAMPOS Dionangel David,VEN,"Sep 07, 2007",61.00,A,130,134,-137,134,61kgMen,CleanJerk,600,False
+3,CHOMKHUNTHOD Wutthiphong,THA,"Feb 10, 2007",60.42,A,125,130,132,132,61kgMen,CleanJerk,600,False
+4,MARES VEGA Francisco Manuel,MEX,"Dec 13, 2007",58.14,A,122,-127,-128,122,61kgMen,CleanJerk,600,False
+5,BETCA Dan Dorin,MDA,"Feb 17, 2008",60.84,A,122,-130,-131,122,61kgMen,CleanJerk,600,False
+6,ALMOHAIMEED Abdullah Abrahim A,KSA,"Jun 28, 2008",60.49,A,120,-129,-129,120,61kgMen,CleanJerk,600,False
+7,WEBB Derrick Santiago,ARU,"Mar 10, 2007",60.90,A,100,105,108,108,61kgMen,CleanJerk,600,False
+8,GONZALEZ MARIN Alvaro Isrrael,NCA,"Nov 24, 2008",57.52,A,97,103,107,107,61kgMen,CleanJerk,600,False
+9,PASAPERA MORA Henry Joseph,PER,"Aug 08, 2008",59.69,A,82,- 86,86,86,61kgMen,CleanJerk,600,False
+---,FERNANDEZ MORI Jose Manuel,PER,"Mar 08, 2007",60.29,A,---,---,---,---,61kgMen,CleanJerk,600,False
+1,VARGAS CAMPOS Dionangel David,VEN,"Sep 07, 2007",61.00,A,110,134,244,---,61kgMen,Total,600,False
+2,HOVHANNISYAN Hovhannes,ARM,"May 02, 2007",61.00,A,108,134,242,---,61kgMen,Total,600,False
+3,CHOMKHUNTHOD Wutthiphong,THA,"Feb 10, 2007",60.42,A,107,132,239,---,61kgMen,Total,600,False
+4,BETCA Dan Dorin,MDA,"Feb 17, 2008",60.84,A,103,122,225,---,61kgMen,Total,600,False
+5,ALMOHAIMEED Abdullah Abrahim A,KSA,"Jun 28, 2008",60.49,A,104,120,224,---,61kgMen,Total,600,False
+6,MARES VEGA Francisco Manuel,MEX,"Dec 13, 2007",58.14,A,95,122,217,---,61kgMen,Total,600,False
+7,WEBB Derrick Santiago,ARU,"Mar 10, 2007",60.90,A,80,108,188,---,61kgMen,Total,600,False
+8,GONZALEZ MARIN Alvaro Isrrael,NCA,"Nov 24, 2008",57.52,A,75,107,182,---,61kgMen,Total,600,False
+9,PASAPERA MORA Henry Joseph,PER,"Aug 08, 2008",59.69,A,67,86,153,---,61kgMen,Total,600,False
+---,FERNANDEZ MORI Jose Manuel,PER,"Mar 08, 2007",60.29,A,84,---,---,---,61kgMen,Total,600,False
+1,KURMANBEK Akzhol,KAZ,"Dec 07, 2007",67.00,A,123,126,129,129,67kgMen,Snatch,600,False
+2,HAMOUDA ABDELRAHMAN Hussein Metwally,EGY,"Dec 15, 2008",66.72,A,121,125,128,128,67kgMen,Snatch,600,False
+3,BALDJI Alexandr,MDA,"Mar 26, 2007",67.00,A,120,124,127,127,67kgMen,Snatch,600,False
+4,GRIGORYAN Narek,ARM,"Sep 12, 2007",66.65,A,115,120,-122,120,67kgMen,Snatch,600,False
+5,MILDIANI Revaz,GEO,"Aug 29, 2007",66.67,A,-113,114,119,119,67kgMen,Snatch,600,False
+6,JUMABAYEV Didarbek,TKM,"May 26, 2008",67.00,A,117,-120,-121,117,67kgMen,Snatch,600,False
+7,KOVALCHUK Ostap,UKR,"Aug 03, 2007",67.00,A,114,116,-118,116,67kgMen,Snatch,600,False
+8,VALLEJO SIRES Aaron,ESP,"Dec 02, 2007",65.30,A,115,-120,-122,115,67kgMen,Snatch,600,False
+9,NEPARIDZE Leri,GEO,"Aug 07, 2007",66.71,A,109,113,-116,113,67kgMen,Snatch,600,False
+10,ALZAWRI Mohammed Ali A,KSA,"Sep 29, 2007",67.00,A,-113,113,-118,113,67kgMen,Snatch,600,False
+11,ALHAWAR Ali Hussin M,KSA,"Jan 20, 2008",65.72,B,101,106,108,108,67kgMen,Snatch,600,False
+12,BRAVO ALVARADO Oswaldo,MEX,"Feb 19, 2007",65.14,B,-103,103,107,107,67kgMen,Snatch,600,False
+13,ZHUANG Yong-Sheng,TPE,"Feb 26, 2007",65.96,B,97,103,106,106,67kgMen,Snatch,600,False
+14,IAFRATE Adam,FRA,"Dec 07, 2007",67.00,B,103,-106,106,106,67kgMen,Snatch,600,False
+15,MARTIN Gabriel,FRA,"Jan 01, 2007",64.28,B,95,100,-104,100,67kgMen,Snatch,600,False
+16,AYUSO GONZALEZ Jasier Jael,PUR,"Feb 07, 2008",62.22,B,- 85,85,90,90,67kgMen,Snatch,600,False
+17,SILVA MENDOZA Juan David,PER,"Mar 19, 2007",65.32,B,73,76,- 79,76,67kgMen,Snatch,600,False
+18,TAPIA LEON Alex Edgar,BOL,"Oct 10, 2007",65.09,B,50,- 55,- 55,50,67kgMen,Snatch,600,False
+1,HAMOUDA ABDELRAHMAN Hussein Metwally,EGY,"Dec 15, 2008",66.72,A,152,158,-167,158,67kgMen,CleanJerk,600,False
+2,KURMANBEK Akzhol,KAZ,"Dec 07, 2007",67.00,A,151,156,-159,156,67kgMen,CleanJerk,600,False
+3,JUMABAYEV Didarbek,TKM,"May 26, 2008",67.00,A,150,155,-157,155,67kgMen,CleanJerk,600,False
+4,BALDJI Alexandr,MDA,"Mar 26, 2007",67.00,A,150,-155,155,155,67kgMen,CleanJerk,600,False
+5,NEPARIDZE Leri,GEO,"Aug 07, 2007",66.71,A,143,146,149,149,67kgMen,CleanJerk,600,False
+6,GRIGORYAN Narek,ARM,"Sep 12, 2007",66.65,A,145,-149,-150,145,67kgMen,CleanJerk,600,False
+7,MILDIANI Revaz,GEO,"Aug 29, 2007",66.67,A,144,-149,-149,144,67kgMen,CleanJerk,600,False
+8,ALZAWRI Mohammed Ali A,KSA,"Sep 29, 2007",67.00,A,138,142,-146,142,67kgMen,CleanJerk,600,False
+9,KOVALCHUK Ostap,UKR,"Aug 03, 2007",67.00,A,138,-143,-144,138,67kgMen,CleanJerk,600,False
+10,BRAVO ALVARADO Oswaldo,MEX,"Feb 19, 2007",65.14,B,127,132,-135,132,67kgMen,CleanJerk,600,False
+11,IAFRATE Adam,FRA,"Dec 07, 2007",67.00,B,121,125,130,130,67kgMen,CleanJerk,600,False
+12,ZHUANG Yong-Sheng,TPE,"Feb 26, 2007",65.96,B,126,-134,-134,126,67kgMen,CleanJerk,600,False
+13,ALHAWAR Ali Hussin M,KSA,"Jan 20, 2008",65.72,B,123,-128,-133,123,67kgMen,CleanJerk,600,False
+14,MARTIN Gabriel,FRA,"Jan 01, 2007",64.28,B,120,-125,---,120,67kgMen,CleanJerk,600,False
+15,AYUSO GONZALEZ Jasier Jael,PUR,"Feb 07, 2008",62.22,B,108,-113,113,113,67kgMen,CleanJerk,600,False
+16,SILVA MENDOZA Juan David,PER,"Mar 19, 2007",65.32,B,90,94,- 97,94,67kgMen,CleanJerk,600,False
+17,TAPIA LEON Alex Edgar,BOL,"Oct 10, 2007",65.09,B,68,75,80,80,67kgMen,CleanJerk,600,False
+---,VALLEJO SIRES Aaron,ESP,"Dec 02, 2007",65.30,A,-135,-135,-135,---,67kgMen,CleanJerk,600,False
+1,HAMOUDA ABDELRAHMAN Hussein Metwally,EGY,"Dec 15, 2008",66.72,A,128,158,286,---,67kgMen,Total,600,False
+2,KURMANBEK Akzhol,KAZ,"Dec 07, 2007",67.00,A,129,156,285,---,67kgMen,Total,600,False
+3,BALDJI Alexandr,MDA,"Mar 26, 2007",67.00,A,127,155,282,---,67kgMen,Total,600,False
+4,JUMABAYEV Didarbek,TKM,"May 26, 2008",67.00,A,117,155,272,---,67kgMen,Total,600,False
+5,GRIGORYAN Narek,ARM,"Sep 12, 2007",66.65,A,120,145,265,---,67kgMen,Total,600,False
+6,MILDIANI Revaz,GEO,"Aug 29, 2007",66.67,A,119,144,263,---,67kgMen,Total,600,False
+7,NEPARIDZE Leri,GEO,"Aug 07, 2007",66.71,A,113,149,262,---,67kgMen,Total,600,False
+8,ALZAWRI Mohammed Ali A,KSA,"Sep 29, 2007",67.00,A,113,142,255,---,67kgMen,Total,600,False
+9,KOVALCHUK Ostap,UKR,"Aug 03, 2007",67.00,A,116,138,254,---,67kgMen,Total,600,False
+10,BRAVO ALVARADO Oswaldo,MEX,"Feb 19, 2007",65.14,B,107,132,239,---,67kgMen,Total,600,False
+11,IAFRATE Adam,FRA,"Dec 07, 2007",67.00,B,106,130,236,---,67kgMen,Total,600,False
+12,ZHUANG Yong-Sheng,TPE,"Feb 26, 2007",65.96,B,106,126,232,---,67kgMen,Total,600,False
+13,ALHAWAR Ali Hussin M,KSA,"Jan 20, 2008",65.72,B,108,123,231,---,67kgMen,Total,600,False
+14,MARTIN Gabriel,FRA,"Jan 01, 2007",64.28,B,100,120,220,---,67kgMen,Total,600,False
+15,AYUSO GONZALEZ Jasier Jael,PUR,"Feb 07, 2008",62.22,B,90,113,203,---,67kgMen,Total,600,False
+16,SILVA MENDOZA Juan David,PER,"Mar 19, 2007",65.32,B,76,94,170,---,67kgMen,Total,600,False
+17,TAPIA LEON Alex Edgar,BOL,"Oct 10, 2007",65.09,B,50,80,130,---,67kgMen,Total,600,False
+---,VALLEJO SIRES Aaron,ESP,"Dec 02, 2007",65.30,A,115,---,---,---,67kgMen,Total,600,False
+1,BHARALI Bedabrat,IND,"Mar 19, 2007",72.55,A,128,132,136,136,73kgMen,Snatch,600,False
+2,KOTELEVSKYI Serhii,UKR,"Jul 27, 2008",72.99,A,124,127,130,130,73kgMen,Snatch,600,False
+3,ALHALYU Mohammed Essa A,KSA,"Jun 18, 2007",71.00,A,117,123,126,126,73kgMen,Snatch,600,False
+4,BARSEGHYAN Seryozha,ARM,"Feb 12, 2007",72.49,A,125,-129,-129,125,73kgMen,Snatch,600,False
+5,MCDONALD Ryan Patrick,USA,"Mar 13, 2007",72.70,A,-122,122,125,125,73kgMen,Snatch,600,False
+6,MEDETBAYEV Ali,KAZ,"Jun 18, 2007",72.60,A,116,121,-125,121,73kgMen,Snatch,600,False
+7,CHEN Kuei-Hung,TPE,"Oct 11, 2007",72.17,B,-110,110,115,115,73kgMen,Snatch,600,False
+8,KRUPA Adrian Przemyslaw,POL,"Mar 03, 2007",70.68,A,115,-120,-121,115,73kgMen,Snatch,600,False
+9,PINEDA GONZALEZ Gabrien Antoine,VEN,"Oct 27, 2007",72.70,A,-115,-115,115,115,73kgMen,Snatch,600,False
+10,HU Yu-Sung,TPE,"Jan 03, 2007",72.41,B,105,-113,114,114,73kgMen,Snatch,600,False
+11,TURNER Diego,ARG,"Aug 03, 2007",71.60,A,110,114,-117,114,73kgMen,Snatch,600,False
+12,GALLART LECHON Nolan,ESP,"Aug 11, 2007",71.78,B,-110,110,-114,110,73kgMen,Snatch,600,False
+13,CERECERO CASAS Francisco,MEX,"Oct 04, 2007",72.29,B,105,-110,110,110,73kgMen,Snatch,600,False
+14,LENG Oliver Hao Ming,AUS,"Jan 30, 2008",72.74,B,98,103,-107,103,73kgMen,Snatch,600,False
+15,PALOU SANTIAGO Dylan,PUR,"Jul 07, 2009",72.08,B,- 85,85,- 90,85,73kgMen,Snatch,600,False
+---,DIMITROV Boris,BUL,"Apr 19, 2007",72.00,B,-110,---,---,---,73kgMen,Snatch,600,False
+1,BHARALI Bedabrat,IND,"Mar 19, 2007",72.55,A,-154,154,160,160,73kgMen,CleanJerk,600,False
+2,MCDONALD Ryan Patrick,USA,"Mar 13, 2007",72.70,A,150,154,159,159,73kgMen,CleanJerk,600,False
+3,KOTELEVSKYI Serhii,UKR,"Jul 27, 2008",72.99,A,148,-153,153,153,73kgMen,CleanJerk,600,False
+4,TURNER Diego,ARG,"Aug 03, 2007",71.60,A,142,147,-150,147,73kgMen,CleanJerk,600,False
+5,KRUPA Adrian Przemyslaw,POL,"Mar 03, 2007",70.68,A,141,-146,147,147,73kgMen,CleanJerk,600,False
+6,ALHALYU Mohammed Essa A,KSA,"Jun 18, 2007",71.00,A,146,-153,-153,146,73kgMen,CleanJerk,600,False
+7,MEDETBAYEV Ali,KAZ,"Jun 18, 2007",72.60,A,145,-151,-154,145,73kgMen,CleanJerk,600,False
+8,GALLART LECHON Nolan,ESP,"Aug 11, 2007",71.78,B,136,141,-145,141,73kgMen,CleanJerk,600,False
+9,CERECERO CASAS Francisco,MEX,"Oct 04, 2007",72.29,B,135,140,-145,140,73kgMen,CleanJerk,600,False
+10,HU Yu-Sung,TPE,"Jan 03, 2007",72.41,B,-129,130,140,140,73kgMen,CleanJerk,600,False
+11,PINEDA GONZALEZ Gabrien Antoine,VEN,"Oct 27, 2007",72.70,A,140,-149,-152,140,73kgMen,CleanJerk,600,False
+12,CHEN Kuei-Hung,TPE,"Oct 11, 2007",72.17,B,130,134,-138,134,73kgMen,CleanJerk,600,False
+13,LENG Oliver Hao Ming,AUS,"Jan 30, 2008",72.74,B,122,-128,-130,122,73kgMen,CleanJerk,600,False
+14,PALOU SANTIAGO Dylan,PUR,"Jul 07, 2009",72.08,B,100,-105,-105,100,73kgMen,CleanJerk,600,False
+---,BARSEGHYAN Seryozha,ARM,"Feb 12, 2007",72.49,A,---,---,---,---,73kgMen,CleanJerk,600,False
+---,DIMITROV Boris,BUL,"Apr 19, 2007",72.00,B,---,---,---,---,73kgMen,CleanJerk,600,False
+1,BHARALI Bedabrat,IND,"Mar 19, 2007",72.55,A,136,160,296,---,73kgMen,Total,600,False
+2,MCDONALD Ryan Patrick,USA,"Mar 13, 2007",72.70,A,125,159,284,---,73kgMen,Total,600,False
+3,KOTELEVSKYI Serhii,UKR,"Jul 27, 2008",72.99,A,130,153,283,---,73kgMen,Total,600,False
+4,ALHALYU Mohammed Essa A,KSA,"Jun 18, 2007",71.00,A,126,146,272,---,73kgMen,Total,600,False
+5,MEDETBAYEV Ali,KAZ,"Jun 18, 2007",72.60,A,121,145,266,---,73kgMen,Total,600,False
+6,KRUPA Adrian Przemyslaw,POL,"Mar 03, 2007",70.68,A,115,147,262,---,73kgMen,Total,600,False
+7,TURNER Diego,ARG,"Aug 03, 2007",71.60,A,114,147,261,---,73kgMen,Total,600,False
+8,PINEDA GONZALEZ Gabrien Antoine,VEN,"Oct 27, 2007",72.70,A,115,140,255,---,73kgMen,Total,600,False
+9,HU Yu-Sung,TPE,"Jan 03, 2007",72.41,B,114,140,254,---,73kgMen,Total,600,False
+10,GALLART LECHON Nolan,ESP,"Aug 11, 2007",71.78,B,110,141,251,---,73kgMen,Total,600,False
+11,CERECERO CASAS Francisco,MEX,"Oct 04, 2007",72.29,B,110,140,250,---,73kgMen,Total,600,False
+12,CHEN Kuei-Hung,TPE,"Oct 11, 2007",72.17,B,115,134,249,---,73kgMen,Total,600,False
+13,LENG Oliver Hao Ming,AUS,"Jan 30, 2008",72.74,B,103,122,225,---,73kgMen,Total,600,False
+14,PALOU SANTIAGO Dylan,PUR,"Jul 07, 2009",72.08,B,85,100,185,---,73kgMen,Total,600,False
+---,BARSEGHYAN Seryozha,ARM,"Feb 12, 2007",72.49,A,125,---,---,---,73kgMen,Total,600,False
+---,DIMITROV Boris,BUL,"Apr 19, 2007",72.00,B,---,---,---,---,73kgMen,Total,600,False
+1,BAKRY Moustafa Mahmoud,EGY,"Dec 24, 2007",80.89,A,138,140,144,144,81kgMen,Snatch,600,False
+2,RAKHMATJONOV Ruslan,UZB,"Nov 03, 2007",80.95,A,134,136,139,139,81kgMen,Snatch,600,False
+3,PARDESHI Sairaj,IND,"Jun 08, 2007",79.39,A,128,133,135,135,81kgMen,Snatch,600,False
+4,LISIAK Dawid Zenon,POL,"Jun 21, 2007",80.85,A,128,133,135,135,81kgMen,Snatch,600,False
+5,MARIN MERCADO Juan Alexander,COL,"Jun 06, 2007",80.73,A,123,128,132,132,81kgMen,Snatch,600,False
+6,TSUKHISHVILI Giga,GEO,"May 04, 2007",80.58,A,121,126,131,131,81kgMen,Snatch,600,False
+7,CASTELLANO PECH Angel Luis,MEX,"Aug 27, 2007",80.81,B,125,-130,130,130,81kgMen,Snatch,600,False
+8,DABEK Florian Norbert,POL,"Feb 09, 2008",80.42,A,120,125,130,130,81kgMen,Snatch,600,False
+9,GASPARYAN Ashot,ARM,"Dec 17, 2007",79.90,A,125,-130,130,130,81kgMen,Snatch,600,False
+10,DI MARZIO Samuele,ITA,"Feb 19, 2008",77.12,A,-125,125,-131,125,81kgMen,Snatch,600,False
+11,TCHURZ Jan,CZE,"Jan 30, 2007",80.62,B,111,116,120,120,81kgMen,Snatch,600,False
+12,SALAZAR ROSALES Andres,MEX,"Aug 16, 2007",80.00,B,112,117,120,120,81kgMen,Snatch,600,False
+13,BUNCE Kale Arthur,USA,"Apr 26, 2007",73.89,B,110,115,-120,115,81kgMen,Snatch,600,False
+14,LOPEZ QUEVEDO Hector Jesus,PER,"Nov 06, 2007",80.27,B,85,90,- 95,90,81kgMen,Snatch,600,False
+15,MARTINEZ BERRIOS Julio,PUR,"Jun 18, 2008",74.52,B,- 77,77,81,81,81kgMen,Snatch,600,False
+16,GONZALES MANCILLA Jhamil,BOL,"May 17, 2008",76.75,B,53,57,61,61,81kgMen,Snatch,600,False
+1,RAKHMATJONOV Ruslan,UZB,"Nov 03, 2007",80.95,A,161,-165,172,172,81kgMen,CleanJerk,600,False
+2,BAKRY Moustafa Mahmoud,EGY,"Dec 24, 2007",80.89,A,162,166,-170,166,81kgMen,CleanJerk,600,False
+3,LISIAK Dawid Zenon,POL,"Jun 21, 2007",80.85,A,161,164,166,166,81kgMen,CleanJerk,600,False
+4,PARDESHI Sairaj,IND,"Jun 08, 2007",79.39,A,160,163,165,165,81kgMen,CleanJerk,600,False
+5,GASPARYAN Ashot,ARM,"Dec 17, 2007",79.90,A,155,-160,160,160,81kgMen,CleanJerk,600,False
+6,DABEK Florian Norbert,POL,"Feb 09, 2008",80.42,A,146,154,159,159,81kgMen,CleanJerk,600,False
+7,TSUKHISHVILI Giga,GEO,"May 04, 2007",80.58,A,149,154,-158,154,81kgMen,CleanJerk,600,False
+8,CASTELLANO PECH Angel Luis,MEX,"Aug 27, 2007",80.81,B,-153,-153,153,153,81kgMen,CleanJerk,600,False
+9,TCHURZ Jan,CZE,"Jan 30, 2007",80.62,B,137,143,-147,143,81kgMen,CleanJerk,600,False
+10,MARIN MERCADO Juan Alexander,COL,"Jun 06, 2007",80.73,A,142,-150,-150,142,81kgMen,CleanJerk,600,False
+11,SALAZAR ROSALES Andres,MEX,"Aug 16, 2007",80.00,B,135,140,-144,140,81kgMen,CleanJerk,600,False
+12,LOPEZ QUEVEDO Hector Jesus,PER,"Nov 06, 2007",80.27,B,113,116,120,120,81kgMen,CleanJerk,600,False
+13,MARTINEZ BERRIOS Julio,PUR,"Jun 18, 2008",74.52,B,105,110,115,115,81kgMen,CleanJerk,600,False
+14,GONZALES MANCILLA Jhamil,BOL,"May 17, 2008",76.75,B,70,80,85,85,81kgMen,CleanJerk,600,False
+---,DI MARZIO Samuele,ITA,"Feb 19, 2008",77.12,A,---,---,---,---,81kgMen,CleanJerk,600,False
+---,BUNCE Kale Arthur,USA,"Apr 26, 2007",73.89,B,-134,-134,-135,---,81kgMen,CleanJerk,600,False
+1,RAKHMATJONOV Ruslan,UZB,"Nov 03, 2007",80.95,A,139,172,311,---,81kgMen,Total,600,False
+2,BAKRY Moustafa Mahmoud,EGY,"Dec 24, 2007",80.89,A,144,166,310,---,81kgMen,Total,600,False
+3,LISIAK Dawid Zenon,POL,"Jun 21, 2007",80.85,A,135,166,301,---,81kgMen,Total,600,False
+4,PARDESHI Sairaj,IND,"Jun 08, 2007",79.39,A,135,165,300,---,81kgMen,Total,600,False
+5,GASPARYAN Ashot,ARM,"Dec 17, 2007",79.90,A,130,160,290,---,81kgMen,Total,600,False
+6,DABEK Florian Norbert,POL,"Feb 09, 2008",80.42,A,130,159,289,---,81kgMen,Total,600,False
+7,TSUKHISHVILI Giga,GEO,"May 04, 2007",80.58,A,131,154,285,---,81kgMen,Total,600,False
+8,CASTELLANO PECH Angel Luis,MEX,"Aug 27, 2007",80.81,B,130,153,283,---,81kgMen,Total,600,False
+9,MARIN MERCADO Juan Alexander,COL,"Jun 06, 2007",80.73,A,132,142,274,---,81kgMen,Total,600,False
+10,TCHURZ Jan,CZE,"Jan 30, 2007",80.62,B,120,143,263,---,81kgMen,Total,600,False
+11,SALAZAR ROSALES Andres,MEX,"Aug 16, 2007",80.00,B,120,140,260,---,81kgMen,Total,600,False
+12,LOPEZ QUEVEDO Hector Jesus,PER,"Nov 06, 2007",80.27,B,90,120,210,---,81kgMen,Total,600,False
+13,MARTINEZ BERRIOS Julio,PUR,"Jun 18, 2008",74.52,B,81,115,196,---,81kgMen,Total,600,False
+14,GONZALES MANCILLA Jhamil,BOL,"May 17, 2008",76.75,B,61,85,146,---,81kgMen,Total,600,False
+---,DI MARZIO Samuele,ITA,"Feb 19, 2008",77.12,A,125,---,---,---,81kgMen,Total,600,False
+---,BUNCE Kale Arthur,USA,"Apr 26, 2007",73.89,B,115,---,---,---,81kgMen,Total,600,False
+1,MOVSISYAN Valerik,ARM,"Nov 17, 2007",88.22,A,145,150,153,153,89kgMen,Snatch,600,False
+2,SABYR Nurdos,KAZ,"Feb 17, 2007",89.00,A,-143,143,148,148,89kgMen,Snatch,600,False
+3,GOFIRJONOV Bekzod,UZB,"Jan 29, 2007",87.94,A,-140,141,-148,141,89kgMen,Snatch,600,False
+4,BRAULIO GIRON Vicente Federico,ECU,"Sep 25, 2007",89.00,A,-135,135,-140,135,89kgMen,Snatch,600,False
+5,MURILLO LOPEZ Jhon Esteban,COL,"Feb 21, 2008",87.46,A,130,-134,134,134,89kgMen,Snatch,600,False
+6,BEKOSHVILI Jumber,GEO,"Jan 31, 2008",88.78,A,125,129,132,132,89kgMen,Snatch,600,False
+7,GRZYMALA Szymon,POL,"Nov 10, 2007",82.47,A,122,127,131,131,89kgMen,Snatch,600,False
+8,CALVO David,ARG,"Apr 10, 2007",86.54,A,120,-126,126,126,89kgMen,Snatch,600,False
+9,PARCHEWSKY Dryden,CAN,"Jan 12, 2007",89.00,B,119,122,125,125,89kgMen,Snatch,600,False
+10,YAMASHITA Yoshiki,JPN,"Jan 02, 2007",89.00,A,120,124,-128,124,89kgMen,Snatch,600,False
+11,CEPKO Matej,SVK,"Apr 18, 2007",88.20,B,113,117,121,121,89kgMen,Snatch,600,False
+12,SANNOMIYA Toumu,JPN,"Jun 12, 2007",87.31,B,115,-120,120,120,89kgMen,Snatch,600,False
+13,MORENO Matias,CHI,"Apr 29, 2009",88.52,B,115,-119,119,119,89kgMen,Snatch,600,False
+14,AL MAHDI Abbas Fadhil A,KSA,"Mar 16, 2007",87.48,A,-118,118,-123,118,89kgMen,Snatch,600,False
+15,ALEMAN ESTEVES Cesar Yampier,PER,"Jan 18, 2008",88.07,B,85,90,95,95,89kgMen,Snatch,600,False
+1,SABYR Nurdos,KAZ,"Feb 17, 2007",89.00,A,175,182,185,185,89kgMen,CleanJerk,600,False
+2,GOFIRJONOV Bekzod,UZB,"Jan 29, 2007",87.94,A,174,183,-186,183,89kgMen,CleanJerk,600,False
+3,MOVSISYAN Valerik,ARM,"Nov 17, 2007",88.22,A,171,176,-182,176,89kgMen,CleanJerk,600,False
+4,BRAULIO GIRON Vicente Federico,ECU,"Sep 25, 2007",89.00,A,155,-161,163,163,89kgMen,CleanJerk,600,False
+5,MURILLO LOPEZ Jhon Esteban,COL,"Feb 21, 2008",87.46,A,155,-160,162,162,89kgMen,CleanJerk,600,False
+6,GRZYMALA Szymon,POL,"Nov 10, 2007",82.47,A,150,156,159,159,89kgMen,CleanJerk,600,False
+7,YAMASHITA Yoshiki,JPN,"Jan 02, 2007",89.00,A,151,155,-160,155,89kgMen,CleanJerk,600,False
+8,MORENO Matias,CHI,"Apr 29, 2009",88.52,B,140,147,154,154,89kgMen,CleanJerk,600,False
+9,SANNOMIYA Toumu,JPN,"Jun 12, 2007",87.31,B,145,150,154,154,89kgMen,CleanJerk,600,False
+10,AL MAHDI Abbas Fadhil A,KSA,"Mar 16, 2007",87.48,A,150,-157,-157,150,89kgMen,CleanJerk,600,False
+11,CALVO David,ARG,"Apr 10, 2007",86.54,A,-150,150,-156,150,89kgMen,CleanJerk,600,False
+12,PARCHEWSKY Dryden,CAN,"Jan 12, 2007",89.00,B,148,-152,-154,148,89kgMen,CleanJerk,600,False
+13,CEPKO Matej,SVK,"Apr 18, 2007",88.20,B,-135,-135,135,135,89kgMen,CleanJerk,600,False
+14,ALEMAN ESTEVES Cesar Yampier,PER,"Jan 18, 2008",88.07,B,105,110,-115,110,89kgMen,CleanJerk,600,False
+---,BEKOSHVILI Jumber,GEO,"Jan 31, 2008",88.78,A,-155,-155,-155,---,89kgMen,CleanJerk,600,False
+1,SABYR Nurdos,KAZ,"Feb 17, 2007",89.00,A,148,185,333,---,89kgMen,Total,600,False
+2,MOVSISYAN Valerik,ARM,"Nov 17, 2007",88.22,A,153,176,329,---,89kgMen,Total,600,False
+3,GOFIRJONOV Bekzod,UZB,"Jan 29, 2007",87.94,A,141,183,324,---,89kgMen,Total,600,False
+4,BRAULIO GIRON Vicente Federico,ECU,"Sep 25, 2007",89.00,A,135,163,298,---,89kgMen,Total,600,False
+5,MURILLO LOPEZ Jhon Esteban,COL,"Feb 21, 2008",87.46,A,134,162,296,---,89kgMen,Total,600,False
+6,GRZYMALA Szymon,POL,"Nov 10, 2007",82.47,A,131,159,290,---,89kgMen,Total,600,False
+7,YAMASHITA Yoshiki,JPN,"Jan 02, 2007",89.00,A,124,155,279,---,89kgMen,Total,600,False
+8,CALVO David,ARG,"Apr 10, 2007",86.54,A,126,150,276,---,89kgMen,Total,600,False
+9,SANNOMIYA Toumu,JPN,"Jun 12, 2007",87.31,B,120,154,274,---,89kgMen,Total,600,False
+10,PARCHEWSKY Dryden,CAN,"Jan 12, 2007",89.00,B,125,148,273,---,89kgMen,Total,600,False
+11,MORENO Matias,CHI,"Apr 29, 2009",88.52,B,119,154,273,---,89kgMen,Total,600,False
+12,AL MAHDI Abbas Fadhil A,KSA,"Mar 16, 2007",87.48,A,118,150,268,---,89kgMen,Total,600,False
+13,CEPKO Matej,SVK,"Apr 18, 2007",88.20,B,121,135,256,---,89kgMen,Total,600,False
+14,ALEMAN ESTEVES Cesar Yampier,PER,"Jan 18, 2008",88.07,B,95,110,205,---,89kgMen,Total,600,False
+---,BEKOSHVILI Jumber,GEO,"Jan 31, 2008",88.78,A,132,---,---,---,89kgMen,Total,600,False
+1,ALKATEB Mohamad,SYR,"Jan 05, 2007",90.80,A,138,143,147,147,96kgMen,Snatch,600,False
+2,ELSAYED RABEA Mahgoub Mahmoud,EGY,"Oct 30, 2007",95.73,A,136,141,144,144,96kgMen,Snatch,600,False
+3,SILAGADZE Luka,GEO,"May 04, 2007",94.21,A,-137,137,143,143,96kgMen,Snatch,600,False
+4,KALIULY Bekbolat,KAZ,"Apr 09, 2007",96.00,A,135,139,142,142,96kgMen,Snatch,600,False
+5,KARTAL Emre,TUR,"May 14, 2007",93.30,A,136,-139,-140,136,96kgMen,Snatch,600,False
+6,ALLAMI ALI Hazim Dawood,IRQ,"Apr 13, 2007",95.43,A,135,-140,-140,135,96kgMen,Snatch,600,False
+7,LARA CANSINO Angel Daniel,MEX,"May 18, 2007",94.97,A,127,132,-135,132,96kgMen,Snatch,600,False
+8,LUNA GUTIERREZ Cesar Moises,VEN,"Mar 31, 2007",95.45,A,122,-127,128,128,96kgMen,Snatch,600,False
+9,HUANG Zheng-Xian,TPE,"Jul 27, 2007",95.30,A,115,123,-127,123,96kgMen,Snatch,600,False
+10,VIKS Kait,EST,"Jul 07, 2007",89.78,B,98,101,-104,101,96kgMen,Snatch,600,False
+11,CASTRO HUILLCAHUAMAN Jhosue Danilo,PER,"Sep 20, 2007",93.25,B,90,95,-100,95,96kgMen,Snatch,600,False
+12,RODRIGUEZ SEGURA Santiago,CRC,"Feb 02, 2009",93.88,B,75,- 80,80,80,96kgMen,Snatch,600,False
+1,ALLAMI ALI Hazim Dawood,IRQ,"Apr 13, 2007",95.43,A,171,-175,177,177,96kgMen,CleanJerk,600,False
+2,ALKATEB Mohamad,SYR,"Jan 05, 2007",90.80,A,168,-174,174,174,96kgMen,CleanJerk,600,False
+3,SILAGADZE Luka,GEO,"May 04, 2007",94.21,A,166,170,-174,170,96kgMen,CleanJerk,600,False
+4,LARA CANSINO Angel Daniel,MEX,"May 18, 2007",94.97,A,162,166,169,169,96kgMen,CleanJerk,600,False
+5,ELSAYED RABEA Mahgoub Mahmoud,EGY,"Oct 30, 2007",95.73,A,-166,167,-172,167,96kgMen,CleanJerk,600,False
+6,KARTAL Emre,TUR,"May 14, 2007",93.30,A,163,-170,-172,163,96kgMen,CleanJerk,600,False
+7,LUNA GUTIERREZ Cesar Moises,VEN,"Mar 31, 2007",95.45,A,152,160,-165,160,96kgMen,CleanJerk,600,False
+8,HUANG Zheng-Xian,TPE,"Jul 27, 2007",95.30,A,140,152,-161,152,96kgMen,CleanJerk,600,False
+9,VIKS Kait,EST,"Jul 07, 2007",89.78,B,118,121,-125,121,96kgMen,CleanJerk,600,False
+10,CASTRO HUILLCAHUAMAN Jhosue Danilo,PER,"Sep 20, 2007",93.25,B,110,115,120,120,96kgMen,CleanJerk,600,False
+11,RODRIGUEZ SEGURA Santiago,CRC,"Feb 02, 2009",93.88,B,95,100,-105,100,96kgMen,CleanJerk,600,False
+---,KALIULY Bekbolat,KAZ,"Apr 09, 2007",96.00,A,-173,-173,-173,---,96kgMen,CleanJerk,600,False
+1,ALKATEB Mohamad,SYR,"Jan 05, 2007",90.80,A,147,174,321,---,96kgMen,Total,600,False
+2,SILAGADZE Luka,GEO,"May 04, 2007",94.21,A,143,170,313,---,96kgMen,Total,600,False
+3,ALLAMI ALI Hazim Dawood,IRQ,"Apr 13, 2007",95.43,A,135,177,312,---,96kgMen,Total,600,False
+4,ELSAYED RABEA Mahgoub Mahmoud,EGY,"Oct 30, 2007",95.73,A,144,167,311,---,96kgMen,Total,600,False
+5,LARA CANSINO Angel Daniel,MEX,"May 18, 2007",94.97,A,132,169,301,---,96kgMen,Total,600,False
+6,KARTAL Emre,TUR,"May 14, 2007",93.30,A,136,163,299,---,96kgMen,Total,600,False
+7,LUNA GUTIERREZ Cesar Moises,VEN,"Mar 31, 2007",95.45,A,128,160,288,---,96kgMen,Total,600,False
+8,HUANG Zheng-Xian,TPE,"Jul 27, 2007",95.30,A,123,152,275,---,96kgMen,Total,600,False
+9,VIKS Kait,EST,"Jul 07, 2007",89.78,B,101,121,222,---,96kgMen,Total,600,False
+10,CASTRO HUILLCAHUAMAN Jhosue Danilo,PER,"Sep 20, 2007",93.25,B,95,120,215,---,96kgMen,Total,600,False
+11,RODRIGUEZ SEGURA Santiago,CRC,"Feb 02, 2009",93.88,B,80,100,180,---,96kgMen,Total,600,False
+---,KALIULY Bekbolat,KAZ,"Apr 09, 2007",96.00,A,142,---,---,---,96kgMen,Total,600,False
+1,JAFAROV Suleyman,TKM,"Apr 22, 2007",100.56,A,137,141,143,143,102kgMen,Snatch,600,False
+2,TKESHELASHVILI Jaba,GEO,"Jun 01, 2008",101.06,A,-135,135,141,141,102kgMen,Snatch,600,False
+3,MAHMOUD GABR Mashal Omar,EGY,"Jun 21, 2007",101.00,A,130,136,140,140,102kgMen,Snatch,600,False
+4,SHAMMAA Ahmad,SYR,"Jan 01, 2007",96.12,A,134,139,-142,139,102kgMen,Snatch,600,False
+5,ABDULLA Didar,KAZ,"May 28, 2007",100.51,A,130,135,138,138,102kgMen,Snatch,600,False
+6,ALQAISOOM Abdullah Ali A,KSA,"Oct 02, 2007",100.70,A,131,-138,138,138,102kgMen,Snatch,600,False
+7,JABKIEWICZ Oliver,POL,"May 22, 2007",101.74,A,135,-140,-142,135,102kgMen,Snatch,600,False
+8,KIRVALIDZE Davit,GEO,"Jul 25, 2007",101.32,A,125,129,132,132,102kgMen,Snatch,600,False
+9,TATSUMI Kodai,JPN,"Oct 16, 2007",96.37,A,120,126,-131,126,102kgMen,Snatch,600,False
+10,MATEJKA Jan,CZE,"Dec 30, 2007",101.27,A,-108,108,112,112,102kgMen,Snatch,600,False
+1,SHAMMAA Ahmad,SYR,"Jan 01, 2007",96.12,A,-169,171,174,174,102kgMen,CleanJerk,600,False
+2,MAHMOUD GABR Mashal Omar,EGY,"Jun 21, 2007",101.00,A,161,-170,170,170,102kgMen,CleanJerk,600,False
+3,JAFAROV Suleyman,TKM,"Apr 22, 2007",100.56,A,165,-170,170,170,102kgMen,CleanJerk,600,False
+4,TKESHELASHVILI Jaba,GEO,"Jun 01, 2008",101.06,A,162,-168,168,168,102kgMen,CleanJerk,600,False
+5,TATSUMI Kodai,JPN,"Oct 16, 2007",96.37,A,158,165,-167,165,102kgMen,CleanJerk,600,False
+6,ALQAISOOM Abdullah Ali A,KSA,"Oct 02, 2007",100.70,A,162,-168,-170,162,102kgMen,CleanJerk,600,False
+7,ABDULLA Didar,KAZ,"May 28, 2007",100.51,A,160,-165,-165,160,102kgMen,CleanJerk,600,False
+8,KIRVALIDZE Davit,GEO,"Jul 25, 2007",101.32,A,155,160,-163,160,102kgMen,CleanJerk,600,False
+9,JABKIEWICZ Oliver,POL,"May 22, 2007",101.74,A,-155,155,-161,155,102kgMen,CleanJerk,600,False
+10,MATEJKA Jan,CZE,"Dec 30, 2007",101.27,A,138,143,147,147,102kgMen,CleanJerk,600,False
+1,JAFAROV Suleyman,TKM,"Apr 22, 2007",100.56,A,143,170,313,---,102kgMen,Total,600,False
+2,SHAMMAA Ahmad,SYR,"Jan 01, 2007",96.12,A,139,174,313,---,102kgMen,Total,600,False
+3,MAHMOUD GABR Mashal Omar,EGY,"Jun 21, 2007",101.00,A,140,170,310,---,102kgMen,Total,600,False
+4,TKESHELASHVILI Jaba,GEO,"Jun 01, 2008",101.06,A,141,168,309,---,102kgMen,Total,600,False
+5,ALQAISOOM Abdullah Ali A,KSA,"Oct 02, 2007",100.70,A,138,162,300,---,102kgMen,Total,600,False
+6,ABDULLA Didar,KAZ,"May 28, 2007",100.51,A,138,160,298,---,102kgMen,Total,600,False
+7,KIRVALIDZE Davit,GEO,"Jul 25, 2007",101.32,A,132,160,292,---,102kgMen,Total,600,False
+8,TATSUMI Kodai,JPN,"Oct 16, 2007",96.37,A,126,165,291,---,102kgMen,Total,600,False
+9,JABKIEWICZ Oliver,POL,"May 22, 2007",101.74,A,135,155,290,---,102kgMen,Total,600,False
+10,MATEJKA Jan,CZE,"Dec 30, 2007",101.27,A,112,147,259,---,102kgMen,Total,600,False
+1,VEKUA Irakli,GEO,"Mar 02, 2007",153.60,A,146,149,151,151,+102kgMen,Snatch,600,False
+2,OLIMOV Omadillo,UZB,"Jan 14, 2007",135.50,A,142,146,150,150,+102kgMen,Snatch,600,False
+3,DARSAVELIDZE Givi,GEO,"Oct 23, 2007",144.80,A,141,145,147,147,+102kgMen,Snatch,600,False
+4,ASKAROV Yedil,KAZ,"Dec 12, 2007",121.25,A,-137,137,144,144,+102kgMen,Snatch,600,False
+5,BIYIK Arda,TUR,"Apr 24, 2009",147.28,A,-137,137,143,143,+102kgMen,Snatch,600,False
+6,GURMERIC Omer,TUR,"May 03, 2007",118.75,A,-137,137,142,142,+102kgMen,Snatch,600,False
+7,KE Guan-Ting,TPE,"Jun 22, 2007",139.00,A,135,139,142,142,+102kgMen,Snatch,600,False
+8,HOLOVANOV Vladyslav,UKR,"Oct 15, 2007",136.40,A,137,141,-145,141,+102kgMen,Snatch,600,False
+9,MKRTCHYAN Gagik,ARM,"Feb 02, 2007",145.25,A,135,-140,140,140,+102kgMen,Snatch,600,False
+10,GARCIA RODRIGUES Jose Francisco,ESP,"Feb 23, 2007",115.40,A,132,-138,138,138,+102kgMen,Snatch,600,False
+11,URREGO GUTIERREZ Jose Ricardo,COL,"Jan 08, 2007",127.70,A,128,132,-135,132,+102kgMen,Snatch,600,False
+12,ALMOHSIN Muntathir Moayad A,KSA,"Jan 16, 2007",105.58,A,-120,120,126,126,+102kgMen,Snatch,600,False
+13,RIVERA FEBRE Raul Alejandro,PUR,"Mar 11, 2007",127.25,A,90,95,100,100,+102kgMen,Snatch,600,False
+---,SCHUSTER Isyss,NZL,"Jul 24, 2007",121.40,A,---,---,---,---,+102kgMen,Snatch,600,False
+1,VEKUA Irakli,GEO,"Mar 02, 2007",153.60,A,187,196,-200,196,+102kgMen,CleanJerk,600,False
+2,OLIMOV Omadillo,UZB,"Jan 14, 2007",135.50,A,186,195,-198,195,+102kgMen,CleanJerk,600,False
+3,KE Guan-Ting,TPE,"Jun 22, 2007",139.00,A,180,185,190,190,+102kgMen,CleanJerk,600,False
+4,HOLOVANOV Vladyslav,UKR,"Oct 15, 2007",136.40,A,176,181,186,186,+102kgMen,CleanJerk,600,False
+5,DARSAVELIDZE Givi,GEO,"Oct 23, 2007",144.80,A,173,-178,179,179,+102kgMen,CleanJerk,600,False
+6,GURMERIC Omer,TUR,"May 03, 2007",118.75,A,170,175,-179,175,+102kgMen,CleanJerk,600,False
+7,ASKAROV Yedil,KAZ,"Dec 12, 2007",121.25,A,166,174,-183,174,+102kgMen,CleanJerk,600,False
+8,MKRTCHYAN Gagik,ARM,"Feb 02, 2007",145.25,A,-173,173,-178,173,+102kgMen,CleanJerk,600,False
+9,BIYIK Arda,TUR,"Apr 24, 2009",147.28,A,-172,-173,173,173,+102kgMen,CleanJerk,600,False
+10,URREGO GUTIERREZ Jose Ricardo,COL,"Jan 08, 2007",127.70,A,162,167,-172,167,+102kgMen,CleanJerk,600,False
+11,ALMOHSIN Muntathir Moayad A,KSA,"Jan 16, 2007",105.58,A,162,-166,-167,162,+102kgMen,CleanJerk,600,False
+12,GARCIA RODRIGUES Jose Francisco,ESP,"Feb 23, 2007",115.40,A,160,-165,-165,160,+102kgMen,CleanJerk,600,False
+13,RIVERA FEBRE Raul Alejandro,PUR,"Mar 11, 2007",127.25,A,115,121,125,125,+102kgMen,CleanJerk,600,False
+---,SCHUSTER Isyss,NZL,"Jul 24, 2007",121.40,A,---,---,---,---,+102kgMen,CleanJerk,600,False
+1,VEKUA Irakli,GEO,"Mar 02, 2007",153.60,A,151,196,347,---,+102kgMen,Total,600,False
+2,OLIMOV Omadillo,UZB,"Jan 14, 2007",135.50,A,150,195,345,---,+102kgMen,Total,600,False
+3,KE Guan-Ting,TPE,"Jun 22, 2007",139.00,A,142,190,332,---,+102kgMen,Total,600,False
+4,HOLOVANOV Vladyslav,UKR,"Oct 15, 2007",136.40,A,141,186,327,---,+102kgMen,Total,600,False
+5,DARSAVELIDZE Givi,GEO,"Oct 23, 2007",144.80,A,147,179,326,---,+102kgMen,Total,600,False
+6,ASKAROV Yedil,KAZ,"Dec 12, 2007",121.25,A,144,174,318,---,+102kgMen,Total,600,False
+7,GURMERIC Omer,TUR,"May 03, 2007",118.75,A,142,175,317,---,+102kgMen,Total,600,False
+8,BIYIK Arda,TUR,"Apr 24, 2009",147.28,A,143,173,316,---,+102kgMen,Total,600,False
+9,MKRTCHYAN Gagik,ARM,"Feb 02, 2007",145.25,A,140,173,313,---,+102kgMen,Total,600,False
+10,URREGO GUTIERREZ Jose Ricardo,COL,"Jan 08, 2007",127.70,A,132,167,299,---,+102kgMen,Total,600,False
+11,GARCIA RODRIGUES Jose Francisco,ESP,"Feb 23, 2007",115.40,A,138,160,298,---,+102kgMen,Total,600,False
+12,ALMOHSIN Muntathir Moayad A,KSA,"Jan 16, 2007",105.58,A,126,162,288,---,+102kgMen,Total,600,False
+13,RIVERA FEBRE Raul Alejandro,PUR,"Mar 11, 2007",127.25,A,100,125,225,---,+102kgMen,Total,600,False
+---,SCHUSTER Isyss,NZL,"Jul 24, 2007",121.40,A,---,---,---,---,+102kgMen,Total,600,False
+1,BHOI Preetismita,IND,"Nov 14, 2008",39.57,A,54,- 57,57,57,40kgWomen,Snatch,600,False
+2,SABAR Jyoshna,IND,"Oct 25, 2008",39.58,A,54,56,- 58,56,40kgWomen,Snatch,600,False
+3,KOLCAK Fatma Sena,TUR,"Nov 13, 2008",40.00,A,53,55,- 57,55,40kgWomen,Snatch,600,False
+4,NAVA CASTILLO Romina,MEX,"Nov 18, 2010",39.36,B,48,50,52,52,40kgWomen,Snatch,600,False
+5,MILLAN VILORIA Luirmar Alejandra,VEN,"Jan 02, 2009",39.73,A,50,52,- 55,52,40kgWomen,Snatch,600,False
+6,ENDARA CRIOLLO Domenica Estefania,ECU,"Jul 02, 2007",39.45,B,44,47,- 49,47,40kgWomen,Snatch,600,False
+7,WALESA Julia Wiktoria,POL,"Feb 13, 2007",39.63,B,45,47,- 49,47,40kgWomen,Snatch,600,False
+8,MONTEJANO CASTILLO Estefany,MEX,"Oct 19, 2010",40.00,A,47,- 50,- 50,47,40kgWomen,Snatch,600,False
+9,SANCHEZ VILLARRUEL Yuleysis,COL,"Jul 06, 2009",39.87,B,42,45,- 48,45,40kgWomen,Snatch,600,False
+---,ORIANNIS ELENA Pirona Garcia,VEN,"Sep 28, 2011",39.07,A,- 55,- 55,- 55,---,40kgWomen,Snatch,600,False
+---,INCE Sevval,TUR,"Sep 22, 2009",39.48,A,- 50,- 50,- 50,---,40kgWomen,Snatch,600,False
+1,BHOI Preetismita,IND,"Nov 14, 2008",39.57,A,68,72,76,76,40kgWomen,CleanJerk,600,False
+2,INCE Sevval,TUR,"Sep 22, 2009",39.48,A,65,67,70,70,40kgWomen,CleanJerk,600,False
+3,ORIANNIS ELENA Pirona Garcia,VEN,"Sep 28, 2011",39.07,A,- 65,65,69,69,40kgWomen,CleanJerk,600,False
+4,SABAR Jyoshna,IND,"Oct 25, 2008",39.58,A,- 66,66,69,69,40kgWomen,CleanJerk,600,False
+5,NAVA CASTILLO Romina,MEX,"Nov 18, 2010",39.36,B,63,66,- 68,66,40kgWomen,CleanJerk,600,False
+6,MILLAN VILORIA Luirmar Alejandra,VEN,"Jan 02, 2009",39.73,A,62,66,- 69,66,40kgWomen,CleanJerk,600,False
+7,MONTEJANO CASTILLO Estefany,MEX,"Oct 19, 2010",40.00,A,65,- 68,- 68,65,40kgWomen,CleanJerk,600,False
+8,KOLCAK Fatma Sena,TUR,"Nov 13, 2008",40.00,A,63,65,- 67,65,40kgWomen,CleanJerk,600,False
+9,WALESA Julia Wiktoria,POL,"Feb 13, 2007",39.63,B,57,60,- 63,60,40kgWomen,CleanJerk,600,False
+10,SANCHEZ VILLARRUEL Yuleysis,COL,"Jul 06, 2009",39.87,B,53,57,60,60,40kgWomen,CleanJerk,600,False
+11,ENDARA CRIOLLO Domenica Estefania,ECU,"Jul 02, 2007",39.45,B,54,57,60,60,40kgWomen,CleanJerk,600,False
+1,BHOI Preetismita,IND,"Nov 14, 2008",39.57,A,57,76,133,---,40kgWomen,Total,600,False
+2,SABAR Jyoshna,IND,"Oct 25, 2008",39.58,A,56,69,125,---,40kgWomen,Total,600,False
+3,KOLCAK Fatma Sena,TUR,"Nov 13, 2008",40.00,A,55,65,120,---,40kgWomen,Total,600,False
+4,NAVA CASTILLO Romina,MEX,"Nov 18, 2010",39.36,B,52,66,118,---,40kgWomen,Total,600,False
+5,MILLAN VILORIA Luirmar Alejandra,VEN,"Jan 02, 2009",39.73,A,52,66,118,---,40kgWomen,Total,600,False
+6,MONTEJANO CASTILLO Estefany,MEX,"Oct 19, 2010",40.00,A,47,65,112,---,40kgWomen,Total,600,False
+7,WALESA Julia Wiktoria,POL,"Feb 13, 2007",39.63,B,47,60,107,---,40kgWomen,Total,600,False
+8,ENDARA CRIOLLO Domenica Estefania,ECU,"Jul 02, 2007",39.45,B,47,60,107,---,40kgWomen,Total,600,False
+9,SANCHEZ VILLARRUEL Yuleysis,COL,"Jul 06, 2009",39.87,B,45,60,105,---,40kgWomen,Total,600,False
+---,ORIANNIS ELENA Pirona Garcia,VEN,"Sep 28, 2011",39.07,A,---,69,---,---,40kgWomen,Total,600,False
+---,INCE Sevval,TUR,"Sep 22, 2009",39.48,A,---,70,---,---,40kgWomen,Total,600,False
+1,MALASHCHUK Kateryna,UKR,"Mar 28, 2008",45.00,A,67,- 69,- 69,67,45kgWomen,Snatch,600,False
+2,ESTRADA VELEZ Lawren Sofia,COL,"Jan 06, 2007",44.65,A,62,65,67,67,45kgWomen,Snatch,600,False
+3,PAYAL,IND,"Jul 24, 2009",44.92,A,63,65,- 68,65,45kgWomen,Snatch,600,False
+4,KERIMBAYEVA Shabnam,TKM,"Dec 26, 2009",44.95,A,62,64,- 66,64,45kgWomen,Snatch,600,False
+5,BEKTAS Aysu,TUR,"Nov 21, 2007",45.00,A,- 63,63,- 66,63,45kgWomen,Snatch,600,False
+6,LOPEZ LEDEZMA Alexandra Yamileth,MEX,"Jun 20, 2007",44.80,A,58,61,63,63,45kgWomen,Snatch,600,False
+7,CERVERA JIMENEZ Maria,ESP,"May 19, 2008",45.00,A,58,- 61,63,63,45kgWomen,Snatch,600,False
+8,CALDERA URBANO Wiliandrys Nazareth,VEN,"Mar 11, 2007",44.06,A,57,- 62,62,62,45kgWomen,Snatch,600,False
+9,VAZQUEZ LOPEZ Lorena,ESP,"Oct 19, 2007",44.50,A,- 61,- 62,62,62,45kgWomen,Snatch,600,False
+10,VELEZ CEDENO Ivana Yuleidy,ECU,"Jul 12, 2007",45.00,B,54,57,- 59,57,45kgWomen,Snatch,600,False
+11,BIZEAU Alexine,FRA,"Aug 14, 2007",43.34,B,51,53,- 55,53,45kgWomen,Snatch,600,False
+12,VALDIRIS DIAZ Yalena Sofia,COL,"Nov 27, 2010",44.61,B,- 50,50,- 53,50,45kgWomen,Snatch,600,False
+13,VASQUEZ INUMA Selly,PER,"Jan 11, 2009",44.80,B,40,43,45,45,45kgWomen,Snatch,600,False
+14,DOMINGUEZ VASQUEZ Andrea,PER,"Oct 05, 2008",43.84,B,35,- 38,- 40,35,45kgWomen,Snatch,600,False
+1,ESTRADA VELEZ Lawren Sofia,COL,"Jan 06, 2007",44.65,A,80,82,84,84,45kgWomen,CleanJerk,600,False
+2,LOPEZ LEDEZMA Alexandra Yamileth,MEX,"Jun 20, 2007",44.80,A,79,81,83,83,45kgWomen,CleanJerk,600,False
+3,PAYAL,IND,"Jul 24, 2009",44.92,A,78,80,82,82,45kgWomen,CleanJerk,600,False
+4,KERIMBAYEVA Shabnam,TKM,"Dec 26, 2009",44.95,A,78,- 81,- 81,78,45kgWomen,CleanJerk,600,False
+5,CALDERA URBANO Wiliandrys Nazareth,VEN,"Mar 11, 2007",44.06,A,78,- 81,- 81,78,45kgWomen,CleanJerk,600,False
+6,MALASHCHUK Kateryna,UKR,"Mar 28, 2008",45.00,A,- 77,- 77,77,77,45kgWomen,CleanJerk,600,False
+7,BEKTAS Aysu,TUR,"Nov 21, 2007",45.00,A,- 73,- 75,75,75,45kgWomen,CleanJerk,600,False
+8,CERVERA JIMENEZ Maria,ESP,"May 19, 2008",45.00,A,70,73,- 75,73,45kgWomen,CleanJerk,600,False
+9,VAZQUEZ LOPEZ Lorena,ESP,"Oct 19, 2007",44.50,A,72,- 75,- 75,72,45kgWomen,CleanJerk,600,False
+10,VELEZ CEDENO Ivana Yuleidy,ECU,"Jul 12, 2007",45.00,B,64,68,71,71,45kgWomen,CleanJerk,600,False
+11,VALDIRIS DIAZ Yalena Sofia,COL,"Nov 27, 2010",44.61,B,63,67,70,70,45kgWomen,CleanJerk,600,False
+12,BIZEAU Alexine,FRA,"Aug 14, 2007",43.34,B,- 59,59,- 62,59,45kgWomen,CleanJerk,600,False
+13,VASQUEZ INUMA Selly,PER,"Jan 11, 2009",44.80,B,50,- 53,53,53,45kgWomen,CleanJerk,600,False
+14,DOMINGUEZ VASQUEZ Andrea,PER,"Oct 05, 2008",43.84,B,45,48,51,51,45kgWomen,CleanJerk,600,False
+1,ESTRADA VELEZ Lawren Sofia,COL,"Jan 06, 2007",44.65,A,67,84,151,---,45kgWomen,Total,600,False
+2,PAYAL,IND,"Jul 24, 2009",44.92,A,65,82,147,---,45kgWomen,Total,600,False
+3,LOPEZ LEDEZMA Alexandra Yamileth,MEX,"Jun 20, 2007",44.80,A,63,83,146,---,45kgWomen,Total,600,False
+4,MALASHCHUK Kateryna,UKR,"Mar 28, 2008",45.00,A,67,77,144,---,45kgWomen,Total,600,False
+5,KERIMBAYEVA Shabnam,TKM,"Dec 26, 2009",44.95,A,64,78,142,---,45kgWomen,Total,600,False
+6,CALDERA URBANO Wiliandrys Nazareth,VEN,"Mar 11, 2007",44.06,A,62,78,140,---,45kgWomen,Total,600,False
+7,BEKTAS Aysu,TUR,"Nov 21, 2007",45.00,A,63,75,138,---,45kgWomen,Total,600,False
+8,CERVERA JIMENEZ Maria,ESP,"May 19, 2008",45.00,A,63,73,136,---,45kgWomen,Total,600,False
+9,VAZQUEZ LOPEZ Lorena,ESP,"Oct 19, 2007",44.50,A,62,72,134,---,45kgWomen,Total,600,False
+10,VELEZ CEDENO Ivana Yuleidy,ECU,"Jul 12, 2007",45.00,B,57,71,128,---,45kgWomen,Total,600,False
+11,VALDIRIS DIAZ Yalena Sofia,COL,"Nov 27, 2010",44.61,B,50,70,120,---,45kgWomen,Total,600,False
+12,BIZEAU Alexine,FRA,"Aug 14, 2007",43.34,B,53,59,112,---,45kgWomen,Total,600,False
+13,VASQUEZ INUMA Selly,PER,"Jan 11, 2009",44.80,B,45,53,98,---,45kgWomen,Total,600,False
+14,DOMINGUEZ VASQUEZ Andrea,PER,"Oct 05, 2008",43.84,B,35,51,86,---,45kgWomen,Total,600,False
+1,AMANOVA Ogulshat,TKM,"Nov 29, 2009",48.72,A,73,75,77,77,49kgWomen,Snatch,600,False
+2,GONZALEZ BORREGO Lucia,ESP,"Jan 15, 2007",48.54,A,73,76,- 78,76,49kgWomen,Snatch,600,False
+3,KOCHETOVA Margot,FRA,"Oct 02, 2008",48.73,A,71,74,- 76,74,49kgWomen,Snatch,600,False
+4,MAY DZUL Kenia Germayony,MEX,"Sep 19, 2007",49.00,A,70,73,- 75,73,49kgWomen,Snatch,600,False
+5,STRATOUDAKI Maria,GRE,"Jun 05, 2008",48.60,A,65,70,72,72,49kgWomen,Snatch,600,False
+6,DE LIMA SANTOS Beatriz Kamille,BRA,"Feb 29, 2008",48.83,A,68,71,- 73,71,49kgWomen,Snatch,600,False
+7,OLIVERA ASPAJO Katerin Tatiana,PER,"May 10, 2007",48.67,A,- 70,70,- 73,70,49kgWomen,Snatch,600,False
+8,ABDELFATTAH Habiba Saad Madih,EGY,"Aug 30, 2007",48.91,A,69,- 73,- 74,69,49kgWomen,Snatch,600,False
+9,GOMEZ SOSA Evelyn,ESP,"Sep 09, 2009",48.45,A,66,- 69,69,69,49kgWomen,Snatch,600,False
+10,CUPP Brynn,USA,"Sep 06, 2007",47.97,B,61,63,65,65,49kgWomen,Snatch,600,False
+11,BHARGAVI B,IND,"Feb 19, 2009",49.00,A,65,- 68,- 68,65,49kgWomen,Snatch,600,False
+12,PARRA PARRA Mayra,COL,"Feb 10, 2007",48.98,A,63,- 65,65,65,49kgWomen,Snatch,600,False
+13,DEGEZ Florette,FRA,"Oct 10, 2008",48.70,B,61,64,- 66,64,49kgWomen,Snatch,600,False
+14,PAN Mei-Chin,TPE,"Nov 18, 2009",48.98,B,- 60,60,63,63,49kgWomen,Snatch,600,False
+15,DHONE Asmita,IND,"May 01, 2007",49.00,A,- 63,63,- 66,63,49kgWomen,Snatch,600,False
+16,CHIRINO PINERO Valeria Valentina,VEN,"May 06, 2008",48.91,B,58,61,- 64,61,49kgWomen,Snatch,600,False
+17,KAWASAKI Kokona,JPN,"Dec 15, 2007",49.00,B,60,- 63,- 63,60,49kgWomen,Snatch,600,False
+18,DEIRERAGEA Jo-Beth,NRU,"Dec 25, 2007",49.00,B,55,58,59,59,49kgWomen,Snatch,600,False
+19,PHILLIPS Amelia,USA,"Apr 17, 2009",49.00,B,58,- 60,- 60,58,49kgWomen,Snatch,600,False
+20,HUYNH Celine Nhu,AUS,"Jul 11, 2007",49.00,B,55,- 58,- 58,55,49kgWomen,Snatch,600,False
+21,LOWE KING Isabella Lee,AUS,"May 16, 2007",49.00,B,55,- 57,- 57,55,49kgWomen,Snatch,600,False
+22,HERRERA LOPEZ Danna,CRC,"Jan 17, 2008",49.00,B,45,48,- 50,48,49kgWomen,Snatch,600,False
+1,GONZALEZ BORREGO Lucia,ESP,"Jan 15, 2007",48.54,A,- 91,91,93,93,49kgWomen,CleanJerk,600,False
+2,DE LIMA SANTOS Beatriz Kamille,BRA,"Feb 29, 2008",48.83,A,87,- 90,91,91,49kgWomen,CleanJerk,600,False
+3,AMANOVA Ogulshat,TKM,"Nov 29, 2009",48.72,A,89,- 91,91,91,49kgWomen,CleanJerk,600,False
+4,KOCHETOVA Margot,FRA,"Oct 02, 2008",48.73,A,84,87,89,89,49kgWomen,CleanJerk,600,False
+5,OLIVERA ASPAJO Katerin Tatiana,PER,"May 10, 2007",48.67,A,86,88,- 90,88,49kgWomen,CleanJerk,600,False
+6,DHONE Asmita,IND,"May 01, 2007",49.00,A,81,85,88,88,49kgWomen,CleanJerk,600,False
+7,ABDELFATTAH Habiba Saad Madih,EGY,"Aug 30, 2007",48.91,A,82,87,- 90,87,49kgWomen,CleanJerk,600,False
+8,MAY DZUL Kenia Germayony,MEX,"Sep 19, 2007",49.00,A,- 86,86,- 90,86,49kgWomen,CleanJerk,600,False
+9,STRATOUDAKI Maria,GRE,"Jun 05, 2008",48.60,A,85,- 90,- 92,85,49kgWomen,CleanJerk,600,False
+10,BHARGAVI B,IND,"Feb 19, 2009",49.00,A,83,- 87,- 88,83,49kgWomen,CleanJerk,600,False
+11,CUPP Brynn,USA,"Sep 06, 2007",47.97,B,77,- 79,80,80,49kgWomen,CleanJerk,600,False
+12,PARRA PARRA Mayra,COL,"Feb 10, 2007",48.98,A,77,80,- 82,80,49kgWomen,CleanJerk,600,False
+13,GOMEZ SOSA Evelyn,ESP,"Sep 09, 2009",48.45,A,78,- 82,- 82,78,49kgWomen,CleanJerk,600,False
+14,PAN Mei-Chin,TPE,"Nov 18, 2009",48.98,B,73,77,- 80,77,49kgWomen,CleanJerk,600,False
+15,PHILLIPS Amelia,USA,"Apr 17, 2009",49.00,B,72,74,76,76,49kgWomen,CleanJerk,600,False
+16,DEGEZ Florette,FRA,"Oct 10, 2008",48.70,B,- 74,- 74,75,75,49kgWomen,CleanJerk,600,False
+17,CHIRINO PINERO Valeria Valentina,VEN,"May 06, 2008",48.91,B,70,73,- 75,73,49kgWomen,CleanJerk,600,False
+18,DEIRERAGEA Jo-Beth,NRU,"Dec 25, 2007",49.00,B,68,70,- 73,70,49kgWomen,CleanJerk,600,False
+19,KAWASAKI Kokona,JPN,"Dec 15, 2007",49.00,B,69,- 71,- 71,69,49kgWomen,CleanJerk,600,False
+20,HUYNH Celine Nhu,AUS,"Jul 11, 2007",49.00,B,68,- 71,- 73,68,49kgWomen,CleanJerk,600,False
+21,LOWE KING Isabella Lee,AUS,"May 16, 2007",49.00,B,68,- 71,- 72,68,49kgWomen,CleanJerk,600,False
+22,HERRERA LOPEZ Danna,CRC,"Jan 17, 2008",49.00,B,55,58,60,60,49kgWomen,CleanJerk,600,False
+1,GONZALEZ BORREGO Lucia,ESP,"Jan 15, 2007",48.54,A,76,93,169,---,49kgWomen,Total,600,False
+2,AMANOVA Ogulshat,TKM,"Nov 29, 2009",48.72,A,77,91,168,---,49kgWomen,Total,600,False
+3,KOCHETOVA Margot,FRA,"Oct 02, 2008",48.73,A,74,89,163,---,49kgWomen,Total,600,False
+4,DE LIMA SANTOS Beatriz Kamille,BRA,"Feb 29, 2008",48.83,A,71,91,162,---,49kgWomen,Total,600,False
+5,MAY DZUL Kenia Germayony,MEX,"Sep 19, 2007",49.00,A,73,86,159,---,49kgWomen,Total,600,False
+6,OLIVERA ASPAJO Katerin Tatiana,PER,"May 10, 2007",48.67,A,70,88,158,---,49kgWomen,Total,600,False
+7,STRATOUDAKI Maria,GRE,"Jun 05, 2008",48.60,A,72,85,157,---,49kgWomen,Total,600,False
+8,ABDELFATTAH Habiba Saad Madih,EGY,"Aug 30, 2007",48.91,A,69,87,156,---,49kgWomen,Total,600,False
+9,DHONE Asmita,IND,"May 01, 2007",49.00,A,63,88,151,---,49kgWomen,Total,600,False
+10,BHARGAVI B,IND,"Feb 19, 2009",49.00,A,65,83,148,---,49kgWomen,Total,600,False
+11,GOMEZ SOSA Evelyn,ESP,"Sep 09, 2009",48.45,A,69,78,147,---,49kgWomen,Total,600,False
+12,CUPP Brynn,USA,"Sep 06, 2007",47.97,B,65,80,145,---,49kgWomen,Total,600,False
+13,PARRA PARRA Mayra,COL,"Feb 10, 2007",48.98,A,65,80,145,---,49kgWomen,Total,600,False
+14,PAN Mei-Chin,TPE,"Nov 18, 2009",48.98,B,63,77,140,---,49kgWomen,Total,600,False
+15,DEGEZ Florette,FRA,"Oct 10, 2008",48.70,B,64,75,139,---,49kgWomen,Total,600,False
+16,CHIRINO PINERO Valeria Valentina,VEN,"May 06, 2008",48.91,B,61,73,134,---,49kgWomen,Total,600,False
+17,PHILLIPS Amelia,USA,"Apr 17, 2009",49.00,B,58,76,134,---,49kgWomen,Total,600,False
+18,KAWASAKI Kokona,JPN,"Dec 15, 2007",49.00,B,60,69,129,---,49kgWomen,Total,600,False
+19,DEIRERAGEA Jo-Beth,NRU,"Dec 25, 2007",49.00,B,59,70,129,---,49kgWomen,Total,600,False
+20,HUYNH Celine Nhu,AUS,"Jul 11, 2007",49.00,B,55,68,123,---,49kgWomen,Total,600,False
+21,LOWE KING Isabella Lee,AUS,"May 16, 2007",49.00,B,55,68,123,---,49kgWomen,Total,600,False
+22,HERRERA LOPEZ Danna,CRC,"Jan 17, 2008",49.00,B,48,60,108,---,49kgWomen,Total,600,False
+1,COJOCARU Nicoleta,MDA,"Nov 05, 2009",54.78,A,- 76,77,80,80,55kgWomen,Snatch,600,False
+2,SATO Waka,JPN,"Apr 22, 2007",55.00,A,76,- 78,79,79,55kgWomen,Snatch,600,False
+3,ABDELLATIF Marim Khaled,EGY,"Apr 21, 2007",54.72,A,74,78,- 81,78,55kgWomen,Snatch,600,False
+4,SILVA FERNNDEZ Ivanis Alejandra,VEN,"May 28, 2008",53.90,A,73,75,77,77,55kgWomen,Snatch,600,False
+5,MORALES Jade Angeline,USA,"Sep 24, 2007",54.72,A,72,- 76,76,76,55kgWomen,Snatch,600,False
+6,LOPEZ PONCIANO Kelly Alexandra,MEX,"Apr 06, 2008",53.87,A,74,- 77,- 78,74,55kgWomen,Snatch,600,False
+7,ELEFTERIADI Lyudmila,UZB,"Apr 08, 2007",54.71,A,- 74,74,- 77,74,55kgWomen,Snatch,600,False
+8,MOLINA BECKER Yashira,ARG,"Jun 21, 2009",53.80,B,68,71,73,73,55kgWomen,Snatch,600,False
+9,POLANCO BUONAFONA Roxines,VEN,"Apr 01, 2007",52.56,A,73,- 76,- 77,73,55kgWomen,Snatch,600,False
+10,MLYNARCZYK Andzelika,POL,"Nov 02, 2007",54.83,A,- 71,72,- 75,72,55kgWomen,Snatch,600,False
+11,DIAZ RUZ Sharon,COL,"Apr 05, 2008",53.76,B,65,- 68,- 68,65,55kgWomen,Snatch,600,False
+12,HURMENOVA Mayagozel,TKM,"Jan 19, 2008",54.37,B,- 63,63,65,65,55kgWomen,Snatch,600,False
+13,MICHI ANGULO Lizquet Ingrish,PER,"Jan 11, 2009",51.51,B,53,56,58,58,55kgWomen,Snatch,600,False
+14,JIRON DIAZ Ernnesty Jumaly,NCA,"Nov 08, 2007",51.21,B,- 57,57,- 60,57,55kgWomen,Snatch,600,False
+15,VASQUEZ JACOB Eloisa Carolina,BOL,"Apr 15, 2007",54.26,B,- 56,56,- 60,56,55kgWomen,Snatch,600,False
+---,PEREZ VARGAS Jineth Carolina,COL,"Jun 03, 2007",54.55,A,---,---,---,---,55kgWomen,Snatch,600,False
+---,WAIPHOD Phuttharak,THA,"Sep 26, 2007",54.75,A,- 76,- 76,- 76,---,55kgWomen,Snatch,600,False
+1,COJOCARU Nicoleta,MDA,"Nov 05, 2009",54.78,A,96,100,103,103,55kgWomen,CleanJerk,600,False
+2,SATO Waka,JPN,"Apr 22, 2007",55.00,A,100,-105,-105,100,55kgWomen,CleanJerk,600,False
+3,WAIPHOD Phuttharak,THA,"Sep 26, 2007",54.75,A,95,100,-102,100,55kgWomen,CleanJerk,600,False
+4,POLANCO BUONAFONA Roxines,VEN,"Apr 01, 2007",52.56,A,- 93,93,100,100,55kgWomen,CleanJerk,600,False
+5,MORALES Jade Angeline,USA,"Sep 24, 2007",54.72,A,95,99,-101,99,55kgWomen,CleanJerk,600,False
+6,LOPEZ PONCIANO Kelly Alexandra,MEX,"Apr 06, 2008",53.87,A,93,96,-100,96,55kgWomen,CleanJerk,600,False
+7,ELEFTERIADI Lyudmila,UZB,"Apr 08, 2007",54.71,A,- 93,93,- 98,93,55kgWomen,CleanJerk,600,False
+8,SILVA FERNNDEZ Ivanis Alejandra,VEN,"May 28, 2008",53.90,A,82,88,92,92,55kgWomen,CleanJerk,600,False
+9,MOLINA BECKER Yashira,ARG,"Jun 21, 2009",53.80,B,- 86,86,91,91,55kgWomen,CleanJerk,600,False
+10,DIAZ RUZ Sharon,COL,"Apr 05, 2008",53.76,B,85,90,- 92,90,55kgWomen,CleanJerk,600,False
+11,MLYNARCZYK Andzelika,POL,"Nov 02, 2007",54.83,A,87,- 93,- 93,87,55kgWomen,CleanJerk,600,False
+12,HURMENOVA Mayagozel,TKM,"Jan 19, 2008",54.37,B,75,79,- 82,79,55kgWomen,CleanJerk,600,False
+13,VASQUEZ JACOB Eloisa Carolina,BOL,"Apr 15, 2007",54.26,B,74,77,- 80,77,55kgWomen,CleanJerk,600,False
+14,JIRON DIAZ Ernnesty Jumaly,NCA,"Nov 08, 2007",51.21,B,65,- 71,71,71,55kgWomen,CleanJerk,600,False
+15,MICHI ANGULO Lizquet Ingrish,PER,"Jan 11, 2009",51.51,B,66,70,- 72,70,55kgWomen,CleanJerk,600,False
+---,PEREZ VARGAS Jineth Carolina,COL,"Jun 03, 2007",54.55,A,---,---,---,---,55kgWomen,CleanJerk,600,False
+---,ABDELLATIF Marim Khaled,EGY,"Apr 21, 2007",54.72,A,- 93,- 93,- 93,---,55kgWomen,CleanJerk,600,False
+1,COJOCARU Nicoleta,MDA,"Nov 05, 2009",54.78,A,80,103,183,---,55kgWomen,Total,600,False
+2,SATO Waka,JPN,"Apr 22, 2007",55.00,A,79,100,179,---,55kgWomen,Total,600,False
+3,MORALES Jade Angeline,USA,"Sep 24, 2007",54.72,A,76,99,175,---,55kgWomen,Total,600,False
+4,POLANCO BUONAFONA Roxines,VEN,"Apr 01, 2007",52.56,A,73,100,173,---,55kgWomen,Total,600,False
+5,LOPEZ PONCIANO Kelly Alexandra,MEX,"Apr 06, 2008",53.87,A,74,96,170,---,55kgWomen,Total,600,False
+6,SILVA FERNNDEZ Ivanis Alejandra,VEN,"May 28, 2008",53.90,A,77,92,169,---,55kgWomen,Total,600,False
+7,ELEFTERIADI Lyudmila,UZB,"Apr 08, 2007",54.71,A,74,93,167,---,55kgWomen,Total,600,False
+8,MOLINA BECKER Yashira,ARG,"Jun 21, 2009",53.80,B,73,91,164,---,55kgWomen,Total,600,False
+9,MLYNARCZYK Andzelika,POL,"Nov 02, 2007",54.83,A,72,87,159,---,55kgWomen,Total,600,False
+10,DIAZ RUZ Sharon,COL,"Apr 05, 2008",53.76,B,65,90,155,---,55kgWomen,Total,600,False
+11,HURMENOVA Mayagozel,TKM,"Jan 19, 2008",54.37,B,65,79,144,---,55kgWomen,Total,600,False
+12,VASQUEZ JACOB Eloisa Carolina,BOL,"Apr 15, 2007",54.26,B,56,77,133,---,55kgWomen,Total,600,False
+13,MICHI ANGULO Lizquet Ingrish,PER,"Jan 11, 2009",51.51,B,58,70,128,---,55kgWomen,Total,600,False
+14,JIRON DIAZ Ernnesty Jumaly,NCA,"Nov 08, 2007",51.21,B,57,71,128,---,55kgWomen,Total,600,False
+---,PEREZ VARGAS Jineth Carolina,COL,"Jun 03, 2007",54.55,A,---,---,---,---,55kgWomen,Total,600,False
+---,WAIPHOD Phuttharak,THA,"Sep 26, 2007",54.75,A,---,100,---,---,55kgWomen,Total,600,False
+---,ABDELLATIF Marim Khaled,EGY,"Apr 21, 2007",54.72,A,78,---,---,---,55kgWomen,Total,600,False
+1,CASADEVALL Maria Paz,ARG,"Jul 26, 2007",58.38,A,81,83,86,86,59kgWomen,Snatch,600,False
+2,DADERKO Alina,UKR,"Aug 07, 2007",58.55,A,82,84,- 86,84,59kgWomen,Snatch,600,False
+3,ABDUMUTALOVA Marjona,UZB,"May 28, 2008",58.09,A,80,- 82,82,82,59kgWomen,Snatch,600,False
+4,BALABAYUK Darya,KAZ,"Jan 17, 2007",58.72,A,78,81,- 83,81,59kgWomen,Snatch,600,False
+5,CONEO SANCHEZ Yara Luz,COL,"Jan 02, 2007",58.37,A,- 76,76,- 78,76,59kgWomen,Snatch,600,False
+6,GALVAO PEREIRA Andrada,BEL,"Aug 29, 2008",58.75,A,70,- 75,75,75,59kgWomen,Snatch,600,False
+7,HECK Emma Maresa,USA,"Mar 07, 2007",59.00,A,- 74,74,- 78,74,59kgWomen,Snatch,600,False
+8,DAVIS Phoebe,GBR,"Feb 13, 2008",58.37,A,72,- 75,- 75,72,59kgWomen,Snatch,600,False
+9,RICE Gracie Taylor,USA,"Jan 26, 2007",58.72,B,65,68,- 71,68,59kgWomen,Snatch,600,False
+10,SOYMUSHEVA Zybagul,TKM,"Jan 14, 2008",58.56,B,63,66,- 68,66,59kgWomen,Snatch,600,False
+11,SILVA RAMIREZ Mayumi Gimena,PER,"Jan 27, 2007",57.55,B,65,- 68,- 69,65,59kgWomen,Snatch,600,False
+---,KANTOROVA Laura,CZE,"Mar 09, 2008",59.00,B,- 64,- 64,- 65,---,59kgWomen,Snatch,600,False
+1,CASADEVALL Maria Paz,ARG,"Jul 26, 2007",58.38,A,100,103,106,106,59kgWomen,CleanJerk,600,False
+2,ABDUMUTALOVA Marjona,UZB,"May 28, 2008",58.09,A,100,-103,-103,100,59kgWomen,CleanJerk,600,False
+3,DADERKO Alina,UKR,"Aug 07, 2007",58.55,A,97,-100,100,100,59kgWomen,CleanJerk,600,False
+4,BALABAYUK Darya,KAZ,"Jan 17, 2007",58.72,A,- 98,99,-102,99,59kgWomen,CleanJerk,600,False
+5,HECK Emma Maresa,USA,"Mar 07, 2007",59.00,A,94,98,-101,98,59kgWomen,CleanJerk,600,False
+6,CONEO SANCHEZ Yara Luz,COL,"Jan 02, 2007",58.37,A,93,97,-101,97,59kgWomen,CleanJerk,600,False
+7,GALVAO PEREIRA Andrada,BEL,"Aug 29, 2008",58.75,A,88,93,- 95,93,59kgWomen,CleanJerk,600,False
+8,RICE Gracie Taylor,USA,"Jan 26, 2007",58.72,B,83,86,- 90,86,59kgWomen,CleanJerk,600,False
+9,SOYMUSHEVA Zybagul,TKM,"Jan 14, 2008",58.56,B,79,82,85,85,59kgWomen,CleanJerk,600,False
+10,KANTOROVA Laura,CZE,"Mar 09, 2008",59.00,B,- 78,81,- 86,81,59kgWomen,CleanJerk,600,False
+11,DAVIS Phoebe,GBR,"Feb 13, 2008",58.37,A,81,- 83,- 83,81,59kgWomen,CleanJerk,600,False
+12,SILVA RAMIREZ Mayumi Gimena,PER,"Jan 27, 2007",57.55,B,77,80,- 83,80,59kgWomen,CleanJerk,600,False
+1,CASADEVALL Maria Paz,ARG,"Jul 26, 2007",58.38,A,86,106,192,---,59kgWomen,Total,600,False
+2,DADERKO Alina,UKR,"Aug 07, 2007",58.55,A,84,100,184,---,59kgWomen,Total,600,False
+3,ABDUMUTALOVA Marjona,UZB,"May 28, 2008",58.09,A,82,100,182,---,59kgWomen,Total,600,False
+4,BALABAYUK Darya,KAZ,"Jan 17, 2007",58.72,A,81,99,180,---,59kgWomen,Total,600,False
+5,CONEO SANCHEZ Yara Luz,COL,"Jan 02, 2007",58.37,A,76,97,173,---,59kgWomen,Total,600,False
+6,HECK Emma Maresa,USA,"Mar 07, 2007",59.00,A,74,98,172,---,59kgWomen,Total,600,False
+7,GALVAO PEREIRA Andrada,BEL,"Aug 29, 2008",58.75,A,75,93,168,---,59kgWomen,Total,600,False
+8,RICE Gracie Taylor,USA,"Jan 26, 2007",58.72,B,68,86,154,---,59kgWomen,Total,600,False
+9,DAVIS Phoebe,GBR,"Feb 13, 2008",58.37,A,72,81,153,---,59kgWomen,Total,600,False
+10,SOYMUSHEVA Zybagul,TKM,"Jan 14, 2008",58.56,B,66,85,151,---,59kgWomen,Total,600,False
+11,SILVA RAMIREZ Mayumi Gimena,PER,"Jan 27, 2007",57.55,B,65,80,145,---,59kgWomen,Total,600,False
+---,KANTOROVA Laura,CZE,"Mar 09, 2008",59.00,B,---,81,---,---,59kgWomen,Total,600,False
+1,FEMLIY Crystie Notte,NRU,"Apr 25, 2009",63.51,A,86,90,- 92,90,64kgWomen,Snatch,600,False
+2,RENGIFO CHIRINOS Claudia Alejandra,VEN,"Dec 01, 2007",63.67,A,89,- 92,- 92,89,64kgWomen,Snatch,600,False
+3,KOZ Tugbanur,TUR,"Feb 07, 2007",64.00,A,85,88,- 91,88,64kgWomen,Snatch,600,False
+4,MISAKYAN Meri,ARM,"Apr 19, 2007",63.64,A,80,84,- 86,84,64kgWomen,Snatch,600,False
+5,CHOINSKA Julia,POL,"Nov 01, 2007",63.99,A,80,83,- 86,83,64kgWomen,Snatch,600,False
+6,AKAR Yezda,TUR,"Feb 10, 2007",64.00,A,77,80,83,83,64kgWomen,Snatch,600,False
+7,MINDA DE LA CRUZ Melany Gessel,ECU,"Jul 10, 2007",64.00,B,75,80,- 82,80,64kgWomen,Snatch,600,False
+8,MIRAMONTES PONCE Lidett,MEX,"Jan 22, 2007",63.76,A,78,- 81,- 83,78,64kgWomen,Snatch,600,False
+9,UVALLE FERNANDEZ Monica Joselyn,MEX,"Jan 04, 2007",61.06,A,72,- 75,75,75,64kgWomen,Snatch,600,False
+10,CABRERA ESTEVEZ Claudia,ESP,"Aug 24, 2007",63.47,B,- 70,70,73,73,64kgWomen,Snatch,600,False
+11,ZAVACKA Rachel,SVK,"Aug 11, 2008",62.51,A,69,72,- 74,72,64kgWomen,Snatch,600,False
+12,SANDS Autumn,USA,"May 22, 2008",63.15,B,- 70,- 70,71,71,64kgWomen,Snatch,600,False
+13,MALDONADO VELEZ Jazmin Marie,PUR,"May 06, 2007",63.53,B,50,55,60,60,64kgWomen,Snatch,600,False
+14,GAMARRA GRADOS Abril,PER,"Apr 25, 2009",62.97,B,53,56,- 60,56,64kgWomen,Snatch,600,False
+1,RENGIFO CHIRINOS Claudia Alejandra,VEN,"Dec 01, 2007",63.67,A,109,-112,113,113,64kgWomen,CleanJerk,600,False
+2,FEMLIY Crystie Notte,NRU,"Apr 25, 2009",63.51,A,108,111,-114,111,64kgWomen,CleanJerk,600,False
+3,MIRAMONTES PONCE Lidett,MEX,"Jan 22, 2007",63.76,A,106,110,-113,110,64kgWomen,CleanJerk,600,False
+4,AKAR Yezda,TUR,"Feb 10, 2007",64.00,A,106,-110,-111,106,64kgWomen,CleanJerk,600,False
+5,KOZ Tugbanur,TUR,"Feb 07, 2007",64.00,A,95,102,105,105,64kgWomen,CleanJerk,600,False
+6,MISAKYAN Meri,ARM,"Apr 19, 2007",63.64,A,102,-110,-110,102,64kgWomen,CleanJerk,600,False
+7,CHOINSKA Julia,POL,"Nov 01, 2007",63.99,A,95,99,102,102,64kgWomen,CleanJerk,600,False
+8,CABRERA ESTEVEZ Claudia,ESP,"Aug 24, 2007",63.47,B,95,98,100,100,64kgWomen,CleanJerk,600,False
+9,UVALLE FERNANDEZ Monica Joselyn,MEX,"Jan 04, 2007",61.06,A,92,95,- 99,95,64kgWomen,CleanJerk,600,False
+10,SANDS Autumn,USA,"May 22, 2008",63.15,B,90,- 93,- 93,90,64kgWomen,CleanJerk,600,False
+11,ZAVACKA Rachel,SVK,"Aug 11, 2008",62.51,A,86,- 90,90,90,64kgWomen,CleanJerk,600,False
+12,MALDONADO VELEZ Jazmin Marie,PUR,"May 06, 2007",63.53,B,70,75,78,78,64kgWomen,CleanJerk,600,False
+13,GAMARRA GRADOS Abril,PER,"Apr 25, 2009",62.97,B,66,70,73,73,64kgWomen,CleanJerk,600,False
+---,MINDA DE LA CRUZ Melany Gessel,ECU,"Jul 10, 2007",64.00,B,---,---,---,---,64kgWomen,CleanJerk,600,False
+1,RENGIFO CHIRINOS Claudia Alejandra,VEN,"Dec 01, 2007",63.67,A,89,113,202,---,64kgWomen,Total,600,False
+2,FEMLIY Crystie Notte,NRU,"Apr 25, 2009",63.51,A,90,111,201,---,64kgWomen,Total,600,False
+3,KOZ Tugbanur,TUR,"Feb 07, 2007",64.00,A,88,105,193,---,64kgWomen,Total,600,False
+4,AKAR Yezda,TUR,"Feb 10, 2007",64.00,A,83,106,189,---,64kgWomen,Total,600,False
+5,MIRAMONTES PONCE Lidett,MEX,"Jan 22, 2007",63.76,A,78,110,188,---,64kgWomen,Total,600,False
+6,MISAKYAN Meri,ARM,"Apr 19, 2007",63.64,A,84,102,186,---,64kgWomen,Total,600,False
+7,CHOINSKA Julia,POL,"Nov 01, 2007",63.99,A,83,102,185,---,64kgWomen,Total,600,False
+8,CABRERA ESTEVEZ Claudia,ESP,"Aug 24, 2007",63.47,B,73,100,173,---,64kgWomen,Total,600,False
+9,UVALLE FERNANDEZ Monica Joselyn,MEX,"Jan 04, 2007",61.06,A,75,95,170,---,64kgWomen,Total,600,False
+10,ZAVACKA Rachel,SVK,"Aug 11, 2008",62.51,A,72,90,162,---,64kgWomen,Total,600,False
+11,SANDS Autumn,USA,"May 22, 2008",63.15,B,71,90,161,---,64kgWomen,Total,600,False
+12,MALDONADO VELEZ Jazmin Marie,PUR,"May 06, 2007",63.53,B,60,78,138,---,64kgWomen,Total,600,False
+13,GAMARRA GRADOS Abril,PER,"Apr 25, 2009",62.97,B,56,73,129,---,64kgWomen,Total,600,False
+---,MINDA DE LA CRUZ Melany Gessel,ECU,"Jul 10, 2007",64.00,B,80,---,---,---,64kgWomen,Total,600,False
+1,ABDELKADER HANIN Elsayed Mohamed,EGY,"Apr 16, 2007",70.91,A,83,87,90,90,71kgWomen,Snatch,600,False
+2,OCHOA RODRIGUEZ Sahara Yeismar,VEN,"Aug 06, 2007",70.70,A,86,89,- 91,89,71kgWomen,Snatch,600,False
+3,BURDA Iga,POL,"Oct 12, 2008",70.98,A,85,88,- 91,88,71kgWomen,Snatch,600,False
+4,BJORNSDOTTIR Bergros,ISL,"Feb 06, 2007",70.32,A,85,88,- 91,88,71kgWomen,Snatch,600,False
+5,FAYZULLAEVA Dilnoza,UZB,"Aug 11, 2007",70.93,A,85,- 88,- 88,85,71kgWomen,Snatch,600,False
+6,ROSHER Madeline,GBR,"Jan 18, 2007",70.23,A,- 85,85,- 88,85,71kgWomen,Snatch,600,False
+7,CERVANTES RODRIGUEZ Camila,MEX,"Aug 15, 2007",69.54,A,80,- 84,85,85,71kgWomen,Snatch,600,False
+8,SANTANA CANSINO Athenea,ESP,"Aug 30, 2007",69.43,A,84,- 87,- 89,84,71kgWomen,Snatch,600,False
+9,PAKOTI Taiamoni Latu Lotu Lelei,AUS,"Nov 14, 2007",67.66,A,76,81,84,84,71kgWomen,Snatch,600,False
+10,MORALES ALICEA Itzel Sophia,PUR,"Oct 16, 2007",66.66,B,- 76,76,80,80,71kgWomen,Snatch,600,False
+11,CHEN Tzu-Wei,TPE,"Sep 12, 2007",70.53,B,- 75,75,78,78,71kgWomen,Snatch,600,False
+12,MAYORGA IGOR Constanza Muriel A,CHI,"Feb 15, 2007",70.16,A,73,- 78,78,78,71kgWomen,Snatch,600,False
+13,BUZZELL Brooke,USA,"Feb 13, 2008",67.81,B,71,74,77,77,71kgWomen,Snatch,600,False
+14,APARICIO LEON Kelly Joan,PAN,"Apr 09, 2007",69.80,B,75,- 79,- 80,75,71kgWomen,Snatch,600,False
+15,CHAO Hao-Yu,TPE,"Jun 19, 2007",70.65,B,73,- 78,- 79,73,71kgWomen,Snatch,600,False
+16,AGNEW Madeleine,NZL,"Sep 19, 2007",69.41,B,70,73,- 76,73,71kgWomen,Snatch,600,False
+17,SAAVEDRA PEREYRA Romina,PER,"Mar 03, 2007",65.35,B,60,63,65,65,71kgWomen,Snatch,600,False
+18,QUINONES ANGELI Mia Robexi,PUR,"Mar 06, 2007",71.00,B,60,- 65,- 67,60,71kgWomen,Snatch,600,False
+19,PALACIOS HERNANDEZ Damaris Nahomi,PER,"Jan 06, 2007",67.77,B,55,58,60,60,71kgWomen,Snatch,600,False
+20,GONZALES RODRIGUEZ Isabella,CRC,"May 07, 2009",68.27,B,53,57,- 60,57,71kgWomen,Snatch,600,False
+1,CERVANTES RODRIGUEZ Camila,MEX,"Aug 15, 2007",69.54,A,108,112,-115,112,71kgWomen,CleanJerk,600,False
+2,OCHOA RODRIGUEZ Sahara Yeismar,VEN,"Aug 06, 2007",70.70,A,109,112,-115,112,71kgWomen,CleanJerk,600,False
+3,BJORNSDOTTIR Bergros,ISL,"Feb 06, 2007",70.32,A,110,-114,-115,110,71kgWomen,CleanJerk,600,False
+4,SANTANA CANSINO Athenea,ESP,"Aug 30, 2007",69.43,A,105,108,-111,108,71kgWomen,CleanJerk,600,False
+5,BURDA Iga,POL,"Oct 12, 2008",70.98,A,104,-108,108,108,71kgWomen,CleanJerk,600,False
+6,ROSHER Madeline,GBR,"Jan 18, 2007",70.23,A,103,106,-110,106,71kgWomen,CleanJerk,600,False
+7,PAKOTI Taiamoni Latu Lotu Lelei,AUS,"Nov 14, 2007",67.66,A,-100,100,105,105,71kgWomen,CleanJerk,600,False
+8,ABDELKADER HANIN Elsayed Mohamed,EGY,"Apr 16, 2007",70.91,A,103,-107,-108,103,71kgWomen,CleanJerk,600,False
+9,FAYZULLAEVA Dilnoza,UZB,"Aug 11, 2007",70.93,A,103,-106,-106,103,71kgWomen,CleanJerk,600,False
+10,APARICIO LEON Kelly Joan,PAN,"Apr 09, 2007",69.80,B,97,100,102,102,71kgWomen,CleanJerk,600,False
+11,MAYORGA IGOR Constanza Muriel A,CHI,"Feb 15, 2007",70.16,A,92,99,100,100,71kgWomen,CleanJerk,600,False
+12,AGNEW Madeleine,NZL,"Sep 19, 2007",69.41,B,92,- 96,99,99,71kgWomen,CleanJerk,600,False
+13,BUZZELL Brooke,USA,"Feb 13, 2008",67.81,B,93,- 97,98,98,71kgWomen,CleanJerk,600,False
+14,CHEN Tzu-Wei,TPE,"Sep 12, 2007",70.53,B,- 95,95,- 98,95,71kgWomen,CleanJerk,600,False
+15,MORALES ALICEA Itzel Sophia,PUR,"Oct 16, 2007",66.66,B,- 93,93,- 95,93,71kgWomen,CleanJerk,600,False
+16,CHAO Hao-Yu,TPE,"Jun 19, 2007",70.65,B,86,- 99,-101,86,71kgWomen,CleanJerk,600,False
+17,QUINONES ANGELI Mia Robexi,PUR,"Mar 06, 2007",71.00,B,75,80,85,85,71kgWomen,CleanJerk,600,False
+18,SAAVEDRA PEREYRA Romina,PER,"Mar 03, 2007",65.35,B,76,- 80,81,81,71kgWomen,CleanJerk,600,False
+19,PALACIOS HERNANDEZ Damaris Nahomi,PER,"Jan 06, 2007",67.77,B,72,76,80,80,71kgWomen,CleanJerk,600,False
+20,GONZALES RODRIGUEZ Isabella,CRC,"May 07, 2009",68.27,B,65,- 70,70,70,71kgWomen,CleanJerk,600,False
+1,OCHOA RODRIGUEZ Sahara Yeismar,VEN,"Aug 06, 2007",70.70,A,89,112,201,---,71kgWomen,Total,600,False
+2,BJORNSDOTTIR Bergros,ISL,"Feb 06, 2007",70.32,A,88,110,198,---,71kgWomen,Total,600,False
+3,CERVANTES RODRIGUEZ Camila,MEX,"Aug 15, 2007",69.54,A,85,112,197,---,71kgWomen,Total,600,False
+4,BURDA Iga,POL,"Oct 12, 2008",70.98,A,88,108,196,---,71kgWomen,Total,600,False
+5,ABDELKADER HANIN Elsayed Mohamed,EGY,"Apr 16, 2007",70.91,A,90,103,193,---,71kgWomen,Total,600,False
+6,SANTANA CANSINO Athenea,ESP,"Aug 30, 2007",69.43,A,84,108,192,---,71kgWomen,Total,600,False
+7,ROSHER Madeline,GBR,"Jan 18, 2007",70.23,A,85,106,191,---,71kgWomen,Total,600,False
+8,PAKOTI Taiamoni Latu Lotu Lelei,AUS,"Nov 14, 2007",67.66,A,84,105,189,---,71kgWomen,Total,600,False
+9,FAYZULLAEVA Dilnoza,UZB,"Aug 11, 2007",70.93,A,85,103,188,---,71kgWomen,Total,600,False
+10,MAYORGA IGOR Constanza Muriel A,CHI,"Feb 15, 2007",70.16,A,78,100,178,---,71kgWomen,Total,600,False
+11,APARICIO LEON Kelly Joan,PAN,"Apr 09, 2007",69.80,B,75,102,177,---,71kgWomen,Total,600,False
+12,BUZZELL Brooke,USA,"Feb 13, 2008",67.81,B,77,98,175,---,71kgWomen,Total,600,False
+13,MORALES ALICEA Itzel Sophia,PUR,"Oct 16, 2007",66.66,B,80,93,173,---,71kgWomen,Total,600,False
+14,CHEN Tzu-Wei,TPE,"Sep 12, 2007",70.53,B,78,95,173,---,71kgWomen,Total,600,False
+15,AGNEW Madeleine,NZL,"Sep 19, 2007",69.41,B,73,99,172,---,71kgWomen,Total,600,False
+16,CHAO Hao-Yu,TPE,"Jun 19, 2007",70.65,B,73,86,159,---,71kgWomen,Total,600,False
+17,SAAVEDRA PEREYRA Romina,PER,"Mar 03, 2007",65.35,B,65,81,146,---,71kgWomen,Total,600,False
+18,QUINONES ANGELI Mia Robexi,PUR,"Mar 06, 2007",71.00,B,60,85,145,---,71kgWomen,Total,600,False
+19,PALACIOS HERNANDEZ Damaris Nahomi,PER,"Jan 06, 2007",67.77,B,60,80,140,---,71kgWomen,Total,600,False
+20,GONZALES RODRIGUEZ Isabella,CRC,"May 07, 2009",68.27,B,57,70,127,---,71kgWomen,Total,600,False
+1,ZHUMAGALI Ayanat,KAZ,"Feb 11, 2007",74.47,A,90,94,97,97,76kgWomen,Snatch,600,False
+2,HORMAVIRTA Minni Maria Alexandra,FIN,"Sep 08, 2008",74.05,A,88,91,- 95,91,76kgWomen,Snatch,600,False
+3,SANJANA,IND,"Jan 18, 2007",75.61,A,- 87,87,90,90,76kgWomen,Snatch,600,False
+4,INIGUEZ ROSALES Valeria Alejandra,MEX,"Dec 21, 2007",74.85,A,83,87,- 90,87,76kgWomen,Snatch,600,False
+5,GOK Hilal,TUR,"Jun 05, 2007",75.74,A,86,- 89,- 91,86,76kgWomen,Snatch,600,False
+6,SEGURA SOLIS Maricela,COL,"Jan 22, 2007",75.12,A,82,85,- 88,85,76kgWomen,Snatch,600,False
+7,PEHLIVAN Zeynep Nur,TUR,"Sep 06, 2008",75.63,A,79,83,- 88,83,76kgWomen,Snatch,600,False
+8,CIBRIAN RODRIGUEZ Paola Fernanda,MEX,"Jun 24, 2008",71.66,A,77,80,82,82,76kgWomen,Snatch,600,False
+1,ZHUMAGALI Ayanat,KAZ,"Feb 11, 2007",74.47,A,117,121,125,125,76kgWomen,CleanJerk,600,False
+2,SANJANA,IND,"Jan 18, 2007",75.61,A,112,116,120,120,76kgWomen,CleanJerk,600,False
+3,HORMAVIRTA Minni Maria Alexandra,FIN,"Sep 08, 2008",74.05,A,114,118,120,120,76kgWomen,CleanJerk,600,False
+4,INIGUEZ ROSALES Valeria Alejandra,MEX,"Dec 21, 2007",74.85,A,106,110,113,113,76kgWomen,CleanJerk,600,False
+5,SEGURA SOLIS Maricela,COL,"Jan 22, 2007",75.12,A,105,-110,-114,105,76kgWomen,CleanJerk,600,False
+6,CIBRIAN RODRIGUEZ Paola Fernanda,MEX,"Jun 24, 2008",71.66,A,99,-104,-104,99,76kgWomen,CleanJerk,600,False
+7,GOK Hilal,TUR,"Jun 05, 2007",75.74,A,97,-100,-100,97,76kgWomen,CleanJerk,600,False
+---,PEHLIVAN Zeynep Nur,TUR,"Sep 06, 2008",75.63,A,-107,-107,-111,---,76kgWomen,CleanJerk,600,False
+1,ZHUMAGALI Ayanat,KAZ,"Feb 11, 2007",74.47,A,97,125,222,---,76kgWomen,Total,600,False
+2,HORMAVIRTA Minni Maria Alexandra,FIN,"Sep 08, 2008",74.05,A,91,120,211,---,76kgWomen,Total,600,False
+3,SANJANA,IND,"Jan 18, 2007",75.61,A,90,120,210,---,76kgWomen,Total,600,False
+4,INIGUEZ ROSALES Valeria Alejandra,MEX,"Dec 21, 2007",74.85,A,87,113,200,---,76kgWomen,Total,600,False
+5,SEGURA SOLIS Maricela,COL,"Jan 22, 2007",75.12,A,85,105,190,---,76kgWomen,Total,600,False
+6,GOK Hilal,TUR,"Jun 05, 2007",75.74,A,86,97,183,---,76kgWomen,Total,600,False
+7,CIBRIAN RODRIGUEZ Paola Fernanda,MEX,"Jun 24, 2008",71.66,A,82,99,181,---,76kgWomen,Total,600,False
+---,PEHLIVAN Zeynep Nur,TUR,"Sep 06, 2008",75.63,A,83,---,---,---,76kgWomen,Total,600,False
+1,APARICIO ALFONZO Lidysmar Del Valle,VEN,"Jun 30, 2009",78.77,A,87,91,94,94,81kgWomen,Snatch,600,False
+2,ROCHA GRIMALDI RIZZO Laila,BRA,"Jun 19, 2007",78.12,A,87,90,- 92,90,81kgWomen,Snatch,600,False
+3,DAL BO Sara,ITA,"May 27, 2009",81.00,A,85,- 90,90,90,81kgWomen,Snatch,600,False
+4,ORMANBAYEVA Saniya,KAZ,"Dec 28, 2007",81.00,A,86,89,- 92,89,81kgWomen,Snatch,600,False
+5,ABDELHAMID Gebreel Zeinab,EGY,"Mar 25, 2007",79.86,A,80,85,- 88,85,81kgWomen,Snatch,600,False
+6,MACHNIEWSKA Julia Lena,POL,"Feb 12, 2007",80.50,A,81,84,- 87,84,81kgWomen,Snatch,600,False
+7,HERRERA LEMUS Heidy Melissa,COL,"Oct 11, 2007",79.71,A,78,81,- 85,81,81kgWomen,Snatch,600,False
+8,BARRIENTOS Victoria,CHI,"Feb 28, 2008",80.27,A,73,78,- 82,78,81kgWomen,Snatch,600,False
+9,APAYDIN Berranur,TUR,"Aug 27, 2007",80.75,A,- 75,- 75,76,76,81kgWomen,Snatch,600,False
+10,MARTINEZ TREJO Lucero De Los Angeles,NCA,"Jan 28, 2007",80.70,A,65,72,- 78,72,81kgWomen,Snatch,600,False
+11,ZAMORA SANCHEZ Camila De Los Angeles,PER,"Dec 17, 2008",79.42,A,55,59,62,62,81kgWomen,Snatch,600,False
+1,DAL BO Sara,ITA,"May 27, 2009",81.00,A,110,-117,117,117,81kgWomen,CleanJerk,600,False
+2,ORMANBAYEVA Saniya,KAZ,"Dec 28, 2007",81.00,A,112,-119,-119,112,81kgWomen,CleanJerk,600,False
+3,APARICIO ALFONZO Lidysmar Del Valle,VEN,"Jun 30, 2009",78.77,A,108,-112,112,112,81kgWomen,CleanJerk,600,False
+4,ABDELHAMID Gebreel Zeinab,EGY,"Mar 25, 2007",79.86,A,105,111,-113,111,81kgWomen,CleanJerk,600,False
+5,MACHNIEWSKA Julia Lena,POL,"Feb 12, 2007",80.50,A,101,105,108,108,81kgWomen,CleanJerk,600,False
+6,ROCHA GRIMALDI RIZZO Laila,BRA,"Jun 19, 2007",78.12,A,101,-106,106,106,81kgWomen,CleanJerk,600,False
+7,MARTINEZ TREJO Lucero De Los Angeles,NCA,"Jan 28, 2007",80.70,A,87,93,99,99,81kgWomen,CleanJerk,600,False
+8,BARRIENTOS Victoria,CHI,"Feb 28, 2008",80.27,A,93,98,-101,98,81kgWomen,CleanJerk,600,False
+9,APAYDIN Berranur,TUR,"Aug 27, 2007",80.75,A,93,97,- 99,97,81kgWomen,CleanJerk,600,False
+10,HERRERA LEMUS Heidy Melissa,COL,"Oct 11, 2007",79.71,A,95,-100,-100,95,81kgWomen,CleanJerk,600,False
+11,ZAMORA SANCHEZ Camila De Los Angeles,PER,"Dec 17, 2008",79.42,A,75,79,- 82,79,81kgWomen,CleanJerk,600,False
+1,DAL BO Sara,ITA,"May 27, 2009",81.00,A,90,117,207,---,81kgWomen,Total,600,False
+2,APARICIO ALFONZO Lidysmar Del Valle,VEN,"Jun 30, 2009",78.77,A,94,112,206,---,81kgWomen,Total,600,False
+3,ORMANBAYEVA Saniya,KAZ,"Dec 28, 2007",81.00,A,89,112,201,---,81kgWomen,Total,600,False
+4,ROCHA GRIMALDI RIZZO Laila,BRA,"Jun 19, 2007",78.12,A,90,106,196,---,81kgWomen,Total,600,False
+5,ABDELHAMID Gebreel Zeinab,EGY,"Mar 25, 2007",79.86,A,85,111,196,---,81kgWomen,Total,600,False
+6,MACHNIEWSKA Julia Lena,POL,"Feb 12, 2007",80.50,A,84,108,192,---,81kgWomen,Total,600,False
+7,HERRERA LEMUS Heidy Melissa,COL,"Oct 11, 2007",79.71,A,81,95,176,---,81kgWomen,Total,600,False
+8,BARRIENTOS Victoria,CHI,"Feb 28, 2008",80.27,A,78,98,176,---,81kgWomen,Total,600,False
+9,APAYDIN Berranur,TUR,"Aug 27, 2007",80.75,A,76,97,173,---,81kgWomen,Total,600,False
+10,MARTINEZ TREJO Lucero De Los Angeles,NCA,"Jan 28, 2007",80.70,A,72,99,171,---,81kgWomen,Total,600,False
+11,ZAMORA SANCHEZ Camila De Los Angeles,PER,"Dec 17, 2008",79.42,A,62,79,141,---,81kgWomen,Total,600,False
+1,LOVE Etta Mae,CAN,"Aug 28, 2007",128.99,A,100,105,-109,105,+81kgWomen,Snatch,600,False
+2,MENDOZA SALAZAR Barbara Nazaret,VEN,"Jun 30, 2008",97.85,A,88,92,95,95,+81kgWomen,Snatch,600,False
+3,NACAGILEVU Litia Sipola,NZL,"Sep 29, 2007",85.04,A,90,94,- 97,94,+81kgWomen,Snatch,600,False
+4,BILLEN Angel,CAN,"Sep 17, 2007",110.09,A,90,- 94,94,94,+81kgWomen,Snatch,600,False
+5,KOZAK Sofiia,UKR,"Oct 19, 2007",84.07,A,91,- 94,- 95,91,+81kgWomen,Snatch,600,False
+6,MANCILLA MONTANO Karen Dayanna,COL,"Jan 10, 2008",108.00,A,85,88,91,91,+81kgWomen,Snatch,600,False
+7,SU Sheng-Ci,TPE,"Apr 04, 2009",113.26,A,80,84,87,87,+81kgWomen,Snatch,600,False
+8,KING Mollie,NZL,"Jan 14, 2008",111.87,A,78,82,84,84,+81kgWomen,Snatch,600,False
+9,CASTRO NAZARENO Thaira Eliana,ECU,"Sep 01, 2009",81.47,A,78,81,- 85,81,+81kgWomen,Snatch,600,False
+10,PRANTS Inger Iris,EST,"Jul 15, 2009",90.87,A,- 65,- 65,65,65,+81kgWomen,Snatch,600,False
+11,TERRONES MIRANDA Danna Cristina,PER,"May 03, 2007",81.90,A,54,58,- 61,58,+81kgWomen,Snatch,600,False
+1,LOVE Etta Mae,CAN,"Aug 28, 2007",128.99,A,126,132,138,138,+81kgWomen,CleanJerk,600,False
+2,BILLEN Angel,CAN,"Sep 17, 2007",110.09,A,117,120,125,125,+81kgWomen,CleanJerk,600,False
+3,SU Sheng-Ci,TPE,"Apr 04, 2009",113.26,A,110,115,118,118,+81kgWomen,CleanJerk,600,False
+4,MANCILLA MONTANO Karen Dayanna,COL,"Jan 10, 2008",108.00,A,108,113,117,117,+81kgWomen,CleanJerk,600,False
+5,KOZAK Sofiia,UKR,"Oct 19, 2007",84.07,A,110,114,-118,114,+81kgWomen,CleanJerk,600,False
+6,MENDOZA SALAZAR Barbara Nazaret,VEN,"Jun 30, 2008",97.85,A,109,112,-115,112,+81kgWomen,CleanJerk,600,False
+7,NACAGILEVU Litia Sipola,NZL,"Sep 29, 2007",85.04,A,105,110,---,110,+81kgWomen,CleanJerk,600,False
+8,KING Mollie,NZL,"Jan 14, 2008",111.87,A,97,-101,105,105,+81kgWomen,CleanJerk,600,False
+9,CASTRO NAZARENO Thaira Eliana,ECU,"Sep 01, 2009",81.47,A,90,94,97,97,+81kgWomen,CleanJerk,600,False
+10,PRANTS Inger Iris,EST,"Jul 15, 2009",90.87,A,76,80,- 83,80,+81kgWomen,CleanJerk,600,False
+11,TERRONES MIRANDA Danna Cristina,PER,"May 03, 2007",81.90,A,63,67,71,71,+81kgWomen,CleanJerk,600,False
+1,LOVE Etta Mae,CAN,"Aug 28, 2007",128.99,A,105,138,243,---,+81kgWomen,Total,600,False
+2,BILLEN Angel,CAN,"Sep 17, 2007",110.09,A,94,125,219,---,+81kgWomen,Total,600,False
+3,MANCILLA MONTANO Karen Dayanna,COL,"Jan 10, 2008",108.00,A,91,117,208,---,+81kgWomen,Total,600,False
+4,MENDOZA SALAZAR Barbara Nazaret,VEN,"Jun 30, 2008",97.85,A,95,112,207,---,+81kgWomen,Total,600,False
+5,KOZAK Sofiia,UKR,"Oct 19, 2007",84.07,A,91,114,205,---,+81kgWomen,Total,600,False
+6,SU Sheng-Ci,TPE,"Apr 04, 2009",113.26,A,87,118,205,---,+81kgWomen,Total,600,False
+7,NACAGILEVU Litia Sipola,NZL,"Sep 29, 2007",85.04,A,94,110,204,---,+81kgWomen,Total,600,False
+8,KING Mollie,NZL,"Jan 14, 2008",111.87,A,84,105,189,---,+81kgWomen,Total,600,False
+9,CASTRO NAZARENO Thaira Eliana,ECU,"Sep 01, 2009",81.47,A,81,97,178,---,+81kgWomen,Total,600,False
+10,PRANTS Inger Iris,EST,"Jul 15, 2009",90.87,A,65,80,145,---,+81kgWomen,Total,600,False
+11,TERRONES MIRANDA Danna Cristina,PER,"May 03, 2007",81.90,A,58,71,129,---,+81kgWomen,Total,600,False
