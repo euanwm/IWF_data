@@ -1,133 +1,133 @@
 total_rank,snatch_rank,cleanjerk_rank,name,athlete_id,date_of_birth,age,gender,nation,group,bw,category,dq,old_classes,event_id,event,date,snatch_lift1,snatch_lift2,snatch_lift3,snatch_best,cleanjerk_lift1,cleanjerk_lift2,cleanjerk_lift3,cleanjerk_best,total
-1,1,1,BIZAMA CONEJERO Alonso Javier,2322,2004-11-10,19.6,M,CHI,A,142.3,+109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,145,150,154,154,185,194,-201,194,348
-2,2,2,ROSERO ARBOLEDA Luis Gerardo,14259,2005-11-03,18.6,M,ECU,A,127.5,+109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,130,140,-151,140,170,180,-190,180,320
-3,3,3,ESPINOSA Luis Alberto,4918,2006-11-30,17.6,M,VEN,A,117.1,+109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,120,-131,NA,120,158,NA,NA,158,278
-1,2,1,JUSTINO DE LIMA Taiane,7721,2004-02-16,20.3,W,BRA,A,128.5,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-103,104,106,106,135,-146,NA,135,241
-2,1,2,PAVEZ MIRANDA Arantzazu Elizabeth A,12825,2004-11-23,19.6,W,CHI,A,115.1,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,100,-105,107,107,120,129,133,133,240
-3,3,3,TYSFOROD RIVAS Yairan Sofia,16867,2005-12-19,18.5,W,COL,A,124.3,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-102,102,105,105,128,-132,132,132,237
-4,4,5,PAVON FUENTES Leidy Pamela,12835,2005-03-02,19.3,W,ECU,A,119.3,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,90,94,94,-115,115,120,120,214
-5,6,4,BILLEN Angel,2288,2007-09-17,16.8,W,CAN,A,109.3,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,90,-95,-95,90,123,-128,-128,123,213
-6,5,6,MENDOZA SALAZAR Barbara Nazaret,10755,2008-06-30,16,W,VEN,A,99.3,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,86,91,-95,91,105,-111,-112,105,196
-1,1,1,DE SOUSA PESSANHA Matheus,4120,2005-08-27,18.8,M,BRA,A,100.3,102 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,150,155,157,157,193,198,201,201,358
-2,2,2,MUNOZ RIOS Sergio Alexander,11484,2004-03-03,20.3,M,COL,A,96.9,102 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-151,151,156,156,192,197,-201,197,353
-3,3,3,MONTOYA MAYO Ronaldo Andres,11226,2006-03-10,18.3,M,VEN,A,96.9,102 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,125,133,-137,133,-156,156,162,162,295
-1,1,2,DIAZ MERCADO Daniel David,4306,2004-02-10,20.4,M,COL,A,107.5,109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,150,-156,-157,150,180,186,-188,186,336
-2,2,1,REIS Colin James,13796,2004-01-13,20.4,M,USA,A,108.5,109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,-140,140,140,175,182,187,187,327
-3,3,3,ALOMIA FERRIN Hans Nikolay,936,2005-06-04,19,M,ECU,A,106.4,109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,125,-130,130,130,157,165,170,170,300
-1,1,1,ESTRADA VELEZ Lawren Sofia,4941,2007-01-06,17.5,W,COL,A,44.5,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,64,67,-70,67,82,86,-88,86,153
-2,3,2,RONDON Maria,14222,2005-03-24,19.2,W,VEN,A,44.3,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,58,-61,61,61,-75,75,78,78,139
-3,2,3,ARREAGA CHICA Samantha Dalila,1410,2005-03-21,19.2,W,ECU,A,44.8,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,57,60,62,62,71,75,-78,75,137
-4,4,4,CARDONA Nafer,2951,2006-07-28,17.9,W,COL,A,44.4,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,48,52,55,55,63,67,70,70,125
-5,5,5,ORTEGA Martina,12399,2009-06-10,15,W,CHI,A,44.5,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,30,35,-37,35,-40,40,-45,40,75
-1,1,2,MONTILLA MADRID Kerlys Maria,11223,2005-04-17,19.2,W,VEN,A,48.5,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,72,74,76,76,94,-97,-97,94,170
-2,2,3,LOPEZ ALVAREZ Karoll Dahyanne,9705,2004-01-15,20.4,W,COL,A,48.9,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,70,73,75,75,88,91,94,94,169
-3,3,1,RODRIGUEZ Isabella Mia,14117,2004-01-11,20.4,W,USA,A,48.9,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-72,-72,72,72,96,-99,-99,96,168
-4,4,5,OLIVERA ASPAJO Katerin Tatiana,12283,2007-05-10,17.1,W,PER,A,48.7,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,68,-71,71,71,86,88,90,90,161
-5,5,4,ALVAREZ GREFA Thaily Sadek,1033,2004-08-26,19.8,W,ECU,A,48.9,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,66,69,-71,69,85,90,-92,90,159
-6,6,6,COTUA KATIUSKA Ilona Ortiz,3753,2006-07-06,18,W,COL,A,48.5,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,60,63,66,66,75,78,81,81,147
-7,7,7,MENDOZA ALCANTARA July Alexandra,10742,2006-09-09,17.8,W,ESA,A,47.5,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,55,-60,-60,55,70,-73,73,73,128
-1,1,1,MEZA Domingo Francisco,10826,2006-12-19,17.5,M,ARG,A,54.8,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-96,96,99,99,-122,122,125,125,224
-2,2,2,SOLORZANO CARMONA Angello Rafael,15656,2004-09-16,19.8,M,VEN,A,55,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,95,98,-100,98,117,120,124,124,222
-3,3,4,HORTIGUERA Bruno,6846,2005-09-06,18.8,M,URU,A,54.5,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,92,96,-100,96,111,115,118,118,214
-4,4,3,GRIJALBA SARRIA Yilver Esteban,6046,2006-09-15,17.8,M,COL,A,54.5,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,95,-98,-99,95,115,118,-121,118,213
-5,6,6,JORDAN Elkin,7636,2005-06-18,19,M,ECU,A,55,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-95,95,-99,95,112,116,-119,116,211
-6,5,7,ANDRADE RODRIGUEZ Samuel,1176,2007-05-17,17.1,M,COL,A,54.7,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,95,-98,-98,95,112,-116,116,116,211
-7,8,5,INUMA ROJAS Michael Angel,7213,2006-05-22,18.1,M,PER,A,54.6,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-87,-87,87,87,112,116,-119,116,203
-8,7,8,RIOS CHUMBE Nol Jermis,13966,2004-08-21,19.8,M,PER,A,55,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,90,93,-96,93,-106,-106,106,106,199
-1,1,1,TORRES GOMEZ Gelen Yulieth,16626,2006-02-14,18.3,W,COL,A,54.1,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,78,81,85,85,-93,93,97,97,182
-2,2,3,FERNANDEZ Violeta,5187,2005-12-21,18.5,W,PAR,A,53.7,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,74,78,-80,78,90,-93,-93,90,168
-3,3,2,BATISTA Eiliana,1970,2004-05-01,20.1,W,DOM,A,54.9,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-71,71,74,74,-92,-93,93,93,167
-4,4,4,CALIXTO Karelis,2829,2006-06-27,18,W,ECU,A,54.1,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,67,70,73,73,85,90,-92,90,163
-5,5,5,ROMAN Carolina,14197,2005-02-06,19.4,W,URU,A,53.7,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,58,-62,62,62,73,78,82,82,144
-1,1,1,ULREY Miranda Eleanor,16918,2004-09-23,19.7,W,USA,A,58.3,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,94,97,-99,97,114,-118,-118,114,211
-2,2,2,VIEIRA RODRIGUES Julia,17294,2004-05-17,20.1,W,BRA,A,58.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,83,87,88,88,-104,104,108,108,196
-3,4,4,JIMENEZ CARRENO Yilihannys Griselina,7552,2006-09-28,17.7,W,VEN,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,77,80,82,82,98,102,105,105,187
-4,6,3,MONCAYO FUENTES Brithany Judith,11193,2006-05-10,18.1,W,ECU,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-80,-80,80,80,100,105,-108,105,185
-5,5,5,ARRIOJA DOMINGUEZ Marialouis A,1417,2004-07-26,19.9,W,VEN,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-77,77,81,81,97,101,103,103,184
-6,7,6,GOMEZ RAMOS Seylind,5844,2004-01-24,20.4,W,DOM,A,59,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-77,-77,77,77,99,-103,-103,99,176
-7,8,7,GONZALEZ Safka,5905,2004-07-19,19.9,W,CHI,A,58.1,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-70,70,73,73,90,-94,-94,90,163
-8,9,8,GONZALEZ Wendy,5914,2008-07-02,16,W,ECU,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,70,-73,73,73,88,90,-95,90,163
-9,11,9,SILVA RAMIREZ Mayumi Gimena,15399,2007-01-27,17.4,W,PER,A,58.5,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,65,-68,-68,65,76,81,84,84,149
-10,10,10,ARIAS RODRIGUEZ Bianca Paulette A,1368,2008-07-03,16,W,CHI,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-67,67,-71,67,80,-85,-86,80,147
-NA,3,NA,PAPAS Kailey,12698,2005-07-25,18.9,W,USA,A,58.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-88,-88,88,88,-108,-108,-108,NA,NA
-1,2,1,CHHUM Gabe,3383,2004-01-31,20.4,M,USA,A,60.8,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-120,121,-126,121,152,-157,NA,152,273
-2,1,2,GONZALEZ MARMOLEJO Jose Eber,5896,2005-06-19,19,M,COL,A,60.3,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,119,122,-125,122,133,138,142,142,264
-3,3,3,RINCON NARANJO Santiago,13961,2006-05-12,18.1,M,COL,A,60.8,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,107,-109,110,110,133,-138,-138,133,243
-4,4,4,TORRES Vasquez Benjamin Aquiles J,16632,2005-07-23,18.9,M,CHI,A,60.9,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,102,-106,107,107,132,-137,-137,132,239
-5,5,5,VARGAS CAMPOS Dionangel David,17141,2007-09-07,16.8,M,VEN,A,60.7,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,103,106,-108,106,125,-131,132,132,238
-6,6,7,RIVERA GAMEZ Abraham Jose,13998,2004-11-24,19.6,M,VEN,A,60.1,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-105,105,-109,105,-130,130,-134,130,235
-7,8,6,RUIZ DIAZ Tobias Ali,14344,2005-02-20,19.3,M,ARG,A,60.1,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,95,-100,-100,95,126,-130,131,131,226
-8,7,9,SEPULVEDA ARANEDA Luis Yacier,15059,2008-08-13,15.8,M,CHI,A,60.8,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,90,95,97,97,110,115,120,120,217
-9,9,8,"NAHSHON Paul",11625,2004-10-14,19.7,M,USA,A,60.9,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,86,90,-95,90,115,120,-125,120,210
-1,2,1,ESTEP Katharine Emily,4938,2004-08-18,19.8,W,USA,A,63.3,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,94,96,98,98,116,120,122,122,220
-2,1,2,SEGURA GRUESO Ingrid Vanesa,14997,2006-06-29,18,W,COL,A,63.7,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,94,97,99,99,-120,-120,120,120,219
-3,3,3,PALACIOS DAJOME Jessica Isabel,12600,2006-01-03,18.5,W,ECU,A,63.9,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,88,-93,93,93,115,-120,-121,115,208
-4,4,4,RENGIFO CHIRINOS Claudia Alejandra,13816,2007-12-01,16.5,W,VEN,A,63.7,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-90,90,-93,90,108,111,114,114,204
-5,6,5,GIMENEZ Martina,5737,2004-04-24,20.2,W,ARG,A,63.5,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,84,88,-91,88,109,113,-115,113,201
-6,5,7,DA SILVA PIOVESAN Marcella,3868,2005-09-15,18.8,W,BRA,A,63.5,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,83,88,-91,88,100,105,-110,105,193
-7,7,6,SIERRA Anna,15361,2005-04-21,19.2,W,USA,A,60.7,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,77,80,83,83,104,108,-111,108,191
-8,8,8,BARRY Katelyn,1925,2004-11-02,19.6,W,CAN,A,63.1,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,79,81,83,83,95,99,101,101,184
-9,10,9,PAREDES VASQUEZ Jheysi Dayana,12736,2006-06-17,18,W,PER,A,63.5,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,72,-75,-75,72,92,96,-99,96,168
-10,9,10,PREM REGALADO Ariana Evelina,13357,2004-10-14,19.7,W,GUA,A,63.1,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,70,74,-78,74,85,91,93,93,167
-1,2,1,MARQUEZ LUCES Fabian Jose,10345,2004-06-15,20,M,VEN,A,65.9,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,121,127,130,130,155,159,162,162,292
-2,1,2,CAICEDO SOLIS Daniel Stiven,2798,2004-01-27,20.4,M,COL,A,66.3,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,125,128,131,131,155,-160,160,160,291
-3,3,3,VERA Darwin,17262,2006-04-11,18.2,M,ECU,A,65.9,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,113,117,-120,117,140,145,149,149,266
-4,4,5,RIQUELME Benjamin,13974,2005-07-30,18.9,M,CHI,A,65.9,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,107,-112,-114,107,133,137,-142,137,244
-5,5,6,KING Marco,8440,2009-05-18,15.1,M,CHI,A,65.1,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,90,94,96,96,105,110,115,115,211
-NA,NA,4,POLVERINI Dominik Anthony,13247,2004-04-16,20.2,M,USA,A,65.7,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-114,-114,-114,NA,140,145,-150,145,NA
-1,1,1,SIMONEAU Charlotte,15434,2005-05-30,19.1,W,CAN,A,70.7,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,100,104,107,107,123,127,-130,127,234
-2,2,2,"NAZARENO Damaris",11784,2005-04-12,19.2,W,ECU,A,70.1,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,99,-103,-104,99,115,119,121,121,220
-3,3,4,CAAMANO Nicole,2750,2005-09-09,18.8,W,USA,A,70.3,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,96,-100,-101,96,115,-120,-122,115,211
-4,6,3,TRINH Haley C,16713,2004-09-08,19.8,W,USA,A,67.5,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,84,87,89,89,108,112,116,116,205
-5,7,5,TORRES RAIN Karina Elizabeth,16631,2005-04-26,19.1,W,CHI,A,67.9,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,-89,89,89,110,115,-117,115,204
-6,4,7,AYALA Milena Madelein,1626,2006-09-20,17.7,W,ARG,A,68.1,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,89,91,91,105,109,112,112,203
-7,5,6,SILVA FERNANDEZ Keily Carolina,15389,2006-08-04,17.9,W,VEN,A,65.3,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,89,-92,-92,89,108,113,-116,113,202
-8,8,8,MAYORGA IGOR Constanza Muriel A,10554,2007-02-15,17.3,W,CHI,A,69.7,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,73,77,80,80,93,98,100,100,180
-9,9,9,APARICIO LEON Kelly Joan,1282,2007-04-09,17.2,W,PAN,A,69.3,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,75,78,-81,78,95,99,-102,99,177
-10,10,10,FERNANDEZ MORI Jamile Sofia,5180,2004-04-24,20.2,W,PER,A,67.7,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,70,73,75,75,88,92,94,94,169
-1,1,1,CAHOY Caden Taiyo,2790,2004-01-31,20.4,M,USA,A,72.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,139,143,143,170,178,182,182,325
-2,2,2,OLIVARES Sebastian,12276,2004-11-27,19.6,M,COL,A,70.3,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-132,132,136,136,163,167,-175,167,303
-3,3,3,ARANGO MENDEZ Reinner Josue,1323,2004-03-24,20.2,M,VEN,A,71.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,131,-135,-135,131,160,-166,-168,160,291
-4,4,4,MCDONALD Ryan Patrick,10597,2007-03-13,17.3,M,USA,A,72.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,122,-127,127,127,151,-157,-161,151,278
-5,7,5,ESTUPINAN VACACELA Erick Wellington,4944,2005-01-06,19.5,M,ECU,A,69.9,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,112,116,-119,116,143,-147,149,149,265
-6,6,6,BOGADO Kyle,2367,2006-03-20,18.2,M,PAR,A,71.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,110,116,-119,116,-145,145,148,148,264
-7,5,9,ELIZALDE CASTRO Franchesco Joel,4753,2005-06-13,19,M,PER,A,72.1,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-117,117,120,120,140,-145,-145,140,260
-8,8,7,SILVA ANGULO Hidver,15385,2005-02-28,19.3,M,PER,A,72.5,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,108,111,-115,111,140,144,-148,144,255
-9,9,8,TORRES VASQUEZ Sebastian Ignacio,16633,2006-12-21,17.5,M,CHI,A,72.3,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-110,110,-117,110,140,-146,-146,140,250
-10,10,10,RECABARREN Bastian,13764,2006-05-28,18.1,M,CHI,A,71.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,98,103,107,107,120,125,-128,125,232
-1,1,1,NICHOLSON Ella,11931,2006-07-07,18,W,USA,A,74.3,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,100,-105,110,110,125,-130,-134,125,235
-2,3,2,CERQUERA MONTOYA Ivanna Gabriela,3113,2006-01-27,18.4,W,COL,A,73.9,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,88,91,93,93,114,118,121,121,214
-3,4,3,BALLARD Alyssa Marie,1816,2004-08-18,19.8,W,USA,A,75.5,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-88,88,92,92,115,119,-123,119,211
-4,2,5,BEAOUDIN Rose,2031,2006-08-26,17.8,W,CAN,A,75.5,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,87,90,93,93,107,110,113,113,206
-5,5,4,OCHOA RODRIGUEZ Sahara Yeismar,12175,2007-08-06,16.9,W,VEN,A,72.5,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,-89,-89,85,105,110,114,114,199
-6,6,6,ANTIL FICA Fernanda,1256,2004-11-04,19.6,W,CHI,A,75.3,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,75,79,81,81,95,100,-104,100,181
-7,7,7,MORENO Isidora,11278,2007-07-08,16.9,W,CHI,A,71.5,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-67,67,-72,67,85,-90,90,90,157
-1,1,2,SENA Jhon,15037,2005-02-15,19.3,M,COL,A,79.9,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,145,150,-154,150,-170,-173,173,173,323
-2,3,1,BOLES Hutton,2389,2004-07-22,19.9,M,USA,A,80.1,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,137,-142,144,144,163,169,174,174,318
-3,2,3,RODRIGUEZ Angel,14089,2006-08-24,17.8,M,VEN,A,78.3,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,140,146,-151,146,165,170,-175,170,316
-4,6,4,OLIVERA DELFINO Ramiro Valentin,12285,2006-08-05,17.9,M,ARG,A,76.3,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,110,-115,115,115,153,161,-168,161,276
-5,5,5,MARMANILLO LAZO Frank Josue,10334,2004-01-15,20.4,M,PER,A,79.3,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,120,125,-130,125,150,-155,-155,150,275
-6,8,6,PEREZ Marco,12959,2007-02-23,17.3,M,CHI,A,76.3,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,100,105,110,110,125,130,135,135,245
-NA,4,NA,MEDINA PINZON Jorge Luis,10656,2004-06-08,20,M,PAN,A,80.6,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-124,124,128,128,-150,-150,-150,NA,NA
-NA,7,NA,VALDIZON CRUZ Jonathan Fernando,17058,2006-12-28,17.5,M,GUA,A,79.7,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,108,113,-117,113,-138,-140,-140,NA,NA
-1,1,2,BOLANOS GANGULA Martha Salome,2380,2006-07-24,17.9,W,ECU,A,77.7,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,89,92,92,105,109,113,113,205
-2,3,1,SEGURA SOLIS Maricela,15002,2007-01-22,17.4,W,COL,A,78.7,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,80,83,-87,83,110,114,-117,114,197
-3,2,3,APARICIO ALFONZO Lidysmar Del Valle,1280,2009-06-30,15,W,VEN,A,79.7,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,86,-90,-90,86,107,110,-114,110,196
-4,5,4,DE LEON CARDOZA Beverly Shanen,4093,2006-03-09,18.3,W,GUA,A,76.3,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,75,80,82,82,98,100,102,102,184
-5,4,5,BARRIENTOS Victoria,1915,2008-02-28,16.3,W,CHI,A,80.1,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,78,-83,83,83,-98,98,-102,98,181
-6,6,6,GUERRERO LOPEZ Keren Abigail,6124,2005-10-14,18.7,W,ESA,A,79.5,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,68,71,-73,71,88,90,NA,90,161
-1,2,1,RUIZ CRUZ Valeria,14341,2004-04-19,20.2,W,COL,A,86.5,87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,94,-98,98,98,116,120,125,125,223
-2,1,2,ROBLES Amanda Denise,14056,2004-07-29,19.9,W,USA,A,86.9,87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,95,99,-103,99,114,118,123,123,222
-3,3,3,HENRIQUEZ DIAZ Zoreannys Valeria,6595,2004-01-28,20.4,W,VEN,A,86.5,87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-87,87,92,92,-105,-105,105,105,197
-4,4,4,ROJAS Valentina,14186,2008-04-11,16.2,W,CHI,A,85.1,87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,75,79,-83,79,95,100,-105,100,179
-1,1,1,ALBORNOZ Jokser,685,2004-04-30,20.1,M,COL,A,87.3,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,150,-155,155,155,177,181,NA,181,336
-2,2,3,LOAIZA MEDINA Mauricio Osvaldo,9646,2006-12-15,17.5,M,VEN,A,84.5,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,139,143,143,168,173,176,176,319
-3,3,4,RAMOS DIAZ Felipe,13672,2005-06-23,19,M,BRA,A,87.9,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,137,142,-145,142,173,-179,-180,173,315
-4,5,2,RAMIREZ MARTINEZ Elkin Shamir,13651,2005-12-16,18.5,M,ECU,A,88.7,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,-139,-139,135,170,174,178,178,313
-5,4,5,MARTIN JR Kyle Justin,10368,2006-10-16,17.7,M,USA,A,88.9,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,138,142,-144,142,170,-174,-175,170,312
-6,6,6,MORENO Matias,11282,2009-04-29,15.1,M,CHI,A,88.9,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,116,121,125,125,146,156,160,160,285
-1,2,1,DAVIS JR Timothy Allen,4027,2004-02-17,20.3,M,USA,A,91.9,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-138,138,143,143,175,181,-187,181,324
-2,1,2,DIAZ CANGA Luis Alfredo,4287,2004-05-10,20.1,M,ECU,A,91.6,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,140,144,144,165,171,173,173,317
-3,3,3,UPMEYER George,16941,2004-11-09,19.6,M,USA,A,95.7,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,136,-141,142,142,168,172,-176,172,314
-4,4,4,LEON Carlos,9350,2005-09-06,18.8,M,VEN,A,94.1,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,133,-137,137,137,164,167,172,172,309
-5,5,5,LOPEZ ORDONEZ Julio Abrahan De J,9746,2004-06-03,20,M,GUA,A,93.9,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,108,113,-117,113,135,-140,140,140,253
+1,1,1,BIZAMA CONEJERO Alonso Javier,2325,2004-11-10,19.6,M,CHI,A,142.3,+109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,145,150,154,154,185,194,-201,194,348
+2,2,2,ROSERO ARBOLEDA Luis Gerardo,14275,2005-11-03,18.6,M,ECU,A,127.5,+109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,130,140,-151,140,170,180,-190,180,320
+3,3,3,ESPINOSA Luis Alberto,4923,2006-11-30,17.6,M,VEN,A,117.1,+109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,120,-131,NA,120,158,NA,NA,158,278
+1,2,1,JUSTINO DE LIMA Taiane,7732,2004-02-16,20.3,W,BRA,A,128.5,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-103,104,106,106,135,-146,NA,135,241
+2,1,2,PAVEZ MIRANDA Arantzazu Elizabeth A,12841,2004-11-23,19.6,W,CHI,A,115.1,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,100,-105,107,107,120,129,133,133,240
+3,3,3,TYSFOROD RIVAS Yairan Sofia,16889,2005-12-19,18.5,W,COL,A,124.3,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-102,102,105,105,128,-132,132,132,237
+4,4,5,PAVON FUENTES Leidy Pamela,12851,2005-03-02,19.3,W,ECU,A,119.3,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,90,94,94,-115,115,120,120,214
+5,6,4,BILLEN Angel,2291,2007-09-17,16.8,W,CAN,A,109.3,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,90,-95,-95,90,123,-128,-128,123,213
+6,5,6,MENDOZA SALAZAR Barbara Nazaret,10769,2008-06-30,16,W,VEN,A,99.3,+87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,86,91,-95,91,105,-111,-112,105,196
+1,1,1,DE SOUSA PESSANHA Matheus,4125,2005-08-27,18.8,M,BRA,A,100.3,102 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,150,155,157,157,193,198,201,201,358
+2,2,2,MUNOZ RIOS Sergio Alexander,11499,2004-03-03,20.3,M,COL,A,96.9,102 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-151,151,156,156,192,197,-201,197,353
+3,3,3,MONTOYA MAYO Ronaldo Andres,11240,2006-03-10,18.3,M,VEN,A,96.9,102 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,125,133,-137,133,-156,156,162,162,295
+1,1,2,DIAZ MERCADO Daniel David,4311,2004-02-10,20.4,M,COL,A,107.5,109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,150,-156,-157,150,180,186,-188,186,336
+2,2,1,REIS Colin James,13812,2004-01-13,20.4,M,USA,A,108.5,109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,-140,140,140,175,182,187,187,327
+3,3,3,ALOMIA FERRIN Hans Nikolay,937,2005-06-04,19,M,ECU,A,106.4,109 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,125,-130,130,130,157,165,170,170,300
+1,1,1,ESTRADA VELEZ Lawren Sofia,4946,2007-01-06,17.5,W,COL,A,44.5,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,64,67,-70,67,82,86,-88,86,153
+2,3,2,RONDON Maria,14238,2005-03-24,19.2,W,VEN,A,44.3,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,58,-61,61,61,-75,75,78,78,139
+3,2,3,ARREAGA CHICA Samantha Dalila,1413,2005-03-21,19.2,W,ECU,A,44.8,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,57,60,62,62,71,75,-78,75,137
+4,4,4,CARDONA Nafer,2955,2006-07-28,17.9,W,COL,A,44.4,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,48,52,55,55,63,67,70,70,125
+5,5,5,ORTEGA Martina,12414,2009-06-10,15,W,CHI,A,44.5,45 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,30,35,-37,35,-40,40,-45,40,75
+1,1,2,MONTILLA MADRID Kerlys Maria,11237,2005-04-17,19.2,W,VEN,A,48.5,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,72,74,76,76,94,-97,-97,94,170
+2,2,3,LOPEZ ALVAREZ Karoll Dahyanne,9718,2004-01-15,20.4,W,COL,A,48.9,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,70,73,75,75,88,91,94,94,169
+3,3,1,RODRIGUEZ Isabella Mia,14133,2004-01-11,20.4,W,USA,A,48.9,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-72,-72,72,72,96,-99,-99,96,168
+4,4,5,OLIVERA ASPAJO Katerin Tatiana,12298,2007-05-10,17.1,W,PER,A,48.7,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,68,-71,71,71,86,88,90,90,161
+5,5,4,ALVAREZ GREFA Thaily Sadek,1034,2004-08-26,19.8,W,ECU,A,48.9,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,66,69,-71,69,85,90,-92,90,159
+6,6,6,COTUA KATIUSKA Ilona Ortiz,3757,2006-07-06,18,W,COL,A,48.5,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,60,63,66,66,75,78,81,81,147
+7,7,7,MENDOZA ALCANTARA July Alexandra,10756,2006-09-09,17.8,W,ESA,A,47.5,49 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,55,-60,-60,55,70,-73,73,73,128
+1,1,1,MEZA Domingo Francisco,10840,2006-12-19,17.5,M,ARG,A,54.8,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-96,96,99,99,-122,122,125,125,224
+2,2,2,SOLORZANO CARMONA Angello Rafael,15677,2004-09-16,19.8,M,VEN,A,55,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,95,98,-100,98,117,120,124,124,222
+3,3,4,HORTIGUERA Bruno,6856,2005-09-06,18.8,M,URU,A,54.5,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,92,96,-100,96,111,115,118,118,214
+4,4,3,GRIJALBA SARRIA Yilver Esteban,6055,2006-09-15,17.8,M,COL,A,54.5,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,95,-98,-99,95,115,118,-121,118,213
+5,6,6,JORDAN Elkin,7647,2005-06-18,19,M,ECU,A,55,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-95,95,-99,95,112,116,-119,116,211
+6,5,7,ANDRADE RODRIGUEZ Samuel,1178,2007-05-17,17.1,M,COL,A,54.7,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,95,-98,-98,95,112,-116,116,116,211
+7,8,5,INUMA ROJAS Michael Angel,7223,2006-05-22,18.1,M,PER,A,54.6,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-87,-87,87,87,112,116,-119,116,203
+8,7,8,RIOS CHUMBE Nol Jermis,13982,2004-08-21,19.8,M,PER,A,55,55 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,90,93,-96,93,-106,-106,106,106,199
+1,1,1,TORRES GOMEZ Gelen Yulieth,16648,2006-02-14,18.3,W,COL,A,54.1,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,78,81,85,85,-93,93,97,97,182
+2,2,3,FERNANDEZ Violeta,5192,2005-12-21,18.5,W,PAR,A,53.7,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,74,78,-80,78,90,-93,-93,90,168
+3,3,2,BATISTA Eiliana,1973,2004-05-01,20.1,W,DOM,A,54.9,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-71,71,74,74,-92,-93,93,93,167
+4,4,4,CALIXTO Karelis,2833,2006-06-27,18,W,ECU,A,54.1,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,67,70,73,73,85,90,-92,90,163
+5,5,5,ROMAN Carolina,14213,2005-02-06,19.4,W,URU,A,53.7,55 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,58,-62,62,62,73,78,82,82,144
+1,1,1,ULREY Miranda Eleanor,16940,2004-09-23,19.7,W,USA,A,58.3,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,94,97,-99,97,114,-118,-118,114,211
+2,2,2,VIEIRA RODRIGUES Julia,17317,2004-05-17,20.1,W,BRA,A,58.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,83,87,88,88,-104,104,108,108,196
+3,4,4,JIMENEZ CARRENO Yilihannys Griselina,7563,2006-09-28,17.7,W,VEN,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,77,80,82,82,98,102,105,105,187
+4,6,3,MONCAYO FUENTES Brithany Judith,11207,2006-05-10,18.1,W,ECU,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-80,-80,80,80,100,105,-108,105,185
+5,5,5,ARRIOJA DOMINGUEZ Marialouis A,1420,2004-07-26,19.9,W,VEN,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-77,77,81,81,97,101,103,103,184
+6,7,6,GOMEZ RAMOS Seylind,5851,2004-01-24,20.4,W,DOM,A,59,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-77,-77,77,77,99,-103,-103,99,176
+7,8,7,GONZALEZ Safka,5913,2004-07-19,19.9,W,CHI,A,58.1,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-70,70,73,73,90,-94,-94,90,163
+8,9,8,GONZALEZ Wendy,5922,2008-07-02,16,W,ECU,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,70,-73,73,73,88,90,-95,90,163
+9,11,9,SILVA RAMIREZ Mayumi Gimena,15420,2007-01-27,17.4,W,PER,A,58.5,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,65,-68,-68,65,76,81,84,84,149
+10,10,10,ARIAS RODRIGUEZ Bianca Paulette A,1371,2008-07-03,16,W,CHI,A,57.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-67,67,-71,67,80,-85,-86,80,147
+NA,3,NA,PAPAS Kailey,12714,2005-07-25,18.9,W,USA,A,58.7,59 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-88,-88,88,88,-108,-108,-108,NA,NA
+1,2,1,CHHUM Gabe,3387,2004-01-31,20.4,M,USA,A,60.8,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-120,121,-126,121,152,-157,NA,152,273
+2,1,2,GONZALEZ MARMOLEJO Jose Eber,5904,2005-06-19,19,M,COL,A,60.3,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,119,122,-125,122,133,138,142,142,264
+3,3,3,RINCON NARANJO Santiago,13977,2006-05-12,18.1,M,COL,A,60.8,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,107,-109,110,110,133,-138,-138,133,243
+4,4,4,TORRES Vasquez Benjamin Aquiles J,16654,2005-07-23,18.9,M,CHI,A,60.9,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,102,-106,107,107,132,-137,-137,132,239
+5,5,5,VARGAS CAMPOS Dionangel David,17163,2007-09-07,16.8,M,VEN,A,60.7,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,103,106,-108,106,125,-131,132,132,238
+6,6,7,RIVERA GAMEZ Abraham Jose,14014,2004-11-24,19.6,M,VEN,A,60.1,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-105,105,-109,105,-130,130,-134,130,235
+7,8,6,RUIZ DIAZ Tobias Ali,14360,2005-02-20,19.3,M,ARG,A,60.1,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,95,-100,-100,95,126,-130,131,131,226
+8,7,9,SEPULVEDA ARANEDA Luis Yacier,15079,2008-08-13,15.8,M,CHI,A,60.8,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,90,95,97,97,110,115,120,120,217
+9,9,8,"NAHSHON Paul",11640,2004-10-14,19.7,M,USA,A,60.9,61 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,86,90,-95,90,115,120,-125,120,210
+1,2,1,ESTEP Katharine Emily,4943,2004-08-18,19.8,W,USA,A,63.3,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,94,96,98,98,116,120,122,122,220
+2,1,2,SEGURA GRUESO Ingrid Vanesa,15017,2006-06-29,18,W,COL,A,63.7,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,94,97,99,99,-120,-120,120,120,219
+3,3,3,PALACIOS DAJOME Jessica Isabel,12616,2006-01-03,18.5,W,ECU,A,63.9,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,88,-93,93,93,115,-120,-121,115,208
+4,4,4,RENGIFO CHIRINOS Claudia Alejandra,13832,2007-12-01,16.5,W,VEN,A,63.7,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-90,90,-93,90,108,111,114,114,204
+5,6,5,GIMENEZ Martina,5744,2004-04-24,20.2,W,ARG,A,63.5,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,84,88,-91,88,109,113,-115,113,201
+6,5,7,DA SILVA PIOVESAN Marcella,3873,2005-09-15,18.8,W,BRA,A,63.5,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,83,88,-91,88,100,105,-110,105,193
+7,7,6,SIERRA Anna,15382,2005-04-21,19.2,W,USA,A,60.7,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,77,80,83,83,104,108,-111,108,191
+8,8,8,BARRY Katelyn,1928,2004-11-02,19.6,W,CAN,A,63.1,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,79,81,83,83,95,99,101,101,184
+9,10,9,PAREDES VASQUEZ Jheysi Dayana,12752,2006-06-17,18,W,PER,A,63.5,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,72,-75,-75,72,92,96,-99,96,168
+10,9,10,PREM REGALADO Ariana Evelina,13373,2004-10-14,19.7,W,GUA,A,63.1,64 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,70,74,-78,74,85,91,93,93,167
+1,2,1,MARQUEZ LUCES Fabian Jose,10359,2004-06-15,20,M,VEN,A,65.9,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,121,127,130,130,155,159,162,162,292
+2,1,2,CAICEDO SOLIS Daniel Stiven,2802,2004-01-27,20.4,M,COL,A,66.3,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,125,128,131,131,155,-160,160,160,291
+3,3,3,VERA Darwin,17284,2006-04-11,18.2,M,ECU,A,65.9,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,113,117,-120,117,140,145,149,149,266
+4,4,5,RIQUELME Benjamin,13990,2005-07-30,18.9,M,CHI,A,65.9,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,107,-112,-114,107,133,137,-142,137,244
+5,5,6,KING Marco,8453,2009-05-18,15.1,M,CHI,A,65.1,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,90,94,96,96,105,110,115,115,211
+NA,NA,4,POLVERINI Dominik Anthony,13263,2004-04-16,20.2,M,USA,A,65.7,67 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-114,-114,-114,NA,140,145,-150,145,NA
+1,1,1,SIMONEAU Charlotte,15455,2005-05-30,19.1,W,CAN,A,70.7,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,100,104,107,107,123,127,-130,127,234
+2,2,2,"NAZARENO Damaris",11799,2005-04-12,19.2,W,ECU,A,70.1,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,99,-103,-104,99,115,119,121,121,220
+3,3,4,CAAMANO Nicole,2753,2005-09-09,18.8,W,USA,A,70.3,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,96,-100,-101,96,115,-120,-122,115,211
+4,6,3,TRINH Haley C,16735,2004-09-08,19.8,W,USA,A,67.5,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,84,87,89,89,108,112,116,116,205
+5,7,5,TORRES RAIN Karina Elizabeth,16653,2005-04-26,19.1,W,CHI,A,67.9,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,-89,89,89,110,115,-117,115,204
+6,4,7,AYALA Milena Madelein,1629,2006-09-20,17.7,W,ARG,A,68.1,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,89,91,91,105,109,112,112,203
+7,5,6,SILVA FERNANDEZ Keily Carolina,15410,2006-08-04,17.9,W,VEN,A,65.3,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,89,-92,-92,89,108,113,-116,113,202
+8,8,8,MAYORGA IGOR Constanza Muriel A,10568,2007-02-15,17.3,W,CHI,A,69.7,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,73,77,80,80,93,98,100,100,180
+9,9,9,APARICIO LEON Kelly Joan,1285,2007-04-09,17.2,W,PAN,A,69.3,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,75,78,-81,78,95,99,-102,99,177
+10,10,10,FERNANDEZ MORI Jamile Sofia,5185,2004-04-24,20.2,W,PER,A,67.7,71 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,70,73,75,75,88,92,94,94,169
+1,1,1,CAHOY Caden Taiyo,2794,2004-01-31,20.4,M,USA,A,72.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,139,143,143,170,178,182,182,325
+2,2,2,OLIVARES Sebastian,12291,2004-11-27,19.6,M,COL,A,70.3,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-132,132,136,136,163,167,-175,167,303
+3,3,3,ARANGO MENDEZ Reinner Josue,1326,2004-03-24,20.2,M,VEN,A,71.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,131,-135,-135,131,160,-166,-168,160,291
+4,4,4,MCDONALD Ryan Patrick,10611,2007-03-13,17.3,M,USA,A,72.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,122,-127,127,127,151,-157,-161,151,278
+5,7,5,ESTUPINAN VACACELA Erick Wellington,4949,2005-01-06,19.5,M,ECU,A,69.9,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,112,116,-119,116,143,-147,149,149,265
+6,6,6,BOGADO Kyle,2370,2006-03-20,18.2,M,PAR,A,71.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,110,116,-119,116,-145,145,148,148,264
+7,5,9,ELIZALDE CASTRO Franchesco Joel,4758,2005-06-13,19,M,PER,A,72.1,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-117,117,120,120,140,-145,-145,140,260
+8,8,7,SILVA ANGULO Hidver,15406,2005-02-28,19.3,M,PER,A,72.5,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,108,111,-115,111,140,144,-148,144,255
+9,9,8,TORRES VASQUEZ Sebastian Ignacio,16655,2006-12-21,17.5,M,CHI,A,72.3,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-110,110,-117,110,140,-146,-146,140,250
+10,10,10,RECABARREN Bastian,13780,2006-05-28,18.1,M,CHI,A,71.7,73 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,98,103,107,107,120,125,-128,125,232
+1,1,1,NICHOLSON Ella,11946,2006-07-07,18,W,USA,A,74.3,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,100,-105,110,110,125,-130,-134,125,235
+2,3,2,CERQUERA MONTOYA Ivanna Gabriela,3117,2006-01-27,18.4,W,COL,A,73.9,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,88,91,93,93,114,118,121,121,214
+3,4,3,BALLARD Alyssa Marie,1819,2004-08-18,19.8,W,USA,A,75.5,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-88,88,92,92,115,119,-123,119,211
+4,2,5,BEAOUDIN Rose,2034,2006-08-26,17.8,W,CAN,A,75.5,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,87,90,93,93,107,110,113,113,206
+5,5,4,OCHOA RODRIGUEZ Sahara Yeismar,12190,2007-08-06,16.9,W,VEN,A,72.5,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,-89,-89,85,105,110,114,114,199
+6,6,6,ANTIL FICA Fernanda,1259,2004-11-04,19.6,W,CHI,A,75.3,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,75,79,81,81,95,100,-104,100,181
+7,7,7,MORENO Isidora,11292,2007-07-08,16.9,W,CHI,A,71.5,76 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-67,67,-72,67,85,-90,90,90,157
+1,1,2,SENA Jhon,15057,2005-02-15,19.3,M,COL,A,79.9,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,145,150,-154,150,-170,-173,173,173,323
+2,3,1,BOLES Hutton,2392,2004-07-22,19.9,M,USA,A,80.1,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,137,-142,144,144,163,169,174,174,318
+3,2,3,RODRIGUEZ Angel,14105,2006-08-24,17.8,M,VEN,A,78.3,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,140,146,-151,146,165,170,-175,170,316
+4,6,4,OLIVERA DELFINO Ramiro Valentin,12300,2006-08-05,17.9,M,ARG,A,76.3,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,110,-115,115,115,153,161,-168,161,276
+5,5,5,MARMANILLO LAZO Frank Josue,10348,2004-01-15,20.4,M,PER,A,79.3,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,120,125,-130,125,150,-155,-155,150,275
+6,8,6,PEREZ Marco,12975,2007-02-23,17.3,M,CHI,A,76.3,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,100,105,110,110,125,130,135,135,245
+NA,4,NA,MEDINA PINZON Jorge Luis,10670,2004-06-08,20,M,PAN,A,80.6,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-124,124,128,128,-150,-150,-150,NA,NA
+NA,7,NA,VALDIZON CRUZ Jonathan Fernando,17080,2006-12-28,17.5,M,GUA,A,79.7,81 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,108,113,-117,113,-138,-140,-140,NA,NA
+1,1,2,BOLANOS GANGULA Martha Salome,2383,2006-07-24,17.9,W,ECU,A,77.7,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,85,89,92,92,105,109,113,113,205
+2,3,1,SEGURA SOLIS Maricela,15022,2007-01-22,17.4,W,COL,A,78.7,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,80,83,-87,83,110,114,-117,114,197
+3,2,3,APARICIO ALFONZO Lidysmar Del Valle,1283,2009-06-30,15,W,VEN,A,79.7,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,86,-90,-90,86,107,110,-114,110,196
+4,5,4,DE LEON CARDOZA Beverly Shanen,4098,2006-03-09,18.3,W,GUA,A,76.3,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,75,80,82,82,98,100,102,102,184
+5,4,5,BARRIENTOS Victoria,1918,2008-02-28,16.3,W,CHI,A,80.1,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,78,-83,83,83,-98,98,-102,98,181
+6,6,6,GUERRERO LOPEZ Keren Abigail,6133,2005-10-14,18.7,W,ESA,A,79.5,81 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,68,71,-73,71,88,90,NA,90,161
+1,2,1,RUIZ CRUZ Valeria,14357,2004-04-19,20.2,W,COL,A,86.5,87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,94,-98,98,98,116,120,125,125,223
+2,1,2,ROBLES Amanda Denise,14072,2004-07-29,19.9,W,USA,A,86.9,87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,95,99,-103,99,114,118,123,123,222
+3,3,3,HENRIQUEZ DIAZ Zoreannys Valeria,6605,2004-01-28,20.4,W,VEN,A,86.5,87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,-87,87,92,92,-105,-105,105,105,197
+4,4,4,ROJAS Valentina,14202,2008-04-11,16.2,W,CHI,A,85.1,87 kg Women,0,0,603,Pan-American Junior Championships,2024-06-19,75,79,-83,79,95,100,-105,100,179
+1,1,1,ALBORNOZ Jokser,686,2004-04-30,20.1,M,COL,A,87.3,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,150,-155,155,155,177,181,NA,181,336
+2,2,3,LOAIZA MEDINA Mauricio Osvaldo,9659,2006-12-15,17.5,M,VEN,A,84.5,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,139,143,143,168,173,176,176,319
+3,3,4,RAMOS DIAZ Felipe,13688,2005-06-23,19,M,BRA,A,87.9,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,137,142,-145,142,173,-179,-180,173,315
+4,5,2,RAMIREZ MARTINEZ Elkin Shamir,13667,2005-12-16,18.5,M,ECU,A,88.7,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,-139,-139,135,170,174,178,178,313
+5,4,5,MARTIN JR Kyle Justin,10382,2006-10-16,17.7,M,USA,A,88.9,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,138,142,-144,142,170,-174,-175,170,312
+6,6,6,MORENO Matias,11296,2009-04-29,15.1,M,CHI,A,88.9,89 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,116,121,125,125,146,156,160,160,285
+1,2,1,DAVIS JR Timothy Allen,4032,2004-02-17,20.3,M,USA,A,91.9,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,-138,138,143,143,175,181,-187,181,324
+2,1,2,DIAZ CANGA Luis Alfredo,4292,2004-05-10,20.1,M,ECU,A,91.6,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,135,140,144,144,165,171,173,173,317
+3,3,3,UPMEYER George,16963,2004-11-09,19.6,M,USA,A,95.7,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,136,-141,142,142,168,172,-176,172,314
+4,4,4,LEON Carlos,9363,2005-09-06,18.8,M,VEN,A,94.1,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,133,-137,137,137,164,167,172,172,309
+5,5,5,LOPEZ ORDONEZ Julio Abrahan De J,9759,2004-06-03,20,M,GUA,A,93.9,96 kg Men,0,0,603,Pan-American Junior Championships,2024-06-19,108,113,-117,113,135,-140,140,140,253

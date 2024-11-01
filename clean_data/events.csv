@@ -492,5 +492,6 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 599,IWF World Cup - Paris 2024. Qual. Event,2024-03-31,Phuket,THA,senior,0,0,Thailand
 600,IWF World Youth Championships,2024-05-22,Lima,PER,youth,0,0,Peru
 603,Pan-American Junior Championships,2024-06-19,Palmira,COL,junior,0,0,Colombia
+604,XXXIII Olympic Games,2024-08-07,Paris,FRA,senior,1,0,France
 605,Pan-American Youth Championships,2024-08-26,Guayaquil,ECU,youth,0,0,Ecuador
 610,2024 IWF World Junior Championships,2024-09-19,Leon,ESP,junior,0,0,Spain
