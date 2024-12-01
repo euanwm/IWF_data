@@ -491,6 +491,7 @@ event_id,event,date,city,iso_code,age_group,is_olympics,is_university,country
 596,Pan-American Championships,2024-02-24,Caracas,VEN,senior,0,0,"Venezuela, Bolivarian Republic of"
 599,IWF World Cup - Paris 2024. Qual. Event,2024-03-31,Phuket,THA,senior,0,0,Thailand
 600,IWF World Youth Championships,2024-05-22,Lima,PER,youth,0,0,Peru
+602,European Youth Championships,2024-06-15,Thessaloniki,GRE,youth,0,0,NA
 603,Pan-American Junior Championships,2024-06-19,Palmira,COL,junior,0,0,Colombia
 604,XXXIII Olympic Games,2024-08-07,Paris,FRA,senior,1,0,France
 605,Pan-American Youth Championships,2024-08-26,Guayaquil,ECU,youth,0,0,Ecuador
